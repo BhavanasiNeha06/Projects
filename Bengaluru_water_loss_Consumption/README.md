@@ -294,5 +294,4 @@ This project can support operational analysis by helping users:
 
 The project includes the complete workflow from raw data processing through machine learning forecasting, risk analysis, visualization, and dashboard development.
 =======
-# Projects
->>>>>>> 4b2987040c235ff1ba549ec08b4bc872ca9d1568
+
