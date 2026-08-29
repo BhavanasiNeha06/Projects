@@ -1,0 +1,2425 @@
+month,ward_number,ward_name,connections,consumption_ml,location_id
+2025-04-01,1,Kempegowda Ward,4125,114.7,1_kempegowda_ward
+2025-04-01,2,Chowdeshwari Ward,456,10.9,2_chowdeshwari_ward
+2025-04-01,3,Attur,5911,187.01,3_attur
+2025-04-01,4,Yelahanka Satellite Town,7710,415.53,4_yelahanka_satellite_town
+2025-04-01,5,Jakkur,3686,117.07,5_jakkur
+2025-04-01,6,Thanisandra,2739,56.83,6_thanisandra
+2025-04-01,7,Byatarayanapura,9646,321.35,7_byatarayanapura
+2025-04-01,8,Kodigehalli,5312,145.84,8_kodigehalli
+2025-04-01,9,Vidyaranyapura,12933,425.62,9_vidyaranyapura
+2025-04-01,10,Doddabommasandra,1806,28.09,10_doddabommasandra
+2025-04-01,11,Kuvempunagar,4321,64.69,11_kuvempunagar
+2025-04-01,12,Shettyhalli,6599,129.36,12_shettyhalli
+2025-04-01,13,Mallasandra,4475,80.07,13_mallasandra
+2025-04-01,14,Bagalagunte,8716,234.67,14_bagalagunte
+2025-04-01,14,Sidedahalli,1447,30.21,14_sidedahalli
+2025-04-01,15,T. Dasarahalli,4558,172.25,15_t._dasarahalli
+2025-04-01,16,Jalahalli,3106,101.22,16_jalahalli
+2025-04-01,17,J.P.Park,5728,130.19,17_j.p.park
+2025-04-01,18,Radhakrishna Temple Ward,5517,104.81,18_radhakrishna_temple_ward
+2025-04-01,19,Sanjaynagar,5795,83.49,19_sanjaynagar
+2025-04-01,20,Ganganagar,3321,76.76,20_ganganagar
+2025-04-01,21,Hebbal,7423,171.61,21_hebbal
+2025-04-01,22,Vishwanathnagenahalli,3273,85.78,22_vishwanathnagenahalli
+2025-04-01,23,Nagavara,9013,199.59,23_nagavara
+2025-04-01,24,Hbr Layout,8000,251.42,24_hbr_layout
+2025-04-01,25,Horamavu,5195,95.32,25_horamavu
+2025-04-01,26,Ramamurthynagar,9245,259.71,26_ramamurthynagar
+2025-04-01,27,Banasawadi,9565,292.73,27_banasawadi
+2025-04-01,28,Kammanahalli,6629,187.25,28_kammanahalli
+2025-04-01,29,Kacharakanahalli,4843,140.21,29_kacharakanahalli
+2025-04-01,30,Kadugondanahalli,5207,137.32,30_kadugondanahalli
+2025-04-01,31,Kushalnagar,3141,57.32,31_kushalnagar
+2025-04-01,32,Kavalbyrasandra,5575,117.82,32_kavalbyrasandra
+2025-04-01,33,Manorayanapalya,2646,58.59,33_manorayanapalya
+2025-04-01,34,Gangenahalli,2319,53.63,34_gangenahalli
+2025-04-01,35,Aramane Nagar,2945,81.55,35_aramane_nagar
+2025-04-01,36,Mathikere,4132,93.11,36_mathikere
+2025-04-01,37,Yeshwanthpur,3184,66.86,37_yeshwanthpur
+2025-04-01,38,H.M.T,3651,144.79,38_h.m.t
+2025-04-01,39,Chokkasandra,5777,154.95,39_chokkasandra
+2025-04-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-04-01,41,Peenya Industrial Area,6934,206.45,41_peenya_industrial_area
+2025-04-01,42,Lakshmidevinagar,5139,115.56,42_lakshmidevinagar
+2025-04-01,43,Nandini Layout,6431,162.55,43_nandini_layout
+2025-04-01,44,Marappanahalli,4440,128.2,44_marappanahalli
+2025-04-01,45,Malleshwaram,3649,111.08,45_malleshwaram
+2025-04-01,46,Jayachamarajendra Nagar,5311,200.64,46_jayachamarajendra_nagar
+2025-04-01,47,Devarajeevanahalli,3756,79.63,47_devarajeevanahalli
+2025-04-01,48,Muneshwaranagar,2190,36.97,48_muneshwaranagar
+2025-04-01,49,Lingarajapura,5704,98.9,49_lingarajapura
+2025-04-01,50,Benniganahalli,5873,393.16,50_benniganahalli
+2025-04-01,51,Vijinapura,6164,130.3,51_vijinapura
+2025-04-01,52,K.R.Puram,8758,166.47,52_k.r.puram
+2025-04-01,53,Basavanapura,7839,180.35,53_basavanapura
+2025-04-01,54,Hoodi,5061,311.37,54_hoodi
+2025-04-01,55,Devasandra,3181,85.56,55_devasandra
+2025-04-01,56,A. Narayanapura,8391,230.23,56_a._narayanapura
+2025-04-01,57,C.V. Ramannagar,3235,98.7,57_c.v._ramannagar
+2025-04-01,58,Hosathippasandra,6011,165.38,58_hosathippasandra
+2025-04-01,59,Maruthiseva Nagar,5621,164.06,59_maruthiseva_nagar
+2025-04-01,60,Sagayapuram,4404,100.83,60_sagayapuram
+2025-04-01,61,S.K. Garden,2886,83.86,61_s.k._garden
+2025-04-01,62,Ramaswamy Palya,3129,83.76,62_ramaswamy_palya
+2025-04-01,63,Jayamahal,3068,124.91,63_jayamahal
+2025-04-01,64,Rajamahal,3690,95.26,64_rajamahal
+2025-04-01,65,Kadumalleshwara,5599,164.13,65_kadumalleshwara
+2025-04-01,66,Subramanyanagar,4279,131.37,66_subramanyanagar
+2025-04-01,67,Nagapura,5780,189.79,67_nagapura
+2025-04-01,68,Mahalakshmipuram,5083,138.51,68_mahalakshmipuram
+2025-04-01,69,Laggere,10189,259.23,69_laggere
+2025-04-01,70,Rajagopalanagar,8212,209.44,70_rajagopalanagar
+2025-04-01,71,Hegganahalli,8632,243.06,71_hegganahalli
+2025-04-01,72,Herohalli,10279,219.96,72_herohalli
+2025-04-01,73,Kottigepalya,8428,219.85,73_kottigepalya
+2025-04-01,74,Shakthiganapathi Nagar,6104,164.24,74_shakthiganapathi_nagar
+2025-04-01,75,Shankaramata,5201,159.44,75_shankaramata
+2025-04-01,76,Gayathrinagar,4364,117.99,76_gayathrinagar
+2025-04-01,77,Dattathreya Temple,4474,118.81,77_dattathreya_temple
+2025-04-01,78,Pulikeshinagar,3585,122.16,78_pulikeshinagar
+2025-04-01,79,Sarvagnanagar,3457,82.76,79_sarvagnanagar
+2025-04-01,80,Hoysalanagar,5472,162.83,80_hoysalanagar
+2025-04-01,81,Vignananagar,6961,203.26,81_vignananagar
+2025-04-01,82,Garudacharpalya,4322,182.53,82_garudacharpalya
+2025-04-01,83,Kadugodi,859,31.74,83_kadugodi
+2025-04-01,84,Hagadooru,1988,99.94,84_hagadooru
+2025-04-01,85,Doddanekkundi,5543,317.52,85_doddanekkundi
+2025-04-01,85,Varthur,708,68.36,85_varthur
+2025-04-01,86,Marathalli,4521,158.91,86_marathalli
+2025-04-01,87,Hal Airport,4360,94.93,87_hal_airport
+2025-04-01,88,Jeevanbhimanagar,6014,163.31,88_jeevanbhimanagar
+2025-04-01,89,Jogupalya,4074,133.49,89_jogupalya
+2025-04-01,90,Ulsoor,5595,333.61,90_ulsoor
+2025-04-01,91,Bharathinagar,2233,108.84,91_bharathinagar
+2025-04-01,92,Shivajinagar,5116,193.68,92_shivajinagar
+2025-04-01,93,Vasanthnagar,3733,277.32,93_vasanthnagar
+2025-04-01,94,Gandhinagar,4769,350.22,94_gandhinagar
+2025-04-01,95,Subhashnagar,3090,61.12,95_subhashnagar
+2025-04-01,96,Okalipuram,3416,139.88,96_okalipuram
+2025-04-01,97,Dayanandanagar,3492,83.97,97_dayanandanagar
+2025-04-01,98,Prakashnagar,3074,82.36,98_prakashnagar
+2025-04-01,99,Rajajinagar,3908,119.79,99_rajajinagar
+2025-04-01,100,Basaveshwaranagar,5760,177.26,100_basaveshwaranagar
+2025-04-01,101,Kamakshipalya,3679,102.95,101_kamakshipalya
+2025-04-01,102,Vrushabhavathi Nagar,4170,108.23,102_vrushabhavathi_nagar
+2025-04-01,103,Kaveripura,5038,120.28,103_kaveripura
+2025-04-01,104,Govindrajnagara,2867,69.12,104_govindrajnagara
+2025-04-01,105,Agrahara Dasarahalli,3205,106.43,105_agrahara_dasarahalli
+2025-04-01,106,Dr. Rajkumar Ward,2468,90.88,106_dr._rajkumar_ward
+2025-04-01,107,Shivanagar,2453,92.23,107_shivanagar
+2025-04-01,108,Srirammandira Ward,4675,125.64,108_srirammandira_ward
+2025-04-01,109,Chikpet,5590,115.2,109_chikpet
+2025-04-01,110,Sampangiramnagar,3021,137.8,110_sampangiramnagar
+2025-04-01,111,Shanthala Nagar,3773,241.22,111_shanthala_nagar
+2025-04-01,112,Dommalur,4743,211.98,112_dommalur
+2025-04-01,113,Konena Agrahara,3932,131.51,113_konena_agrahara
+2025-04-01,114,Agaram,2927,152.89,114_agaram
+2025-04-01,115,Vannarpet,5169,111.0,115_vannarpet
+2025-04-01,116,Neelasandra,2635,63.04,116_neelasandra
+2025-04-01,117,Shanthinagar,6204,257.64,117_shanthinagar
+2025-04-01,118,Sudamnagar,5136,99.74,118_sudamnagar
+2025-04-01,119,Dharmarayaswamy Temple Ward,4952,99.4,119_dharmarayaswamy_temple_ward
+2025-04-01,120,Cottonpet,3062,65.28,120_cottonpet
+2025-04-01,121,Binnypet,4552,106.7,121_binnypet
+2025-04-01,122,Kempapura Agrahara,3878,86.66,122_kempapura_agrahara
+2025-04-01,123,Vijaynagar,3591,94.86,123_vijaynagar
+2025-04-01,124,Hosahalli,4505,121.1,124_hosahalli
+2025-04-01,125,Marenahalli,3378,94.62,125_marenahalli
+2025-04-01,126,Maruthi Mandira Ward,4020,108.37,126_maruthi_mandira_ward
+2025-04-01,127,Moodalapalya,5827,147.14,127_moodalapalya
+2025-04-01,128,Nagarabhavi,10788,281.93,128_nagarabhavi
+2025-04-01,129,Jnanabharathi Ward,13690,363.63,129_jnanabharathi_ward
+2025-04-01,130,Ullalu,8778,201.38,130_ullalu
+2025-04-01,131,Nayandanahalli,4328,139.38,131_nayandanahalli
+2025-04-01,132,Attiguppe,5466,185.87,132_attiguppe
+2025-04-01,133,Hampinagar,3033,86.64,133_hampinagar
+2025-04-01,134,Bapujinagar,4450,142.84,134_bapujinagar
+2025-04-01,135,Padarayanapura,2000,73.7,135_padarayanapura
+2025-04-01,136,Jagareevanram Nagar,4825,134.73,136_jagareevanram_nagar
+2025-04-01,137,Rayapuram,3451,88.18,137_rayapuram
+2025-04-01,138,Chalavadipalya,2412,56.77,138_chalavadipalya
+2025-04-01,139,K.R. Market,2931,53.52,139_k.r._market
+2025-04-01,140,Chamrajpet,4797,171.7,140_chamrajpet
+2025-04-01,141,Azadnagar,4019,110.04,141_azadnagar
+2025-04-01,142,Sunkenahalli,2843,66.38,142_sunkenahalli
+2025-04-01,143,Vishweshrapuram,4751,119.44,143_vishweshrapuram
+2025-04-01,144,Siddapura,4541,121.53,144_siddapura
+2025-04-01,145,Hombegowdanagar,6496,200.06,145_hombegowdanagar
+2025-04-01,146,Lakkasandra,2834,104.55,146_lakkasandra
+2025-04-01,147,Adugodi,3402,109.28,147_adugodi
+2025-04-01,148,Ejipura,4773,140.99,148_ejipura
+2025-04-01,149,Varthur,3299,150.54,149_varthur
+2025-04-01,150,Bellandur,4468,363.73,150_bellandur
+2025-04-01,151,Koramangala,7103,289.52,151_koramangala
+2025-04-01,152,Sudduguntepalya,4054,153.16,152_sudduguntepalya
+2025-04-01,153,Jayanagar,339,8.47,153_jayanagar
+2025-04-01,153,Jayangar,3638,177.0,153_jayangar
+2025-04-01,154,Basavanagudi,5783,145.01,154_basavanagudi
+2025-04-01,155,Hanumanthanagar,4129,98.16,155_hanumanthanagar
+2025-04-01,156,Srinagar,5661,148.58,156_srinagar
+2025-04-01,157,Gali Anjaneya Swamy Temple Ward,5379,142.84,157_gali_anjaneya_swamy_temple_ward
+2025-04-01,158,Deepanjali Nagar,2932,85.05,158_deepanjali_nagar
+2025-04-01,159,Kengeri,14325,289.82,159_kengeri
+2025-04-01,160,Rajarajeshwarinagar,16092,466.92,160_rajarajeshwarinagar
+2025-04-01,161,Hosakerehalli,7344,186.91,161_hosakerehalli
+2025-04-01,162,Girinagar,7691,195.05,162_girinagar
+2025-04-01,163,Katriguppe,6548,155.45,163_katriguppe
+2025-04-01,164,Vidyapeetha Ward,4720,111.14,164_vidyapeetha_ward
+2025-04-01,165,Ganeshmandira Ward,4481,121.06,165_ganeshmandira_ward
+2025-04-01,166,Karisandra,4632,124.53,166_karisandra
+2025-04-01,167,Yadiyuru,4386,111.26,167_yadiyuru
+2025-04-01,168,Pattabhiramnagar,4307,150.94,168_pattabhiramnagar
+2025-04-01,169,Byrasandra,3834,123.92,169_byrasandra
+2025-04-01,170,Jayanagar East,3877,110.37,170_jayanagar_east
+2025-04-01,171,Gurappanapalya,4049,180.7,171_gurappanapalya
+2025-04-01,172,Madiwala,5543,174.18,172_madiwala
+2025-04-01,173,Jakkasandra,2844,139.54,173_jakkasandra
+2025-04-01,174,Hsr Layout,14047,589.04,174_hsr_layout
+2025-04-01,175,Bommanahalli,6462,297.31,175_bommanahalli
+2025-04-01,176,Btm Layout,7534,262.96,176_btm_layout
+2025-04-01,177,J.P.Nagar,5600,185.89,177_j.p.nagar
+2025-04-01,178,Sarakki,5634,185.99,178_sarakki
+2025-04-01,179,Shakambarinagar,3777,120.01,179_shakambarinagar
+2025-04-01,180,Banashankari Temple Ward,5161,124.02,180_banashankari_temple_ward
+2025-04-01,181,Kumaraswamy Layout,8342,284.52,181_kumaraswamy_layout
+2025-04-01,182,Padmanabhanagar,6033,193.94,182_padmanabhanagar
+2025-04-01,183,Chikkallasandra,5157,136.88,183_chikkallasandra
+2025-04-01,184,Uttarahalli,8753,343.42,184_uttarahalli
+2025-04-01,185,Yelachenahalli,6254,193.81,185_yelachenahalli
+2025-04-01,186,Jaraganahalli,3040,86.49,186_jaraganahalli
+2025-04-01,187,Puttenahalli,4568,156.11,187_puttenahalli
+2025-04-01,188,Bilekahalli,4381,257.4,188_bilekahalli
+2025-04-01,189,Hongasandra,8261,361.2,189_hongasandra
+2025-04-01,190,Mangammanapalya,3166,91.17,190_mangammanapalya
+2025-04-01,191,Singasandra,3301,134.07,191_singasandra
+2025-04-01,191,Singsandra,900,36.5,191_singsandra
+2025-04-01,192,Begur,5945,322.32,192_begur
+2025-04-01,193,Arakere,9960,365.94,193_arakere
+2025-04-01,194,Gottigere,3488,104.74,194_gottigere
+2025-04-01,195,Konanakunte,9935,308.44,195_konanakunte
+2025-04-01,196,Anjanapura,7294,278.96,196_anjanapura
+2025-04-01,197,Vasanthapura,4342,167.12,197_vasanthapura
+2025-04-01,198,Hemmigepura,3752,82.15,198_hemmigepura
+2025-05-01,1,Kempegowda Ward,4216,117.162903,1_kempegowda_ward
+2025-05-01,2,Chowdeshwari Ward,460,9.834984,2_chowdeshwari_ward
+2025-05-01,3,Attur,6021,172.740708,3_attur
+2025-05-01,4,Yelahanka Satellite Town,7738,394.049364,4_yelahanka_satellite_town
+2025-05-01,5,Jakkur,3701,106.378915,5_jakkur
+2025-05-01,6,Thanisandra,3254,58.276968,6_thanisandra
+2025-05-01,7,Byatarayanapura,9677,293.991676,7_byatarayanapura
+2025-05-01,8,Kodigehalli,5326,129.718842,8_kodigehalli
+2025-05-01,9,Vidyaranyapura,12937,413.968716,9_vidyaranyapura
+2025-05-01,10,Doddabommasandra,1815,27.946927,10_doddabommasandra
+2025-05-01,11,Kuvempunagar,4379,64.060929,11_kuvempunagar
+2025-05-01,12,Shettyhalli,6941,141.255896,12_shettyhalli
+2025-05-01,13,Mallasandra,4488,75.69585,13_mallasandra
+2025-05-01,14,Bagalagunte,8755,235.373706,14_bagalagunte
+2025-05-01,14,Sidedahalli,1484,35.449991,14_sidedahalli
+2025-05-01,15,T. Dasarahalli,4563,154.369729,15_t._dasarahalli
+2025-05-01,16,Jalahalli,3106,96.624712,16_jalahalli
+2025-05-01,17,J.P.Park,5734,123.920567,17_j.p.park
+2025-05-01,18,Radhakrishna Temple Ward,5518,99.818419,18_radhakrishna_temple_ward
+2025-05-01,19,Sanjaynagar,5805,81.705648,19_sanjaynagar
+2025-05-01,20,Ganganagar,3323,75.431677,20_ganganagar
+2025-05-01,21,Hebbal,7440,166.686508,21_hebbal
+2025-05-01,22,Vishwanathnagenahalli,3273,81.647843,22_vishwanathnagenahalli
+2025-05-01,23,Nagavara,9030,198.581714,23_nagavara
+2025-05-01,24,Hbr Layout,8045,254.881725,24_hbr_layout
+2025-05-01,25,Horamavu,5956,111.875924,25_horamavu
+2025-05-01,26,Ramamurthynagar,9275,258.446783,26_ramamurthynagar
+2025-05-01,27,Banasawadi,9588,290.771626,27_banasawadi
+2025-05-01,28,Kammanahalli,6629,187.375704,28_kammanahalli
+2025-05-01,29,Kacharakanahalli,4855,137.356726,29_kacharakanahalli
+2025-05-01,30,Kadugondanahalli,5211,137.676756,30_kadugondanahalli
+2025-05-01,31,Kushalnagar,3145,55.447731,31_kushalnagar
+2025-05-01,32,Kavalbyrasandra,5575,119.65161,32_kavalbyrasandra
+2025-05-01,33,Manorayanapalya,2656,61.842865,33_manorayanapalya
+2025-05-01,34,Gangenahalli,2322,53.024765,34_gangenahalli
+2025-05-01,35,Aramane Nagar,2949,78.241563,35_aramane_nagar
+2025-05-01,36,Mathikere,4135,87.519487,36_mathikere
+2025-05-01,37,Yeshwanthpur,3203,62.124588,37_yeshwanthpur
+2025-05-01,38,H.M.T,3651,142.55859,38_h.m.t
+2025-05-01,39,Chokkasandra,5789,137.460621,39_chokkasandra
+2025-05-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-05-01,41,Peenya Industrial Area,7180,200.330235,41_peenya_industrial_area
+2025-05-01,42,Lakshmidevinagar,5139,110.827626,42_lakshmidevinagar
+2025-05-01,43,Nandini Layout,6435,157.265414,43_nandini_layout
+2025-05-01,44,Marappanahalli,4440,125.935334,44_marappanahalli
+2025-05-01,45,Malleshwaram,3652,110.049451,45_malleshwaram
+2025-05-01,46,Jayachamarajendra Nagar,5315,194.482461,46_jayachamarajendra_nagar
+2025-05-01,47,Devarajeevanahalli,3758,81.421968,47_devarajeevanahalli
+2025-05-01,48,Muneshwaranagar,2197,36.84481,48_muneshwaranagar
+2025-05-01,49,Lingarajapura,5709,99.4827,49_lingarajapura
+2025-05-01,50,Benniganahalli,5875,381.666539,50_benniganahalli
+2025-05-01,51,Vijinapura,6182,133.152879,51_vijinapura
+2025-05-01,52,K.R.Puram,8774,160.446882,52_k.r.puram
+2025-05-01,53,Basavanapura,7944,167.134908,53_basavanapura
+2025-05-01,54,Hoodi,5112,328.625894,54_hoodi
+2025-05-01,55,Devasandra,3201,80.751933,55_devasandra
+2025-05-01,56,A. Narayanapura,8394,227.52469,56_a._narayanapura
+2025-05-01,57,C.V. Ramannagar,3243,82.7016,57_c.v._ramannagar
+2025-05-01,58,Hosathippasandra,6018,155.931423,58_hosathippasandra
+2025-05-01,59,Maruthiseva Nagar,5620,164.620274,59_maruthiseva_nagar
+2025-05-01,60,Sagayapuram,4413,97.762688,60_sagayapuram
+2025-05-01,61,S.K. Garden,2885,82.263737,61_s.k._garden
+2025-05-01,62,Ramaswamy Palya,3129,78.322695,62_ramaswamy_palya
+2025-05-01,63,Jayamahal,3070,114.152557,63_jayamahal
+2025-05-01,64,Rajamahal,3692,89.709442,64_rajamahal
+2025-05-01,65,Kadumalleshwara,5601,158.470048,65_kadumalleshwara
+2025-05-01,66,Subramanyanagar,4280,128.363623,66_subramanyanagar
+2025-05-01,67,Nagapura,5781,178.880286,67_nagapura
+2025-05-01,68,Mahalakshmipuram,5090,131.653722,68_mahalakshmipuram
+2025-05-01,69,Laggere,10193,249.190249,69_laggere
+2025-05-01,70,Rajagopalanagar,8234,207.697362,70_rajagopalanagar
+2025-05-01,71,Hegganahalli,8638,234.217365,71_hegganahalli
+2025-05-01,72,Herohalli,10449,211.033904,72_herohalli
+2025-05-01,73,Kottigepalya,8440,205.043573,73_kottigepalya
+2025-05-01,74,Shakthiganapathi Nagar,6105,163.552597,74_shakthiganapathi_nagar
+2025-05-01,75,Shankaramata,5202,151.333702,75_shankaramata
+2025-05-01,76,Gayathrinagar,4368,119.317522,76_gayathrinagar
+2025-05-01,77,Dattathreya Temple,4479,115.475364,77_dattathreya_temple
+2025-05-01,78,Pulikeshinagar,3600,119.374291,78_pulikeshinagar
+2025-05-01,79,Sarvagnanagar,3447,79.854556,79_sarvagnanagar
+2025-05-01,80,Hoysalanagar,5468,161.85611,80_hoysalanagar
+2025-05-01,81,Vignananagar,7006,196.452815,81_vignananagar
+2025-05-01,82,Garudacharpalya,4335,192.16685,82_garudacharpalya
+2025-05-01,83,Kadugodi,893,41.809977,83_kadugodi
+2025-05-01,84,Hagadooru,1997,115.898916,84_hagadooru
+2025-05-01,85,Doddanekkundi,5585,352.123801,85_doddanekkundi
+2025-05-01,85,Varthur,874,80.608999,85_varthur
+2025-05-01,86,Marathalli,4552,152.061627,86_marathalli
+2025-05-01,87,Hal Airport,4368,92.994894,87_hal_airport
+2025-05-01,88,Jeevanbhimanagar,6009,154.661774,88_jeevanbhimanagar
+2025-05-01,89,Jogupalya,4072,133.944481,89_jogupalya
+2025-05-01,90,Ulsoor,5602,334.134066,90_ulsoor
+2025-05-01,91,Bharathinagar,2232,98.87974,91_bharathinagar
+2025-05-01,92,Shivajinagar,5127,210.734564,92_shivajinagar
+2025-05-01,93,Vasanthnagar,3732,247.833114,93_vasanthnagar
+2025-05-01,94,Gandhinagar,4770,355.686467,94_gandhinagar
+2025-05-01,95,Subhashnagar,3091,58.777722,95_subhashnagar
+2025-05-01,96,Okalipuram,3419,141.619605,96_okalipuram
+2025-05-01,97,Dayanandanagar,3495,83.033573,97_dayanandanagar
+2025-05-01,98,Prakashnagar,3075,79.914633,98_prakashnagar
+2025-05-01,99,Rajajinagar,3914,111.847578,99_rajajinagar
+2025-05-01,100,Basaveshwaranagar,5761,170.032536,100_basaveshwaranagar
+2025-05-01,101,Kamakshipalya,3681,101.161744,101_kamakshipalya
+2025-05-01,102,Vrushabhavathi Nagar,4170,109.047777,102_vrushabhavathi_nagar
+2025-05-01,103,Kaveripura,5036,106.625786,103_kaveripura
+2025-05-01,104,Govindrajnagara,2875,70.830807,104_govindrajnagara
+2025-05-01,105,Agrahara Dasarahalli,3208,94.969715,105_agrahara_dasarahalli
+2025-05-01,106,Dr. Rajkumar Ward,2468,83.199639,106_dr._rajkumar_ward
+2025-05-01,107,Shivanagar,2453,85.293681,107_shivanagar
+2025-05-01,108,Srirammandira Ward,4674,119.781149,108_srirammandira_ward
+2025-05-01,109,Chikpet,5596,107.323309,109_chikpet
+2025-05-01,110,Sampangiramnagar,3008,131.926355,110_sampangiramnagar
+2025-05-01,111,Shanthala Nagar,3775,232.39305,111_shanthala_nagar
+2025-05-01,112,Dommalur,4751,192.857449,112_dommalur
+2025-05-01,113,Konena Agrahara,3931,123.475721,113_konena_agrahara
+2025-05-01,114,Agaram,2928,152.394739,114_agaram
+2025-05-01,115,Vannarpet,5170,108.132011,115_vannarpet
+2025-05-01,116,Neelasandra,2637,63.282671,116_neelasandra
+2025-05-01,117,Shanthinagar,6207,254.725243,117_shanthinagar
+2025-05-01,118,Sudamnagar,5143,97.420952,118_sudamnagar
+2025-05-01,119,Dharmarayaswamy Temple Ward,4963,95.417962,119_dharmarayaswamy_temple_ward
+2025-05-01,120,Cottonpet,3063,60.490453,120_cottonpet
+2025-05-01,121,Binnypet,4567,103.995717,121_binnypet
+2025-05-01,122,Kempapura Agrahara,3880,85.911877,122_kempapura_agrahara
+2025-05-01,123,Vijaynagar,3594,91.408822,123_vijaynagar
+2025-05-01,124,Hosahalli,4506,118.094825,124_hosahalli
+2025-05-01,125,Marenahalli,3389,90.983812,125_marenahalli
+2025-05-01,126,Maruthi Mandira Ward,4021,104.771818,126_maruthi_mandira_ward
+2025-05-01,127,Moodalapalya,5838,134.324715,127_moodalapalya
+2025-05-01,128,Nagarabhavi,10806,269.50334,128_nagarabhavi
+2025-05-01,129,Jnanabharathi Ward,13728,345.978554,129_jnanabharathi_ward
+2025-05-01,130,Ullalu,8861,193.780847,130_ullalu
+2025-05-01,131,Nayandanahalli,4342,127.168738,131_nayandanahalli
+2025-05-01,132,Attiguppe,5472,176.13573,132_attiguppe
+2025-05-01,133,Hampinagar,3027,84.724916,133_hampinagar
+2025-05-01,134,Bapujinagar,4445,134.983848,134_bapujinagar
+2025-05-01,135,Padarayanapura,2026,72.685915,135_padarayanapura
+2025-05-01,136,Jagareevanram Nagar,4823,129.442654,136_jagareevanram_nagar
+2025-05-01,137,Rayapuram,3459,82.687897,137_rayapuram
+2025-05-01,138,Chalavadipalya,2391,55.44385,138_chalavadipalya
+2025-05-01,139,K.R. Market,2928,51.025021,139_k.r._market
+2025-05-01,140,Chamrajpet,4781,167.298275,140_chamrajpet
+2025-05-01,141,Azadnagar,4020,106.224727,141_azadnagar
+2025-05-01,142,Sunkenahalli,2892,65.56778,142_sunkenahalli
+2025-05-01,143,Vishweshrapuram,4731,118.150168,143_vishweshrapuram
+2025-05-01,144,Siddapura,4482,123.53897,144_siddapura
+2025-05-01,145,Hombegowdanagar,6512,195.781641,145_hombegowdanagar
+2025-05-01,146,Lakkasandra,2834,99.351478,146_lakkasandra
+2025-05-01,147,Adugodi,3410,111.336782,147_adugodi
+2025-05-01,148,Ejipura,4783,138.261629,148_ejipura
+2025-05-01,149,Varthur,3304,162.719888,149_varthur
+2025-05-01,150,Bellandur,4586,366.236874,150_bellandur
+2025-05-01,151,Koramangala,7141,293.649218,151_koramangala
+2025-05-01,152,Sudduguntepalya,4065,150.231599,152_sudduguntepalya
+2025-05-01,153,Jayanagar,339,8.532939,153_jayanagar
+2025-05-01,153,Jayangar,3639,177.259488,153_jayangar
+2025-05-01,154,Basavanagudi,5790,145.827207,154_basavanagudi
+2025-05-01,155,Hanumanthanagar,4134,91.831765,155_hanumanthanagar
+2025-05-01,156,Srinagar,5669,150.041763,156_srinagar
+2025-05-01,157,Gali Anjaneya Swamy Temple Ward,5380,144.656701,157_gali_anjaneya_swamy_temple_ward
+2025-05-01,158,Deepanjali Nagar,2932,84.863883,158_deepanjali_nagar
+2025-05-01,159,Kengeri,14370,285.263301,159_kengeri
+2025-05-01,160,Rajarajeshwarinagar,16178,461.200442,160_rajarajeshwarinagar
+2025-05-01,161,Hosakerehalli,7352,174.81071,161_hosakerehalli
+2025-05-01,162,Girinagar,7722,191.641687,162_girinagar
+2025-05-01,163,Katriguppe,6514,148.072706,163_katriguppe
+2025-05-01,164,Vidyapeetha Ward,4754,107.475651,164_vidyapeetha_ward
+2025-05-01,165,Ganeshmandira Ward,4492,114.317599,165_ganeshmandira_ward
+2025-05-01,166,Karisandra,4635,121.679634,166_karisandra
+2025-05-01,167,Yadiyuru,4395,110.009544,167_yadiyuru
+2025-05-01,168,Pattabhiramnagar,4310,143.078301,168_pattabhiramnagar
+2025-05-01,169,Byrasandra,3834,118.080591,169_byrasandra
+2025-05-01,170,Jayanagar East,3885,106.826715,170_jayanagar_east
+2025-05-01,171,Gurappanapalya,4053,181.812726,171_gurappanapalya
+2025-05-01,172,Madiwala,5565,174.516595,172_madiwala
+2025-05-01,173,Jakkasandra,2855,135.570756,173_jakkasandra
+2025-05-01,174,Hsr Layout,14074,570.214951,174_hsr_layout
+2025-05-01,175,Bommanahalli,6496,292.759758,175_bommanahalli
+2025-05-01,176,Btm Layout,7547,256.100431,176_btm_layout
+2025-05-01,177,J.P.Nagar,5605,184.008591,177_j.p.nagar
+2025-05-01,178,Sarakki,5625,177.076511,178_sarakki
+2025-05-01,179,Shakambarinagar,3775,113.926578,179_shakambarinagar
+2025-05-01,180,Banashankari Temple Ward,5167,118.676678,180_banashankari_temple_ward
+2025-05-01,181,Kumaraswamy Layout,8353,265.596624,181_kumaraswamy_layout
+2025-05-01,182,Padmanabhanagar,6033,181.428747,182_padmanabhanagar
+2025-05-01,183,Chikkallasandra,5161,135.428797,183_chikkallasandra
+2025-05-01,184,Uttarahalli,9027,319.669838,184_uttarahalli
+2025-05-01,185,Yelachenahalli,6472,190.473755,185_yelachenahalli
+2025-05-01,186,Jaraganahalli,3042,79.164828,186_jaraganahalli
+2025-05-01,187,Puttenahalli,4586,153.1398,187_puttenahalli
+2025-05-01,188,Bilekahalli,4382,243.745832,188_bilekahalli
+2025-05-01,189,Hongasandra,8287,350.52686,189_hongasandra
+2025-05-01,190,Mangammanapalya,3197,90.89089,190_mangammanapalya
+2025-05-01,191,Singasandra,3366,130.493976,191_singasandra
+2025-05-01,191,Singsandra,906,35.801957,191_singsandra
+2025-05-01,192,Begur,6254,317.500943,192_begur
+2025-05-01,193,Arakere,9985,367.116503,193_arakere
+2025-05-01,194,Gottigere,3616,97.966944,194_gottigere
+2025-05-01,195,Konanakunte,9973,295.339582,195_konanakunte
+2025-05-01,196,Anjanapura,7529,277.485835,196_anjanapura
+2025-05-01,197,Vasanthapura,4341,151.926934,197_vasanthapura
+2025-05-01,198,Hemmigepura,3932,87.627895,198_hemmigepura
+2025-06-01,1,Kempegowda Ward,4218,112.883906,1_kempegowda_ward
+2025-06-01,2,Chowdeshwari Ward,460,9.808984,2_chowdeshwari_ward
+2025-06-01,3,Attur,6109,170.257709,3_attur
+2025-06-01,4,Yelahanka Satellite Town,7741,405.676363,4_yelahanka_satellite_town
+2025-06-01,5,Jakkur,3752,108.076916,5_jakkur
+2025-06-01,6,Thanisandra,3568,53.430968,6_thanisandra
+2025-06-01,7,Byatarayanapura,9681,300.193673,7_byatarayanapura
+2025-06-01,8,Kodigehalli,5334,134.167843,8_kodigehalli
+2025-06-01,9,Vidyaranyapura,12942,413.181715,9_vidyaranyapura
+2025-06-01,10,Doddabommasandra,1821,28.410926,10_doddabommasandra
+2025-06-01,11,Kuvempunagar,4395,65.055924,11_kuvempunagar
+2025-06-01,12,Shettyhalli,7363,140.510895,12_shettyhalli
+2025-06-01,13,Mallasandra,4505,74.839848,13_mallasandra
+2025-06-01,14,Bagalagunte,8761,232.996703,14_bagalagunte
+2025-06-01,14,Sidedahalli,1530,40.214991,14_sidedahalli
+2025-06-01,15,T. Dasarahalli,4567,145.757728,15_t._dasarahalli
+2025-06-01,16,Jalahalli,3105,94.738711,16_jalahalli
+2025-06-01,17,J.P.Park,5734,130.249564,17_j.p.park
+2025-06-01,18,Radhakrishna Temple Ward,5520,100.244418,18_radhakrishna_temple_ward
+2025-06-01,19,Sanjaynagar,5805,85.176647,19_sanjaynagar
+2025-06-01,20,Ganganagar,3328,72.917677,20_ganganagar
+2025-06-01,21,Hebbal,7455,168.077498,21_hebbal
+2025-06-01,22,Vishwanathnagenahalli,3277,79.76684,22_vishwanathnagenahalli
+2025-06-01,23,Nagavara,9052,198.719715,23_nagavara
+2025-06-01,24,Hbr Layout,8075,240.231719,24_hbr_layout
+2025-06-01,25,Horamavu,6532,122.770924,25_horamavu
+2025-06-01,26,Ramamurthynagar,9330,263.872784,26_ramamurthynagar
+2025-06-01,27,Banasawadi,9609,288.539625,27_banasawadi
+2025-06-01,28,Kammanahalli,6628,183.093704,28_kammanahalli
+2025-06-01,29,Kacharakanahalli,4861,134.685729,29_kacharakanahalli
+2025-06-01,30,Kadugondanahalli,5210,138.964754,30_kadugondanahalli
+2025-06-01,31,Kushalnagar,3137,58.157739,31_kushalnagar
+2025-06-01,32,Kavalbyrasandra,5576,112.744608,32_kavalbyrasandra
+2025-06-01,33,Manorayanapalya,2664,59.735868,33_manorayanapalya
+2025-06-01,34,Gangenahalli,2322,48.011764,34_gangenahalli
+2025-06-01,35,Aramane Nagar,2953,79.791557,35_aramane_nagar
+2025-06-01,36,Mathikere,4135,90.985492,36_mathikere
+2025-06-01,37,Yeshwanthpur,3208,61.783584,37_yeshwanthpur
+2025-06-01,38,H.M.T,3654,137.555591,38_h.m.t
+2025-06-01,39,Chokkasandra,5811,140.930617,39_chokkasandra
+2025-06-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-06-01,41,Peenya Industrial Area,7549,195.207224,41_peenya_industrial_area
+2025-06-01,42,Lakshmidevinagar,5141,105.117626,42_lakshmidevinagar
+2025-06-01,43,Nandini Layout,6437,154.325416,43_nandini_layout
+2025-06-01,44,Marappanahalli,4439,124.247324,44_marappanahalli
+2025-06-01,45,Malleshwaram,3652,105.58145,45_malleshwaram
+2025-06-01,46,Jayachamarajendra Nagar,5320,181.330459,46_jayachamarajendra_nagar
+2025-06-01,47,Devarajeevanahalli,3766,80.001968,47_devarajeevanahalli
+2025-06-01,48,Muneshwaranagar,2197,37.13181,48_muneshwaranagar
+2025-06-01,49,Lingarajapura,5721,95.288697,49_lingarajapura
+2025-06-01,50,Benniganahalli,5855,367.850544,50_benniganahalli
+2025-06-01,51,Vijinapura,6196,129.934883,51_vijinapura
+2025-06-01,52,K.R.Puram,8831,168.301882,52_k.r.puram
+2025-06-01,53,Basavanapura,8086,188.70491,53_basavanapura
+2025-06-01,54,Hoodi,5137,315.296895,54_hoodi
+2025-06-01,55,Devasandra,3223,81.481933,55_devasandra
+2025-06-01,56,A. Narayanapura,8396,228.107695,56_a._narayanapura
+2025-06-01,57,C.V. Ramannagar,3244,81.322603,57_c.v._ramannagar
+2025-06-01,58,Hosathippasandra,6020,151.458424,58_hosathippasandra
+2025-06-01,59,Maruthiseva Nagar,5577,161.298277,59_maruthiseva_nagar
+2025-06-01,60,Sagayapuram,4406,98.364688,60_sagayapuram
+2025-06-01,61,S.K. Garden,2880,79.395742,61_s.k._garden
+2025-06-01,62,Ramaswamy Palya,3129,78.750696,62_ramaswamy_palya
+2025-06-01,63,Jayamahal,3072,119.963553,63_jayamahal
+2025-06-01,64,Rajamahal,3692,92.203438,64_rajamahal
+2025-06-01,65,Kadumalleshwara,5601,157.508054,65_kadumalleshwara
+2025-06-01,66,Subramanyanagar,4280,121.23062,66_subramanyanagar
+2025-06-01,67,Nagapura,5780,176.13729,67_nagapura
+2025-06-01,68,Mahalakshmipuram,5090,119.764729,68_mahalakshmipuram
+2025-06-01,69,Laggere,10212,248.021244,69_laggere
+2025-06-01,70,Rajagopalanagar,8244,201.164368,70_rajagopalanagar
+2025-06-01,71,Hegganahalli,8643,241.877364,71_hegganahalli
+2025-06-01,72,Herohalli,10672,206.230903,72_herohalli
+2025-06-01,73,Kottigepalya,8452,204.271573,73_kottigepalya
+2025-06-01,74,Shakthiganapathi Nagar,6108,161.789599,74_shakthiganapathi_nagar
+2025-06-01,75,Shankaramata,5206,148.415701,75_shankaramata
+2025-06-01,76,Gayathrinagar,4371,118.492529,76_gayathrinagar
+2025-06-01,77,Dattathreya Temple,4480,115.808363,77_dattathreya_temple
+2025-06-01,78,Pulikeshinagar,3576,118.685301,78_pulikeshinagar
+2025-06-01,79,Sarvagnanagar,3434,79.998555,79_sarvagnanagar
+2025-06-01,80,Hoysalanagar,5465,154.061095,80_hoysalanagar
+2025-06-01,81,Vignananagar,7018,199.512806,81_vignananagar
+2025-06-01,82,Garudacharpalya,4339,188.172849,82_garudacharpalya
+2025-06-01,83,Kadugodi,937,46.608975,83_kadugodi
+2025-06-01,84,Hagadooru,1998,123.214916,84_hagadooru
+2025-06-01,85,Doddanekkundi,5600,349.213803,85_doddanekkundi
+2025-06-01,85,Varthur,1000,90.128999,85_varthur
+2025-06-01,86,Marathalli,4592,158.856624,86_marathalli
+2025-06-01,87,Hal Airport,4369,93.435892,87_hal_airport
+2025-06-01,88,Jeevanbhimanagar,6008,152.305768,88_jeevanbhimanagar
+2025-06-01,89,Jogupalya,4071,128.261486,89_jogupalya
+2025-06-01,90,Ulsoor,5605,327.026064,90_ulsoor
+2025-06-01,91,Bharathinagar,2232,96.06074,91_bharathinagar
+2025-06-01,92,Shivajinagar,5135,208.052563,92_shivajinagar
+2025-06-01,93,Vasanthnagar,3732,253.786112,93_vasanthnagar
+2025-06-01,94,Gandhinagar,4770,384.449458,94_gandhinagar
+2025-06-01,95,Subhashnagar,3091,59.783722,95_subhashnagar
+2025-06-01,96,Okalipuram,3419,131.033607,96_okalipuram
+2025-06-01,97,Dayanandanagar,3496,84.843577,97_dayanandanagar
+2025-06-01,98,Prakashnagar,3074,82.649624,98_prakashnagar
+2025-06-01,99,Rajajinagar,3920,115.832573,99_rajajinagar
+2025-06-01,100,Basaveshwaranagar,5763,172.070536,100_basaveshwaranagar
+2025-06-01,101,Kamakshipalya,3682,95.97975,101_kamakshipalya
+2025-06-01,102,Vrushabhavathi Nagar,4171,99.551777,102_vrushabhavathi_nagar
+2025-06-01,103,Kaveripura,5037,108.619788,103_kaveripura
+2025-06-01,104,Govindrajnagara,2877,67.934803,104_govindrajnagara
+2025-06-01,105,Agrahara Dasarahalli,3209,93.150714,105_agrahara_dasarahalli
+2025-06-01,106,Dr. Rajkumar Ward,2469,85.758641,106_dr._rajkumar_ward
+2025-06-01,107,Shivanagar,2454,88.380684,107_shivanagar
+2025-06-01,108,Srirammandira Ward,4675,118.221152,108_srirammandira_ward
+2025-06-01,109,Chikpet,5597,113.139306,109_chikpet
+2025-06-01,110,Sampangiramnagar,3008,132.975356,110_sampangiramnagar
+2025-06-01,111,Shanthala Nagar,3775,234.345048,111_shanthala_nagar
+2025-06-01,112,Dommalur,4756,198.061445,112_dommalur
+2025-06-01,113,Konena Agrahara,3932,131.062724,113_konena_agrahara
+2025-06-01,114,Agaram,2928,157.703739,114_agaram
+2025-06-01,115,Vannarpet,5170,108.512011,115_vannarpet
+2025-06-01,116,Neelasandra,2639,63.21267,116_neelasandra
+2025-06-01,117,Shanthinagar,6210,246.346237,117_shanthinagar
+2025-06-01,118,Sudamnagar,5143,102.94595,118_sudamnagar
+2025-06-01,119,Dharmarayaswamy Temple Ward,4968,99.841961,119_dharmarayaswamy_temple_ward
+2025-06-01,120,Cottonpet,3063,63.654457,120_cottonpet
+2025-06-01,121,Binnypet,4568,105.210713,121_binnypet
+2025-06-01,122,Kempapura Agrahara,3892,88.038879,122_kempapura_agrahara
+2025-06-01,123,Vijaynagar,3600,93.564817,123_vijaynagar
+2025-06-01,124,Hosahalli,4507,117.534827,124_hosahalli
+2025-06-01,125,Marenahalli,3389,94.15481,125_marenahalli
+2025-06-01,126,Maruthi Mandira Ward,4021,101.675819,126_maruthi_mandira_ward
+2025-06-01,127,Moodalapalya,5843,134.363714,127_moodalapalya
+2025-06-01,128,Nagarabhavi,10830,260.820342,128_nagarabhavi
+2025-06-01,129,Jnanabharathi Ward,13787,333.93756,129_jnanabharathi_ward
+2025-06-01,130,Ullalu,9012,193.315846,130_ullalu
+2025-06-01,131,Nayandanahalli,4349,124.739735,131_nayandanahalli
+2025-06-01,132,Attiguppe,5472,173.85573,132_attiguppe
+2025-06-01,133,Hampinagar,3027,84.487917,133_hampinagar
+2025-06-01,134,Bapujinagar,4458,132.311846,134_bapujinagar
+2025-06-01,135,Padarayanapura,2027,73.043915,135_padarayanapura
+2025-06-01,136,Jagareevanram Nagar,4827,131.270654,136_jagareevanram_nagar
+2025-06-01,137,Rayapuram,3459,81.732898,137_rayapuram
+2025-06-01,138,Chalavadipalya,2391,55.790851,138_chalavadipalya
+2025-06-01,139,K.R. Market,2928,54.062027,139_k.r._market
+2025-06-01,140,Chamrajpet,4785,165.876273,140_chamrajpet
+2025-06-01,141,Azadnagar,4026,109.803729,141_azadnagar
+2025-06-01,142,Sunkenahalli,2893,66.158773,142_sunkenahalli
+2025-06-01,143,Vishweshrapuram,4732,122.120172,143_vishweshrapuram
+2025-06-01,144,Siddapura,4483,127.001971,144_siddapura
+2025-06-01,145,Hombegowdanagar,6521,199.944646,145_hombegowdanagar
+2025-06-01,146,Lakkasandra,2834,95.688479,146_lakkasandra
+2025-06-01,147,Adugodi,3410,108.204782,147_adugodi
+2025-06-01,148,Ejipura,4786,138.668628,148_ejipura
+2025-06-01,149,Varthur,3304,167.414887,149_varthur
+2025-06-01,150,Bellandur,4766,334.916877,150_bellandur
+2025-06-01,151,Koramangala,7146,290.214217,151_koramangala
+2025-06-01,152,Sudduguntepalya,4073,144.292601,152_sudduguntepalya
+2025-06-01,153,Jayanagar,340,9.71594,153_jayanagar
+2025-06-01,153,Jayangar,3643,168.700485,153_jayangar
+2025-06-01,154,Basavanagudi,5792,137.534205,154_basavanagudi
+2025-06-01,155,Hanumanthanagar,4137,88.739762,155_hanumanthanagar
+2025-06-01,156,Srinagar,5672,143.67676,156_srinagar
+2025-06-01,157,Gali Anjaneya Swamy Temple Ward,5382,138.8667,157_gali_anjaneya_swamy_temple_ward
+2025-06-01,158,Deepanjali Nagar,2933,77.106885,158_deepanjali_nagar
+2025-06-01,159,Kengeri,14453,290.123297,159_kengeri
+2025-06-01,160,Rajarajeshwarinagar,16297,454.761435,160_rajarajeshwarinagar
+2025-06-01,161,Hosakerehalli,7363,168.984706,161_hosakerehalli
+2025-06-01,162,Girinagar,7733,192.095687,162_girinagar
+2025-06-01,163,Katriguppe,6518,146.495708,163_katriguppe
+2025-06-01,164,Vidyapeetha Ward,4754,108.01665,164_vidyapeetha_ward
+2025-06-01,165,Ganeshmandira Ward,4494,111.421596,165_ganeshmandira_ward
+2025-06-01,166,Karisandra,4636,121.137637,166_karisandra
+2025-06-01,167,Yadiyuru,4395,108.17055,167_yadiyuru
+2025-06-01,168,Pattabhiramnagar,4302,151.57331,168_pattabhiramnagar
+2025-06-01,169,Byrasandra,3839,117.212586,169_byrasandra
+2025-06-01,170,Jayanagar East,3888,104.894709,170_jayanagar_east
+2025-06-01,171,Gurappanapalya,4061,185.442721,171_gurappanapalya
+2025-06-01,172,Madiwala,5570,173.184595,172_madiwala
+2025-06-01,173,Jakkasandra,2855,126.029759,173_jakkasandra
+2025-06-01,174,Hsr Layout,14105,572.166949,174_hsr_layout
+2025-06-01,175,Bommanahalli,6504,297.594763,175_bommanahalli
+2025-06-01,176,Btm Layout,7549,258.409435,176_btm_layout
+2025-06-01,177,J.P.Nagar,5613,176.659589,177_j.p.nagar
+2025-06-01,178,Sarakki,5619,177.153531,178_sarakki
+2025-06-01,179,Shakambarinagar,3774,113.19858,179_shakambarinagar
+2025-06-01,180,Banashankari Temple Ward,5171,120.24768,180_banashankari_temple_ward
+2025-06-01,181,Kumaraswamy Layout,8364,269.272627,181_kumaraswamy_layout
+2025-06-01,182,Padmanabhanagar,6036,184.283748,182_padmanabhanagar
+2025-06-01,183,Chikkallasandra,5170,132.392797,183_chikkallasandra
+2025-06-01,184,Uttarahalli,9119,327.472837,184_uttarahalli
+2025-06-01,185,Yelachenahalli,6523,198.628751,185_yelachenahalli
+2025-06-01,186,Jaraganahalli,3043,83.844829,186_jaraganahalli
+2025-06-01,187,Puttenahalli,4605,155.1418,187_puttenahalli
+2025-06-01,188,Bilekahalli,4393,254.096835,188_bilekahalli
+2025-06-01,189,Hongasandra,8314,352.880862,189_hongasandra
+2025-06-01,190,Mangammanapalya,3214,91.500888,190_mangammanapalya
+2025-06-01,191,Singasandra,3620,135.718974,191_singasandra
+2025-06-01,191,Singsandra,952,38.057957,191_singsandra
+2025-06-01,192,Begur,6490,316.796943,192_begur
+2025-06-01,193,Arakere,9995,362.9845,193_arakere
+2025-06-01,194,Gottigere,3671,99.342945,194_gottigere
+2025-06-01,195,Konanakunte,10054,298.778588,195_konanakunte
+2025-06-01,196,Anjanapura,7857,285.093835,196_anjanapura
+2025-06-01,197,Vasanthapura,4315,153.019933,197_vasanthapura
+2025-06-01,198,Hemmigepura,4120,95.993893,198_hemmigepura
+2025-07-01,1,Kempegowda Ward,4240,116.97,1_kempegowda_ward
+2025-07-01,2,Chowdeshwari Ward,461,25.69,2_chowdeshwari_ward
+2025-07-01,3,Attur,6231,180.05,3_attur
+2025-07-01,4,Yelahanka Satellite Town,7744,373.52,4_yelahanka_satellite_town
+2025-07-01,5,Jakkur,3805,102.19,5_jakkur
+2025-07-01,6,Thanisandra,3696,59.43,6_thanisandra
+2025-07-01,7,Byatarayanapura,9693,285.44,7_byatarayanapura
+2025-07-01,8,Kodigehalli,5352,129.2,8_kodigehalli
+2025-07-01,9,Vidyaranyapura,12957,383.3,9_vidyaranyapura
+2025-07-01,10,Doddabommasandra,1830,27.82,10_doddabommasandra
+2025-07-01,11,Kuvempunagar,4410,63.2,11_kuvempunagar
+2025-07-01,12,Shettyhalli,7795,135.78,12_shettyhalli
+2025-07-01,13,Mallasandra,4514,75.36,13_mallasandra
+2025-07-01,14,Bagalagunte,8777,226.23,14_bagalagunte
+2025-07-01,14,Sidedahalli,1556,38.3,14_sidedahalli
+2025-07-01,15,T. Dasarahalli,4573,149.83,15_t._dasarahalli
+2025-07-01,16,Jalahalli,3105,99.09,16_jalahalli
+2025-07-01,17,J.P.Park,5734,125.86,17_j.p.park
+2025-07-01,18,Radhakrishna Temple Ward,5515,98.61,18_radhakrishna_temple_ward
+2025-07-01,19,Sanjaynagar,5815,83.11,19_sanjaynagar
+2025-07-01,20,Ganganagar,3329,71.21,20_ganganagar
+2025-07-01,21,Hebbal,7463,157.39,21_hebbal
+2025-07-01,22,Vishwanathnagenahalli,3278,76.35,22_vishwanathnagenahalli
+2025-07-01,23,Nagavara,9077,185.53,23_nagavara
+2025-07-01,24,Hbr Layout,8121,237.47,24_hbr_layout
+2025-07-01,25,Horamavu,10381,146.72,25_horamavu
+2025-07-01,26,Ramamurthynagar,9438,255.89,26_ramamurthynagar
+2025-07-01,27,Banasawadi,9610,277.87,27_banasawadi
+2025-07-01,28,Kammanahalli,6633,175.07,28_kammanahalli
+2025-07-01,29,Kacharakanahalli,4862,130.62,29_kacharakanahalli
+2025-07-01,30,Kadugondanahalli,5197,133.59,30_kadugondanahalli
+2025-07-01,31,Kushalnagar,3146,54.13,31_kushalnagar
+2025-07-01,32,Kavalbyrasandra,5577,108.68,32_kavalbyrasandra
+2025-07-01,33,Manorayanapalya,2673,59.46,33_manorayanapalya
+2025-07-01,34,Gangenahalli,2322,52.66,34_gangenahalli
+2025-07-01,35,Aramane Nagar,2959,81.92,35_aramane_nagar
+2025-07-01,36,Mathikere,4139,86.16,36_mathikere
+2025-07-01,37,Yeshwanthpur,3212,61.95,37_yeshwanthpur
+2025-07-01,38,H.M.T,3654,141.6,38_h.m.t
+2025-07-01,39,Chokkasandra,5832,135.79,39_chokkasandra
+2025-07-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-07-01,41,Peenya Industrial Area,7930,205.09,41_peenya_industrial_area
+2025-07-01,42,Lakshmidevinagar,5145,108.79,42_lakshmidevinagar
+2025-07-01,43,Nandini Layout,6443,152.39,43_nandini_layout
+2025-07-01,44,Marappanahalli,4440,118.27,44_marappanahalli
+2025-07-01,45,Malleshwaram,3655,109.39,45_malleshwaram
+2025-07-01,46,Jayachamarajendra Nagar,5322,178.24,46_jayachamarajendra_nagar
+2025-07-01,47,Devarajeevanahalli,3769,81.01,47_devarajeevanahalli
+2025-07-01,48,Muneshwaranagar,2198,36.37,48_muneshwaranagar
+2025-07-01,49,Lingarajapura,5728,92.37,49_lingarajapura
+2025-07-01,50,Benniganahalli,5856,339.2,50_benniganahalli
+2025-07-01,51,Vijinapura,6213,126.7,51_vijinapura
+2025-07-01,52,K.R.Puram,8846,159.87,52_k.r.puram
+2025-07-01,53,Basavanapura,8180,196.29,53_basavanapura
+2025-07-01,54,Hoodi,5151,320.46,54_hoodi
+2025-07-01,55,Devasandra,3256,81.75,55_devasandra
+2025-07-01,56,A. Narayanapura,8410,233.72,56_a._narayanapura
+2025-07-01,57,C.V. Ramannagar,3263,78.66,57_c.v._ramannagar
+2025-07-01,58,Hosathippasandra,6022,147.89,58_hosathippasandra
+2025-07-01,59,Maruthiseva Nagar,5580,155.69,59_maruthiseva_nagar
+2025-07-01,60,Sagayapuram,4397,95.06,60_sagayapuram
+2025-07-01,61,S.K. Garden,2881,78.04,61_s.k._garden
+2025-07-01,62,Ramaswamy Palya,3129,76.24,62_ramaswamy_palya
+2025-07-01,63,Jayamahal,3074,124.13,63_jayamahal
+2025-07-01,64,Rajamahal,3693,90.71,64_rajamahal
+2025-07-01,65,Kadumalleshwara,5603,157.15,65_kadumalleshwara
+2025-07-01,66,Subramanyanagar,4280,122.24,66_subramanyanagar
+2025-07-01,67,Nagapura,5786,175.92,67_nagapura
+2025-07-01,68,Mahalakshmipuram,5092,118.59,68_mahalakshmipuram
+2025-07-01,69,Laggere,10223,244.65,69_laggere
+2025-07-01,70,Rajagopalanagar,8274,203.46,70_rajagopalanagar
+2025-07-01,71,Hegganahalli,8654,231.78,71_hegganahalli
+2025-07-01,72,Herohalli,10841,203.81,72_herohalli
+2025-07-01,73,Kottigepalya,8460,203.19,73_kottigepalya
+2025-07-01,74,Shakthiganapathi Nagar,6108,155.92,74_shakthiganapathi_nagar
+2025-07-01,75,Shankaramata,5210,148.22,75_shankaramata
+2025-07-01,76,Gayathrinagar,4372,112.13,76_gayathrinagar
+2025-07-01,77,Dattathreya Temple,4482,110.84,77_dattathreya_temple
+2025-07-01,78,Pulikeshinagar,3577,117.11,78_pulikeshinagar
+2025-07-01,79,Sarvagnanagar,3431,81.21,79_sarvagnanagar
+2025-07-01,80,Hoysalanagar,5464,158.26,80_hoysalanagar
+2025-07-01,81,Vignananagar,7047,203.49,81_vignananagar
+2025-07-01,82,Garudacharpalya,4346,186.88,82_garudacharpalya
+2025-07-01,83,Kadugodi,962,42.89,83_kadugodi
+2025-07-01,84,Hagadooru,2003,117.83,84_hagadooru
+2025-07-01,85,Doddanekkundi,5643,328.86,85_doddanekkundi
+2025-07-01,85,Varthur,1081,84.51,85_varthur
+2025-07-01,86,Marathalli,4632,156.44,86_marathalli
+2025-07-01,87,Hal Airport,4372,91.06,87_hal_airport
+2025-07-01,88,Jeevanbhimanagar,6005,145.13,88_jeevanbhimanagar
+2025-07-01,89,Jogupalya,4069,131.16,89_jogupalya
+2025-07-01,90,Ulsoor,5602,333.52,90_ulsoor
+2025-07-01,91,Bharathinagar,2237,108.15,91_bharathinagar
+2025-07-01,92,Shivajinagar,5146,207.26,92_shivajinagar
+2025-07-01,93,Vasanthnagar,3735,236.53,93_vasanthnagar
+2025-07-01,94,Gandhinagar,4773,355.45,94_gandhinagar
+2025-07-01,95,Subhashnagar,3091,60.53,95_subhashnagar
+2025-07-01,96,Okalipuram,3419,141.04,96_okalipuram
+2025-07-01,97,Dayanandanagar,3497,83.02,97_dayanandanagar
+2025-07-01,98,Prakashnagar,3074,84.73,98_prakashnagar
+2025-07-01,99,Rajajinagar,3922,113.8,99_rajajinagar
+2025-07-01,100,Basaveshwaranagar,5764,166.51,100_basaveshwaranagar
+2025-07-01,101,Kamakshipalya,3682,95.7,101_kamakshipalya
+2025-07-01,102,Vrushabhavathi Nagar,4173,94.63,102_vrushabhavathi_nagar
+2025-07-01,103,Kaveripura,5037,105.98,103_kaveripura
+2025-07-01,104,Govindrajnagara,2880,66.76,104_govindrajnagara
+2025-07-01,105,Agrahara Dasarahalli,3210,96.27,105_agrahara_dasarahalli
+2025-07-01,106,Dr. Rajkumar Ward,2471,80.77,106_dr._rajkumar_ward
+2025-07-01,107,Shivanagar,2454,88.36,107_shivanagar
+2025-07-01,108,Srirammandira Ward,4677,113.48,108_srirammandira_ward
+2025-07-01,109,Chikpet,5599,110.56,109_chikpet
+2025-07-01,110,Sampangiramnagar,3009,128.36,110_sampangiramnagar
+2025-07-01,111,Shanthala Nagar,3776,229.13,111_shanthala_nagar
+2025-07-01,112,Dommalur,4758,195.97,112_dommalur
+2025-07-01,113,Konena Agrahara,3936,122.6,113_konena_agrahara
+2025-07-01,114,Agaram,2927,150.51,114_agaram
+2025-07-01,115,Vannarpet,5172,107.23,115_vannarpet
+2025-07-01,116,Neelasandra,2641,62.12,116_neelasandra
+2025-07-01,117,Shanthinagar,6211,242.18,117_shanthinagar
+2025-07-01,118,Sudamnagar,5142,100.95,118_sudamnagar
+2025-07-01,119,Dharmarayaswamy Temple Ward,4977,100.52,119_dharmarayaswamy_temple_ward
+2025-07-01,120,Cottonpet,3068,63.19,120_cottonpet
+2025-07-01,121,Binnypet,4568,97.98,121_binnypet
+2025-07-01,122,Kempapura Agrahara,3902,83.09,122_kempapura_agrahara
+2025-07-01,123,Vijaynagar,3605,82.15,123_vijaynagar
+2025-07-01,124,Hosahalli,4509,103.65,124_hosahalli
+2025-07-01,125,Marenahalli,3392,90.52,125_marenahalli
+2025-07-01,126,Maruthi Mandira Ward,4023,100.01,126_maruthi_mandira_ward
+2025-07-01,127,Moodalapalya,5848,125.66,127_moodalapalya
+2025-07-01,128,Nagarabhavi,10844,266.41,128_nagarabhavi
+2025-07-01,129,Jnanabharathi Ward,13819,350.11,129_jnanabharathi_ward
+2025-07-01,130,Ullalu,9051,197.33,130_ullalu
+2025-07-01,131,Nayandanahalli,4357,125.09,131_nayandanahalli
+2025-07-01,132,Attiguppe,5479,171.64,132_attiguppe
+2025-07-01,133,Hampinagar,3027,77.97,133_hampinagar
+2025-07-01,134,Bapujinagar,4463,121.66,134_bapujinagar
+2025-07-01,135,Padarayanapura,2028,71.03,135_padarayanapura
+2025-07-01,136,Jagareevanram Nagar,4823,126.52,136_jagareevanram_nagar
+2025-07-01,137,Rayapuram,3460,81.85,137_rayapuram
+2025-07-01,138,Chalavadipalya,2391,52.87,138_chalavadipalya
+2025-07-01,139,K.R. Market,2926,52.9,139_k.r._market
+2025-07-01,140,Chamrajpet,4775,163.26,140_chamrajpet
+2025-07-01,141,Azadnagar,4024,107.78,141_azadnagar
+2025-07-01,142,Sunkenahalli,2891,63.28,142_sunkenahalli
+2025-07-01,143,Vishweshrapuram,4735,115.49,143_vishweshrapuram
+2025-07-01,144,Siddapura,4485,124.59,144_siddapura
+2025-07-01,145,Hombegowdanagar,6537,200.41,145_hombegowdanagar
+2025-07-01,146,Lakkasandra,2834,93.9,146_lakkasandra
+2025-07-01,147,Adugodi,3410,103.83,147_adugodi
+2025-07-01,148,Ejipura,4787,142.88,148_ejipura
+2025-07-01,149,Varthur,3310,162.36,149_varthur
+2025-07-01,150,Bellandur,4916,390.78,150_bellandur
+2025-07-01,151,Koramangala,7152,307.53,151_koramangala
+2025-07-01,152,Sudduguntepalya,4074,148.29,152_sudduguntepalya
+2025-07-01,153,Jayanagar,340,8.04,153_jayanagar
+2025-07-01,153,Jayangar,3643,166.24,153_jayangar
+2025-07-01,154,Basavanagudi,5795,139.75,154_basavanagudi
+2025-07-01,155,Hanumanthanagar,4138,88.23,155_hanumanthanagar
+2025-07-01,156,Srinagar,5673,141.8,156_srinagar
+2025-07-01,157,Gali Anjaneya Swamy Temple Ward,5383,128.78,157_gali_anjaneya_swamy_temple_ward
+2025-07-01,158,Deepanjali Nagar,2936,74.66,158_deepanjali_nagar
+2025-07-01,159,Kengeri,14480,295.02,159_kengeri
+2025-07-01,160,Rajarajeshwarinagar,16368,452.87,160_rajarajeshwarinagar
+2025-07-01,161,Hosakerehalli,7365,171.35,161_hosakerehalli
+2025-07-01,162,Girinagar,7733,182.82,162_girinagar
+2025-07-01,163,Katriguppe,6524,146.18,163_katriguppe
+2025-07-01,164,Vidyapeetha Ward,4755,106.44,164_vidyapeetha_ward
+2025-07-01,165,Ganeshmandira Ward,4501,110.82,165_ganeshmandira_ward
+2025-07-01,166,Karisandra,4638,117.52,166_karisandra
+2025-07-01,167,Yadiyuru,4402,104.46,167_yadiyuru
+2025-07-01,168,Pattabhiramnagar,4303,147.42,168_pattabhiramnagar
+2025-07-01,169,Byrasandra,3843,119.09,169_byrasandra
+2025-07-01,170,Jayanagar East,3888,104.22,170_jayanagar_east
+2025-07-01,171,Gurappanapalya,4062,183.1,171_gurappanapalya
+2025-07-01,172,Madiwala,5575,165.32,172_madiwala
+2025-07-01,173,Jakkasandra,2856,139.12,173_jakkasandra
+2025-07-01,174,Hsr Layout,14131,596.73,174_hsr_layout
+2025-07-01,175,Bommanahalli,6537,287.42,175_bommanahalli
+2025-07-01,176,Btm Layout,7555,259.0,176_btm_layout
+2025-07-01,177,J.P.Nagar,5616,182.44,177_j.p.nagar
+2025-07-01,178,Sarakki,5621,177.23,178_sarakki
+2025-07-01,179,Shakambarinagar,3775,111.38,179_shakambarinagar
+2025-07-01,180,Banashankari Temple Ward,5175,118.99,180_banashankari_temple_ward
+2025-07-01,181,Kumaraswamy Layout,8385,258.92,181_kumaraswamy_layout
+2025-07-01,182,Padmanabhanagar,6043,177.66,182_padmanabhanagar
+2025-07-01,183,Chikkallasandra,5177,126.98,183_chikkallasandra
+2025-07-01,184,Uttarahalli,9199,310.0,184_uttarahalli
+2025-07-01,185,Yelachenahalli,6626,194.72,185_yelachenahalli
+2025-07-01,186,Jaraganahalli,3045,86.76,186_jaraganahalli
+2025-07-01,187,Puttenahalli,4625,156.49,187_puttenahalli
+2025-07-01,188,Bilekahalli,4399,264.38,188_bilekahalli
+2025-07-01,189,Hongasandra,8337,350.71,189_hongasandra
+2025-07-01,190,Mangammanapalya,3235,93.8,190_mangammanapalya
+2025-07-01,191,Singasandra,3845,156.29,191_singasandra
+2025-07-01,191,Singsandra,953,36.54,191_singsandra
+2025-07-01,192,Begur,6715,332.33,192_begur
+2025-07-01,193,Arakere,10029,371.81,193_arakere
+2025-07-01,194,Gottigere,3835,96.95,194_gottigere
+2025-07-01,195,Konanakunte,10134,300.36,195_konanakunte
+2025-07-01,196,Anjanapura,8284,285.75,196_anjanapura
+2025-07-01,197,Vasanthapura,4304,145.58,197_vasanthapura
+2025-07-01,198,Hemmigepura,4338,108.24,198_hemmigepura
+2025-08-01,1,Kempegowda Ward,4247,114.25,1_kempegowda_ward
+2025-08-01,2,Chowdeshwari Ward,463,23.62,2_chowdeshwari_ward
+2025-08-01,3,Attur,6278,173.1,3_attur
+2025-08-01,4,Yelahanka Satellite Town,7750,390.73,4_yelahanka_satellite_town
+2025-08-01,5,Jakkur,3846,106.07,5_jakkur
+2025-08-01,6,Thanisandra,3715,53.84,6_thanisandra
+2025-08-01,7,Byatarayanapura,9705,285.71,7_byatarayanapura
+2025-08-01,8,Kodigehalli,5392,127.78,8_kodigehalli
+2025-08-01,9,Vidyaranyapura,12962,390.23,9_vidyaranyapura
+2025-08-01,10,Doddabommasandra,1842,27.62,10_doddabommasandra
+2025-08-01,11,Kuvempunagar,4462,60.42,11_kuvempunagar
+2025-08-01,12,Shettyhalli,8074,136.85,12_shettyhalli
+2025-08-01,13,Mallasandra,4524,72.75,13_mallasandra
+2025-08-01,14,Bagalagunte,8785,225.54,14_bagalagunte
+2025-08-01,14,Sidedahalli,1569,40.96,14_sidedahalli
+2025-08-01,15,T. Dasarahalli,4582,145.97,15_t._dasarahalli
+2025-08-01,16,Jalahalli,3107,91.56,16_jalahalli
+2025-08-01,17,J.P.Park,5739,129.52,17_j.p.park
+2025-08-01,18,Radhakrishna Temple Ward,5517,97.96,18_radhakrishna_temple_ward
+2025-08-01,19,Sanjaynagar,5815,86.78,19_sanjaynagar
+2025-08-01,20,Ganganagar,3332,69.12,20_ganganagar
+2025-08-01,21,Hebbal,7468,158.48,21_hebbal
+2025-08-01,22,Vishwanathnagenahalli,3283,75.76,22_vishwanathnagenahalli
+2025-08-01,23,Nagavara,9071,190.71,23_nagavara
+2025-08-01,24,Hbr Layout,8157,240.06,24_hbr_layout
+2025-08-01,25,Horamavu,11232,156.55,25_horamavu
+2025-08-01,26,Ramamurthynagar,9483,264.97,26_ramamurthynagar
+2025-08-01,27,Banasawadi,9624,277.0,27_banasawadi
+2025-08-01,28,Kammanahalli,6633,179.32,28_kammanahalli
+2025-08-01,29,Kacharakanahalli,4869,129.55,29_kacharakanahalli
+2025-08-01,30,Kadugondanahalli,5131,132.02,30_kadugondanahalli
+2025-08-01,31,Kushalnagar,3147,56.33,31_kushalnagar
+2025-08-01,32,Kavalbyrasandra,5578,104.02,32_kavalbyrasandra
+2025-08-01,33,Manorayanapalya,2682,59.74,33_manorayanapalya
+2025-08-01,34,Gangenahalli,2321,47.17,34_gangenahalli
+2025-08-01,35,Aramane Nagar,2967,82.07,35_aramane_nagar
+2025-08-01,36,Mathikere,4142,85.1,36_mathikere
+2025-08-01,37,Yeshwanthpur,3215,60.53,37_yeshwanthpur
+2025-08-01,38,H.M.T,3656,132.9,38_h.m.t
+2025-08-01,39,Chokkasandra,5853,133.01,39_chokkasandra
+2025-08-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-08-01,41,Peenya Industrial Area,8192,204.09,41_peenya_industrial_area
+2025-08-01,42,Lakshmidevinagar,5147,106.77,42_lakshmidevinagar
+2025-08-01,43,Nandini Layout,6449,157.67,43_nandini_layout
+2025-08-01,44,Marappanahalli,4441,122.21,44_marappanahalli
+2025-08-01,45,Malleshwaram,3656,108.38,45_malleshwaram
+2025-08-01,46,Jayachamarajendra Nagar,5326,182.14,46_jayachamarajendra_nagar
+2025-08-01,47,Devarajeevanahalli,3745,79.61,47_devarajeevanahalli
+2025-08-01,48,Muneshwaranagar,2196,35.95,48_muneshwaranagar
+2025-08-01,49,Lingarajapura,5742,95.74,49_lingarajapura
+2025-08-01,50,Benniganahalli,5859,361.68,50_benniganahalli
+2025-08-01,51,Vijinapura,6269,129.81,51_vijinapura
+2025-08-01,52,K.R.Puram,8885,168.31,52_k.r.puram
+2025-08-01,53,Basavanapura,8382,205.69,53_basavanapura
+2025-08-01,54,Hoodi,5171,314.45,54_hoodi
+2025-08-01,55,Devasandra,3277,83.79,55_devasandra
+2025-08-01,56,A. Narayanapura,8410,225.82,56_a._narayanapura
+2025-08-01,57,C.V. Ramannagar,3270,77.16,57_c.v._ramannagar
+2025-08-01,58,Hosathippasandra,6022,151.59,58_hosathippasandra
+2025-08-01,59,Maruthiseva Nagar,5585,162.23,59_maruthiseva_nagar
+2025-08-01,60,Sagayapuram,4264,96.18,60_sagayapuram
+2025-08-01,61,S.K. Garden,2881,77.56,61_s.k._garden
+2025-08-01,62,Ramaswamy Palya,3129,78.46,62_ramaswamy_palya
+2025-08-01,63,Jayamahal,3076,121.23,63_jayamahal
+2025-08-01,64,Rajamahal,3692,90.22,64_rajamahal
+2025-08-01,65,Kadumalleshwara,5605,159.48,65_kadumalleshwara
+2025-08-01,66,Subramanyanagar,4282,128.47,66_subramanyanagar
+2025-08-01,67,Nagapura,5795,178.21,67_nagapura
+2025-08-01,68,Mahalakshmipuram,5094,136.54,68_mahalakshmipuram
+2025-08-01,69,Laggere,10222,237.9,69_laggere
+2025-08-01,70,Rajagopalanagar,8295,188.28,70_rajagopalanagar
+2025-08-01,71,Hegganahalli,8658,233.8,71_hegganahalli
+2025-08-01,72,Herohalli,10947,209.7,72_herohalli
+2025-08-01,73,Kottigepalya,8468,202.67,73_kottigepalya
+2025-08-01,74,Shakthiganapathi Nagar,6108,154.73,74_shakthiganapathi_nagar
+2025-08-01,75,Shankaramata,5211,146.31,75_shankaramata
+2025-08-01,76,Gayathrinagar,4374,118.61,76_gayathrinagar
+2025-08-01,77,Dattathreya Temple,4481,117.05,77_dattathreya_temple
+2025-08-01,78,Pulikeshinagar,3573,120.35,78_pulikeshinagar
+2025-08-01,79,Sarvagnanagar,3435,78.55,79_sarvagnanagar
+2025-08-01,80,Hoysalanagar,5463,153.01,80_hoysalanagar
+2025-08-01,81,Vignananagar,7071,190.65,81_vignananagar
+2025-08-01,82,Garudacharpalya,4357,183.68,82_garudacharpalya
+2025-08-01,83,Kadugodi,1006,48.08,83_kadugodi
+2025-08-01,84,Hagadooru,2003,120.59,84_hagadooru
+2025-08-01,85,Doddanekkundi,5667,320.96,85_doddanekkundi
+2025-08-01,85,Varthur,1353,94.25,85_varthur
+2025-08-01,86,Marathalli,4669,159.32,86_marathalli
+2025-08-01,87,Hal Airport,4375,91.06,87_hal_airport
+2025-08-01,88,Jeevanbhimanagar,6001,150.25,88_jeevanbhimanagar
+2025-08-01,89,Jogupalya,4066,128.8,89_jogupalya
+2025-08-01,90,Ulsoor,5606,334.22,90_ulsoor
+2025-08-01,91,Bharathinagar,2239,94.91,91_bharathinagar
+2025-08-01,92,Shivajinagar,5147,203.15,92_shivajinagar
+2025-08-01,93,Vasanthnagar,3736,263.92,93_vasanthnagar
+2025-08-01,94,Gandhinagar,4774,355.9,94_gandhinagar
+2025-08-01,95,Subhashnagar,3091,59.72,95_subhashnagar
+2025-08-01,96,Okalipuram,3419,138.33,96_okalipuram
+2025-08-01,97,Dayanandanagar,3497,82.68,97_dayanandanagar
+2025-08-01,98,Prakashnagar,3074,80.42,98_prakashnagar
+2025-08-01,99,Rajajinagar,3929,113.56,99_rajajinagar
+2025-08-01,100,Basaveshwaranagar,5767,166.1,100_basaveshwaranagar
+2025-08-01,101,Kamakshipalya,3684,90.58,101_kamakshipalya
+2025-08-01,102,Vrushabhavathi Nagar,4175,98.63,102_vrushabhavathi_nagar
+2025-08-01,103,Kaveripura,5038,104.98,103_kaveripura
+2025-08-01,104,Govindrajnagara,2896,69.52,104_govindrajnagara
+2025-08-01,105,Agrahara Dasarahalli,3212,90.9,105_agrahara_dasarahalli
+2025-08-01,106,Dr. Rajkumar Ward,2471,80.77,106_dr._rajkumar_ward
+2025-08-01,107,Shivanagar,2456,85.74,107_shivanagar
+2025-08-01,108,Srirammandira Ward,4676,116.34,108_srirammandira_ward
+2025-08-01,109,Chikpet,5606,108.7,109_chikpet
+2025-08-01,110,Sampangiramnagar,3009,130.95,110_sampangiramnagar
+2025-08-01,111,Shanthala Nagar,3777,223.37,111_shanthala_nagar
+2025-08-01,112,Dommalur,4767,193.22,112_dommalur
+2025-08-01,113,Konena Agrahara,3939,122.02,113_konena_agrahara
+2025-08-01,114,Agaram,2926,152.58,114_agaram
+2025-08-01,115,Vannarpet,5171,105.45,115_vannarpet
+2025-08-01,116,Neelasandra,2644,60.85,116_neelasandra
+2025-08-01,117,Shanthinagar,6212,247.99,117_shanthinagar
+2025-08-01,118,Sudamnagar,5143,98.22,118_sudamnagar
+2025-08-01,119,Dharmarayaswamy Temple Ward,4979,99.6,119_dharmarayaswamy_temple_ward
+2025-08-01,120,Cottonpet,3071,62.74,120_cottonpet
+2025-08-01,121,Binnypet,4575,97.01,121_binnypet
+2025-08-01,122,Kempapura Agrahara,3912,86.46,122_kempapura_agrahara
+2025-08-01,123,Vijaynagar,3616,90.32,123_vijaynagar
+2025-08-01,124,Hosahalli,4510,112.02,124_hosahalli
+2025-08-01,125,Marenahalli,3408,92.27,125_marenahalli
+2025-08-01,126,Maruthi Mandira Ward,4024,101.94,126_maruthi_mandira_ward
+2025-08-01,127,Moodalapalya,5865,129.0,127_moodalapalya
+2025-08-01,128,Nagarabhavi,10860,256.96,128_nagarabhavi
+2025-08-01,129,Jnanabharathi Ward,13853,335.74,129_jnanabharathi_ward
+2025-08-01,130,Ullalu,9090,193.71,130_ullalu
+2025-08-01,131,Nayandanahalli,4367,112.63,131_nayandanahalli
+2025-08-01,132,Attiguppe,5484,160.78,132_attiguppe
+2025-08-01,133,Hampinagar,3028,76.8,133_hampinagar
+2025-08-01,134,Bapujinagar,4469,134.15,134_bapujinagar
+2025-08-01,135,Padarayanapura,2029,70.16,135_padarayanapura
+2025-08-01,136,Jagareevanram Nagar,4823,127.44,136_jagareevanram_nagar
+2025-08-01,137,Rayapuram,3460,79.12,137_rayapuram
+2025-08-01,138,Chalavadipalya,2391,52.22,138_chalavadipalya
+2025-08-01,139,K.R. Market,2928,54.16,139_k.r._market
+2025-08-01,140,Chamrajpet,4779,170.96,140_chamrajpet
+2025-08-01,141,Azadnagar,4025,104.14,141_azadnagar
+2025-08-01,142,Sunkenahalli,2892,65.28,142_sunkenahalli
+2025-08-01,143,Vishweshrapuram,4735,112.48,143_vishweshrapuram
+2025-08-01,144,Siddapura,4483,122.14,144_siddapura
+2025-08-01,145,Hombegowdanagar,6543,198.19,145_hombegowdanagar
+2025-08-01,146,Lakkasandra,2834,98.06,146_lakkasandra
+2025-08-01,147,Adugodi,3420,106.88,147_adugodi
+2025-08-01,148,Ejipura,4787,143.77,148_ejipura
+2025-08-01,149,Varthur,3314,158.68,149_varthur
+2025-08-01,150,Bellandur,5166,398.22,150_bellandur
+2025-08-01,151,Koramangala,7159,309.19,151_koramangala
+2025-08-01,152,Sudduguntepalya,4076,152.55,152_sudduguntepalya
+2025-08-01,153,Jayanagar,340,8.28,153_jayanagar
+2025-08-01,153,Jayangar,3647,164.6,153_jayangar
+2025-08-01,154,Basavanagudi,5801,137.45,154_basavanagudi
+2025-08-01,155,Hanumanthanagar,4142,88.45,155_hanumanthanagar
+2025-08-01,156,Srinagar,5680,139.85,156_srinagar
+2025-08-01,157,Gali Anjaneya Swamy Temple Ward,5394,136.48,157_gali_anjaneya_swamy_temple_ward
+2025-08-01,158,Deepanjali Nagar,2937,77.33,158_deepanjali_nagar
+2025-08-01,159,Kengeri,14507,292.22,159_kengeri
+2025-08-01,160,Rajarajeshwarinagar,16505,456.39,160_rajarajeshwarinagar
+2025-08-01,161,Hosakerehalli,7370,170.02,161_hosakerehalli
+2025-08-01,162,Girinagar,7740,175.45,162_girinagar
+2025-08-01,163,Katriguppe,6534,139.75,163_katriguppe
+2025-08-01,164,Vidyapeetha Ward,4757,102.94,164_vidyapeetha_ward
+2025-08-01,165,Ganeshmandira Ward,4509,117.34,165_ganeshmandira_ward
+2025-08-01,166,Karisandra,4639,118.67,166_karisandra
+2025-08-01,167,Yadiyuru,4406,108.25,167_yadiyuru
+2025-08-01,168,Pattabhiramnagar,4306,148.22,168_pattabhiramnagar
+2025-08-01,169,Byrasandra,3845,119.02,169_byrasandra
+2025-08-01,170,Jayanagar East,3889,106.02,170_jayanagar_east
+2025-08-01,171,Gurappanapalya,4065,192.83,171_gurappanapalya
+2025-08-01,172,Madiwala,5580,171.58,172_madiwala
+2025-08-01,173,Jakkasandra,2856,137.82,173_jakkasandra
+2025-08-01,174,Hsr Layout,14147,605.66,174_hsr_layout
+2025-08-01,175,Bommanahalli,6548,294.27,175_bommanahalli
+2025-08-01,176,Btm Layout,7557,259.07,176_btm_layout
+2025-08-01,177,J.P.Nagar,5627,176.45,177_j.p.nagar
+2025-08-01,178,Sarakki,5620,178.4,178_sarakki
+2025-08-01,179,Shakambarinagar,3776,112.08,179_shakambarinagar
+2025-08-01,180,Banashankari Temple Ward,5182,117.08,180_banashankari_temple_ward
+2025-08-01,181,Kumaraswamy Layout,8394,251.3,181_kumaraswamy_layout
+2025-08-01,182,Padmanabhanagar,6044,176.67,182_padmanabhanagar
+2025-08-01,183,Chikkallasandra,5184,133.99,183_chikkallasandra
+2025-08-01,184,Uttarahalli,9278,302.36,184_uttarahalli
+2025-08-01,185,Yelachenahalli,6759,183.62,185_yelachenahalli
+2025-08-01,186,Jaraganahalli,3051,86.44,186_jaraganahalli
+2025-08-01,187,Puttenahalli,4641,152.58,187_puttenahalli
+2025-08-01,188,Bilekahalli,4403,264.83,188_bilekahalli
+2025-08-01,189,Hongasandra,8368,360.67,189_hongasandra
+2025-08-01,190,Mangammanapalya,3251,99.93,190_mangammanapalya
+2025-08-01,191,Singasandra,3960,159.62,191_singasandra
+2025-08-01,191,Singsandra,1008,42.89,191_singsandra
+2025-08-01,192,Begur,6890,338.65,192_begur
+2025-08-01,193,Arakere,10044,378.3,193_arakere
+2025-08-01,194,Gottigere,4047,96.53,194_gottigere
+2025-08-01,195,Konanakunte,10175,304.19,195_konanakunte
+2025-08-01,196,Anjanapura,8579,305.91,196_anjanapura
+2025-08-01,197,Vasanthapura,4303,142.42,197_vasanthapura
+2025-08-01,198,Hemmigepura,4549,103.98,198_hemmigepura
+2025-09-01,1,Kempegowda Ward,4286,110.18,1_kempegowda_ward
+2025-09-01,2,Chowdeshwari Ward,464,18.95,2_chowdeshwari_ward
+2025-09-01,3,Attur,6362,169.5,3_attur
+2025-09-01,4,Yelahanka Satellite Town,7775,388.3,4_yelahanka_satellite_town
+2025-09-01,5,Jakkur,3887,106.89,5_jakkur
+2025-09-01,6,Thanisandra,3984,65.66,6_thanisandra
+2025-09-01,7,Byatarayanapura,9718,289.89,7_byatarayanapura
+2025-09-01,8,Kodigehalli,5408,130.31,8_kodigehalli
+2025-09-01,9,Vidyaranyapura,12951,390.71,9_vidyaranyapura
+2025-09-01,10,Doddabommasandra,1865,26.87,10_doddabommasandra
+2025-09-01,11,Kuvempunagar,4500,59.51,11_kuvempunagar
+2025-09-01,12,Shettyhalli,8461,129.82,12_shettyhalli
+2025-09-01,13,Mallasandra,4531,61.51,13_mallasandra
+2025-09-01,14,Bagalagunte,8793,213.01,14_bagalagunte
+2025-09-01,14,Sidedahalli,1586,43.47,14_sidedahalli
+2025-09-01,15,T. Dasarahalli,4585,138.49,15_t._dasarahalli
+2025-09-01,16,Jalahalli,3111,91.04,16_jalahalli
+2025-09-01,17,J.P.Park,5740,125.57,17_j.p.park
+2025-09-01,18,Radhakrishna Temple Ward,5516,95.92,18_radhakrishna_temple_ward
+2025-09-01,19,Sanjaynagar,5823,84.67,19_sanjaynagar
+2025-09-01,20,Ganganagar,3338,69.96,20_ganganagar
+2025-09-01,21,Hebbal,7475,164.3,21_hebbal
+2025-09-01,22,Vishwanathnagenahalli,3287,78.15,22_vishwanathnagenahalli
+2025-09-01,23,Nagavara,9152,191.31,23_nagavara
+2025-09-01,24,Hbr Layout,8175,246.94,24_hbr_layout
+2025-09-01,25,Horamavu,11889,148.35,25_horamavu
+2025-09-01,26,Ramamurthynagar,9508,256.1,26_ramamurthynagar
+2025-09-01,27,Banasawadi,9645,277.19,27_banasawadi
+2025-09-01,28,Kammanahalli,6632,175.17,28_kammanahalli
+2025-09-01,29,Kacharakanahalli,4884,131.68,29_kacharakanahalli
+2025-09-01,30,Kadugondanahalli,5123,133.41,30_kadugondanahalli
+2025-09-01,31,Kushalnagar,3144,56.62,31_kushalnagar
+2025-09-01,32,Kavalbyrasandra,5584,110.15,32_kavalbyrasandra
+2025-09-01,33,Manorayanapalya,2689,61.86,33_manorayanapalya
+2025-09-01,34,Gangenahalli,2322,49.56,34_gangenahalli
+2025-09-01,35,Aramane Nagar,2968,78.35,35_aramane_nagar
+2025-09-01,36,Mathikere,4147,89.07,36_mathikere
+2025-09-01,37,Yeshwanthpur,3218,61.0,37_yeshwanthpur
+2025-09-01,38,H.M.T,3669,134.9,38_h.m.t
+2025-09-01,39,Chokkasandra,5856,130.5,39_chokkasandra
+2025-09-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-09-01,41,Peenya Industrial Area,8500,204.85,41_peenya_industrial_area
+2025-09-01,42,Lakshmidevinagar,5146,109.61,42_lakshmidevinagar
+2025-09-01,43,Nandini Layout,6453,154.79,43_nandini_layout
+2025-09-01,44,Marappanahalli,4442,119.93,44_marappanahalli
+2025-09-01,45,Malleshwaram,3655,109.03,45_malleshwaram
+2025-09-01,46,Jayachamarajendra Nagar,5326,169.07,46_jayachamarajendra_nagar
+2025-09-01,47,Devarajeevanahalli,3754,79.74,47_devarajeevanahalli
+2025-09-01,48,Muneshwaranagar,2195,36.43,48_muneshwaranagar
+2025-09-01,49,Lingarajapura,5745,97.06,49_lingarajapura
+2025-09-01,50,Benniganahalli,5861,357.25,50_benniganahalli
+2025-09-01,51,Vijinapura,6282,128.57,51_vijinapura
+2025-09-01,52,K.R.Puram,8899,184.17,52_k.r.puram
+2025-09-01,53,Basavanapura,8436,215.8,53_basavanapura
+2025-09-01,54,Hoodi,5203,311.4,54_hoodi
+2025-09-01,55,Devasandra,3299,97.57,55_devasandra
+2025-09-01,56,A. Narayanapura,8419,225.67,56_a._narayanapura
+2025-09-01,57,C.V. Ramannagar,3273,82.29,57_c.v._ramannagar
+2025-09-01,58,Hosathippasandra,6021,152.11,58_hosathippasandra
+2025-09-01,59,Maruthiseva Nagar,5584,160.76,59_maruthiseva_nagar
+2025-09-01,60,Sagayapuram,4265,96.82,60_sagayapuram
+2025-09-01,61,S.K. Garden,2882,78.01,61_s.k._garden
+2025-09-01,62,Ramaswamy Palya,3128,79.08,62_ramaswamy_palya
+2025-09-01,63,Jayamahal,3080,130.06,63_jayamahal
+2025-09-01,64,Rajamahal,3694,90.74,64_rajamahal
+2025-09-01,65,Kadumalleshwara,5605,156.15,65_kadumalleshwara
+2025-09-01,66,Subramanyanagar,4286,119.06,66_subramanyanagar
+2025-09-01,67,Nagapura,5798,175.67,67_nagapura
+2025-09-01,68,Mahalakshmipuram,5099,121.64,68_mahalakshmipuram
+2025-09-01,69,Laggere,10212,240.89,69_laggere
+2025-09-01,70,Rajagopalanagar,8315,191.6,70_rajagopalanagar
+2025-09-01,71,Hegganahalli,8666,232.06,71_hegganahalli
+2025-09-01,72,Herohalli,11017,223.1,72_herohalli
+2025-09-01,73,Kottigepalya,8475,205.34,73_kottigepalya
+2025-09-01,74,Shakthiganapathi Nagar,6108,154.05,74_shakthiganapathi_nagar
+2025-09-01,75,Shankaramata,5213,147.15,75_shankaramata
+2025-09-01,76,Gayathrinagar,4379,113.43,76_gayathrinagar
+2025-09-01,77,Dattathreya Temple,4480,115.06,77_dattathreya_temple
+2025-09-01,78,Pulikeshinagar,3591,116.91,78_pulikeshinagar
+2025-09-01,79,Sarvagnanagar,3443,77.39,79_sarvagnanagar
+2025-09-01,80,Hoysalanagar,5460,154.14,80_hoysalanagar
+2025-09-01,81,Vignananagar,7086,201.94,81_vignananagar
+2025-09-01,82,Garudacharpalya,4372,164.22,82_garudacharpalya
+2025-09-01,83,Kadugodi,1038,41.13,83_kadugodi
+2025-09-01,84,Hagadooru,2016,108.06,84_hagadooru
+2025-09-01,85,Doddanekkundi,5686,315.64,85_doddanekkundi
+2025-09-01,85,Varthur,1643,85.34,85_varthur
+2025-09-01,86,Marathalli,4706,159.59,86_marathalli
+2025-09-01,87,Hal Airport,4371,92.28,87_hal_airport
+2025-09-01,88,Jeevanbhimanagar,5999,144.95,88_jeevanbhimanagar
+2025-09-01,89,Jogupalya,4065,128.5,89_jogupalya
+2025-09-01,90,Ulsoor,5613,315.13,90_ulsoor
+2025-09-01,91,Bharathinagar,2246,106.47,91_bharathinagar
+2025-09-01,92,Shivajinagar,5148,212.2,92_shivajinagar
+2025-09-01,93,Vasanthnagar,3736,244.68,93_vasanthnagar
+2025-09-01,94,Gandhinagar,4778,359.08,94_gandhinagar
+2025-09-01,95,Subhashnagar,3091,62.17,95_subhashnagar
+2025-09-01,96,Okalipuram,3419,147.62,96_okalipuram
+2025-09-01,97,Dayanandanagar,3500,85.35,97_dayanandanagar
+2025-09-01,98,Prakashnagar,3075,80.88,98_prakashnagar
+2025-09-01,99,Rajajinagar,3937,115.42,99_rajajinagar
+2025-09-01,100,Basaveshwaranagar,5771,167.03,100_basaveshwaranagar
+2025-09-01,101,Kamakshipalya,3684,91.52,101_kamakshipalya
+2025-09-01,102,Vrushabhavathi Nagar,4175,94.52,102_vrushabhavathi_nagar
+2025-09-01,103,Kaveripura,5038,101.04,103_kaveripura
+2025-09-01,104,Govindrajnagara,2905,65.18,104_govindrajnagara
+2025-09-01,105,Agrahara Dasarahalli,3213,103.89,105_agrahara_dasarahalli
+2025-09-01,106,Dr. Rajkumar Ward,2472,83.2,106_dr._rajkumar_ward
+2025-09-01,107,Shivanagar,2454,91.37,107_shivanagar
+2025-09-01,108,Srirammandira Ward,4679,120.23,108_srirammandira_ward
+2025-09-01,109,Chikpet,5613,112.04,109_chikpet
+2025-09-01,110,Sampangiramnagar,3014,132.59,110_sampangiramnagar
+2025-09-01,111,Shanthala Nagar,3777,222.78,111_shanthala_nagar
+2025-09-01,112,Dommalur,4776,211.73,112_dommalur
+2025-09-01,113,Konena Agrahara,3939,116.07,113_konena_agrahara
+2025-09-01,114,Agaram,2927,145.99,114_agaram
+2025-09-01,115,Vannarpet,5171,108.79,115_vannarpet
+2025-09-01,116,Neelasandra,2646,63.31,116_neelasandra
+2025-09-01,117,Shanthinagar,6215,246.08,117_shanthinagar
+2025-09-01,118,Sudamnagar,5143,97.94,118_sudamnagar
+2025-09-01,119,Dharmarayaswamy Temple Ward,4981,99.63,119_dharmarayaswamy_temple_ward
+2025-09-01,120,Cottonpet,3075,63.8,120_cottonpet
+2025-09-01,121,Binnypet,4574,102.86,121_binnypet
+2025-09-01,122,Kempapura Agrahara,3924,86.29,122_kempapura_agrahara
+2025-09-01,123,Vijaynagar,3626,87.94,123_vijaynagar
+2025-09-01,124,Hosahalli,4511,111.97,124_hosahalli
+2025-09-01,125,Marenahalli,3416,87.45,125_marenahalli
+2025-09-01,126,Maruthi Mandira Ward,4024,97.18,126_maruthi_mandira_ward
+2025-09-01,127,Moodalapalya,5868,126.05,127_moodalapalya
+2025-09-01,128,Nagarabhavi,10873,256.6,128_nagarabhavi
+2025-09-01,129,Jnanabharathi Ward,13875,343.03,129_jnanabharathi_ward
+2025-09-01,130,Ullalu,9172,197.49,130_ullalu
+2025-09-01,131,Nayandanahalli,4372,115.1,131_nayandanahalli
+2025-09-01,132,Attiguppe,5487,156.65,132_attiguppe
+2025-09-01,133,Hampinagar,3033,77.25,133_hampinagar
+2025-09-01,134,Bapujinagar,4474,127.27,134_bapujinagar
+2025-09-01,135,Padarayanapura,2031,70.72,135_padarayanapura
+2025-09-01,136,Jagareevanram Nagar,4825,127.19,136_jagareevanram_nagar
+2025-09-01,137,Rayapuram,3456,78.64,137_rayapuram
+2025-09-01,138,Chalavadipalya,2391,55.3,138_chalavadipalya
+2025-09-01,139,K.R. Market,2928,55.12,139_k.r._market
+2025-09-01,140,Chamrajpet,4779,164.93,140_chamrajpet
+2025-09-01,141,Azadnagar,4029,107.64,141_azadnagar
+2025-09-01,142,Sunkenahalli,2896,64.51,142_sunkenahalli
+2025-09-01,143,Vishweshrapuram,4738,114.14,143_vishweshrapuram
+2025-09-01,144,Siddapura,4485,118.62,144_siddapura
+2025-09-01,145,Hombegowdanagar,6550,201.83,145_hombegowdanagar
+2025-09-01,146,Lakkasandra,2834,96.8,146_lakkasandra
+2025-09-01,147,Adugodi,3421,107.64,147_adugodi
+2025-09-01,148,Ejipura,4788,140.16,148_ejipura
+2025-09-01,149,Varthur,3318,146.47,149_varthur
+2025-09-01,150,Bellandur,5430,366.61,150_bellandur
+2025-09-01,151,Koramangala,7165,308.54,151_koramangala
+2025-09-01,152,Sudduguntepalya,4078,150.96,152_sudduguntepalya
+2025-09-01,153,Jayanagar,341,8.48,153_jayanagar
+2025-09-01,153,Jayangar,3651,160.81,153_jayangar
+2025-09-01,154,Basavanagudi,5801,137.66,154_basavanagudi
+2025-09-01,155,Hanumanthanagar,4143,86.09,155_hanumanthanagar
+2025-09-01,156,Srinagar,5682,137.67,156_srinagar
+2025-09-01,157,Gali Anjaneya Swamy Temple Ward,5397,130.22,157_gali_anjaneya_swamy_temple_ward
+2025-09-01,158,Deepanjali Nagar,2940,71.42,158_deepanjali_nagar
+2025-09-01,159,Kengeri,14536,285.51,159_kengeri
+2025-09-01,160,Rajarajeshwarinagar,16579,472.05,160_rajarajeshwarinagar
+2025-09-01,161,Hosakerehalli,7376,166.41,161_hosakerehalli
+2025-09-01,162,Girinagar,7744,172.75,162_girinagar
+2025-09-01,163,Katriguppe,6535,144.38,163_katriguppe
+2025-09-01,164,Vidyapeetha Ward,4758,103.06,164_vidyapeetha_ward
+2025-09-01,165,Ganeshmandira Ward,4517,112.1,165_ganeshmandira_ward
+2025-09-01,166,Karisandra,4641,118.55,166_karisandra
+2025-09-01,167,Yadiyuru,4412,104.5,167_yadiyuru
+2025-09-01,168,Pattabhiramnagar,4306,138.14,168_pattabhiramnagar
+2025-09-01,169,Byrasandra,3843,113.36,169_byrasandra
+2025-09-01,170,Jayanagar East,3889,102.04,170_jayanagar_east
+2025-09-01,171,Gurappanapalya,4065,171.88,171_gurappanapalya
+2025-09-01,172,Madiwala,5582,171.32,172_madiwala
+2025-09-01,173,Jakkasandra,2857,140.99,173_jakkasandra
+2025-09-01,174,Hsr Layout,14165,601.54,174_hsr_layout
+2025-09-01,175,Bommanahalli,6563,289.2,175_bommanahalli
+2025-09-01,176,Btm Layout,7561,255.74,176_btm_layout
+2025-09-01,177,J.P.Nagar,5628,170.82,177_j.p.nagar
+2025-09-01,178,Sarakki,5622,177.68,178_sarakki
+2025-09-01,179,Shakambarinagar,3777,112.0,179_shakambarinagar
+2025-09-01,180,Banashankari Temple Ward,5186,118.92,180_banashankari_temple_ward
+2025-09-01,181,Kumaraswamy Layout,8407,245.23,181_kumaraswamy_layout
+2025-09-01,182,Padmanabhanagar,6045,173.6,182_padmanabhanagar
+2025-09-01,183,Chikkallasandra,5185,136.61,183_chikkallasandra
+2025-09-01,184,Uttarahalli,9385,300.18,184_uttarahalli
+2025-09-01,185,Yelachenahalli,6872,183.37,185_yelachenahalli
+2025-09-01,186,Jaraganahalli,3056,88.07,186_jaraganahalli
+2025-09-01,187,Puttenahalli,4659,153.79,187_puttenahalli
+2025-09-01,188,Bilekahalli,4406,251.06,188_bilekahalli
+2025-09-01,189,Hongasandra,8382,356.78,189_hongasandra
+2025-09-01,190,Mangammanapalya,3293,96.58,190_mangammanapalya
+2025-09-01,191,Singasandra,4133,161.38,191_singasandra
+2025-09-01,191,Singsandra,1074,45.49,191_singsandra
+2025-09-01,192,Begur,7036,317.07,192_begur
+2025-09-01,193,Arakere,10052,362.33,193_arakere
+2025-09-01,194,Gottigere,4135,99.03,194_gottigere
+2025-09-01,195,Konanakunte,10224,290.48,195_konanakunte
+2025-09-01,196,Anjanapura,8937,303.81,196_anjanapura
+2025-09-01,197,Vasanthapura,4269,136.72,197_vasanthapura
+2025-09-01,198,Hemmigepura,4926,111.74,198_hemmigepura
+2025-10-01,1,Kempegowda Ward,4316,105.94,1_kempegowda_ward
+2025-10-01,2,Chowdeshwari Ward,465,17.36,2_chowdeshwari_ward
+2025-10-01,3,Attur,6495,170.31,3_attur
+2025-10-01,4,Yelahanka Satellite Town,7775,373.94,4_yelahanka_satellite_town
+2025-10-01,5,Jakkur,3939,109.87,5_jakkur
+2025-10-01,6,Thanisandra,4230,64.86,6_thanisandra
+2025-10-01,7,Byatarayanapura,9736,283.04,7_byatarayanapura
+2025-10-01,8,Kodigehalli,5419,132.14,8_kodigehalli
+2025-10-01,9,Vidyaranyapura,12970,394.26,9_vidyaranyapura
+2025-10-01,10,Doddabommasandra,1866,27.95,10_doddabommasandra
+2025-10-01,11,Kuvempunagar,4548,60.96,11_kuvempunagar
+2025-10-01,12,Shettyhalli,9208,140.35,12_shettyhalli
+2025-10-01,13,Mallasandra,4532,72.66,13_mallasandra
+2025-10-01,14,Bagalagunte,8795,226.05,14_bagalagunte
+2025-10-01,14,Sidedahalli,1603,40.39,14_sidedahalli
+2025-10-01,15,T. Dasarahalli,4588,145.33,15_t._dasarahalli
+2025-10-01,16,Jalahalli,3111,93.47,16_jalahalli
+2025-10-01,17,J.P.Park,5740,124.53,17_j.p.park
+2025-10-01,18,Radhakrishna Temple Ward,5517,97.15,18_radhakrishna_temple_ward
+2025-10-01,19,Sanjaynagar,5823,84.25,19_sanjaynagar
+2025-10-01,20,Ganganagar,3338,68.37,20_ganganagar
+2025-10-01,21,Hebbal,7477,162.44,21_hebbal
+2025-10-01,22,Vishwanathnagenahalli,3287,77.88,22_vishwanathnagenahalli
+2025-10-01,23,Nagavara,9172,193.21,23_nagavara
+2025-10-01,24,Hbr Layout,8188,247.77,24_hbr_layout
+2025-10-01,25,Horamavu,12789,104.67,25_horamavu
+2025-10-01,26,Ramamurthynagar,9532,251.91,26_ramamurthynagar
+2025-10-01,27,Banasawadi,9650,281.04,27_banasawadi
+2025-10-01,28,Kammanahalli,6633,178.29,28_kammanahalli
+2025-10-01,29,Kacharakanahalli,4885,135.35,29_kacharakanahalli
+2025-10-01,30,Kadugondanahalli,5128,132.47,30_kadugondanahalli
+2025-10-01,31,Kushalnagar,3144,55.29,31_kushalnagar
+2025-10-01,32,Kavalbyrasandra,5585,113.52,32_kavalbyrasandra
+2025-10-01,33,Manorayanapalya,2690,62.38,33_manorayanapalya
+2025-10-01,34,Gangenahalli,2323,47.03,34_gangenahalli
+2025-10-01,35,Aramane Nagar,2968,79.67,35_aramane_nagar
+2025-10-01,36,Mathikere,4147,90.72,36_mathikere
+2025-10-01,37,Yeshwanthpur,3218,62.63,37_yeshwanthpur
+2025-10-01,38,H.M.T,3671,135.48,38_h.m.t
+2025-10-01,39,Chokkasandra,5858,132.78,39_chokkasandra
+2025-10-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-10-01,41,Peenya Industrial Area,8885,210.44,41_peenya_industrial_area
+2025-10-01,42,Lakshmidevinagar,5146,104.97,42_lakshmidevinagar
+2025-10-01,43,Nandini Layout,6458,152.47,43_nandini_layout
+2025-10-01,44,Marappanahalli,4443,120.84,44_marappanahalli
+2025-10-01,45,Malleshwaram,3656,110.46,45_malleshwaram
+2025-10-01,46,Jayachamarajendra Nagar,5328,173.71,46_jayachamarajendra_nagar
+2025-10-01,47,Devarajeevanahalli,3752,79.19,47_devarajeevanahalli
+2025-10-01,48,Muneshwaranagar,2194,35.9,48_muneshwaranagar
+2025-10-01,49,Lingarajapura,5745,95.45,49_lingarajapura
+2025-10-01,50,Benniganahalli,5859,349.05,50_benniganahalli
+2025-10-01,51,Vijinapura,6299,128.08,51_vijinapura
+2025-10-01,52,K.R.Puram,8913,173.69,52_k.r.puram
+2025-10-01,53,Basavanapura,8474,204.23,53_basavanapura
+2025-10-01,54,Hoodi,5222,305.59,54_hoodi
+2025-10-01,55,Devasandra,3305,80.55,55_devasandra
+2025-10-01,56,A. Narayanapura,8427,220.61,56_a._narayanapura
+2025-10-01,57,C.V. Ramannagar,3277,74.38,57_c.v._ramannagar
+2025-10-01,58,Hosathippasandra,6024,146.83,58_hosathippasandra
+2025-10-01,59,Maruthiseva Nagar,5583,153.86,59_maruthiseva_nagar
+2025-10-01,60,Sagayapuram,4264,92.31,60_sagayapuram
+2025-10-01,61,S.K. Garden,2872,78.35,61_s.k._garden
+2025-10-01,62,Ramaswamy Palya,3125,77.23,62_ramaswamy_palya
+2025-10-01,63,Jayamahal,3078,123.13,63_jayamahal
+2025-10-01,64,Rajamahal,3694,91.82,64_rajamahal
+2025-10-01,65,Kadumalleshwara,5605,157.28,65_kadumalleshwara
+2025-10-01,66,Subramanyanagar,4286,124.54,66_subramanyanagar
+2025-10-01,67,Nagapura,5798,171.57,67_nagapura
+2025-10-01,68,Mahalakshmipuram,5099,127.85,68_mahalakshmipuram
+2025-10-01,69,Laggere,10215,245.23,69_laggere
+2025-10-01,70,Rajagopalanagar,8318,195.03,70_rajagopalanagar
+2025-10-01,71,Hegganahalli,8672,237.19,71_hegganahalli
+2025-10-01,72,Herohalli,11165,214.73,72_herohalli
+2025-10-01,73,Kottigepalya,8482,204.53,73_kottigepalya
+2025-10-01,74,Shakthiganapathi Nagar,6108,159.3,74_shakthiganapathi_nagar
+2025-10-01,75,Shankaramata,5213,143.88,75_shankaramata
+2025-10-01,76,Gayathrinagar,4379,113.7,76_gayathrinagar
+2025-10-01,77,Dattathreya Temple,4482,116.48,77_dattathreya_temple
+2025-10-01,78,Pulikeshinagar,3573,117.48,78_pulikeshinagar
+2025-10-01,79,Sarvagnanagar,3436,76.87,79_sarvagnanagar
+2025-10-01,80,Hoysalanagar,5460,148.51,80_hoysalanagar
+2025-10-01,81,Vignananagar,7103,197.95,81_vignananagar
+2025-10-01,82,Garudacharpalya,4357,174.58,82_garudacharpalya
+2025-10-01,83,Kadugodi,1054,45.43,83_kadugodi
+2025-10-01,84,Hagadooru,2014,105.84,84_hagadooru
+2025-10-01,85,Doddanekkundi,5674,311.86,85_doddanekkundi
+2025-10-01,85,Varthur,1958,76.14,85_varthur
+2025-10-01,86,Marathalli,4715,159.4,86_marathalli
+2025-10-01,87,Hal Airport,4372,92.63,87_hal_airport
+2025-10-01,88,Jeevanbhimanagar,5999,143.4,88_jeevanbhimanagar
+2025-10-01,89,Jogupalya,4065,128.08,89_jogupalya
+2025-10-01,90,Ulsoor,5615,307.55,90_ulsoor
+2025-10-01,91,Bharathinagar,2246,103.66,91_bharathinagar
+2025-10-01,92,Shivajinagar,5149,213.08,92_shivajinagar
+2025-10-01,93,Vasanthnagar,3736,249.69,93_vasanthnagar
+2025-10-01,94,Gandhinagar,4778,353.99,94_gandhinagar
+2025-10-01,95,Subhashnagar,3091,60.82,95_subhashnagar
+2025-10-01,96,Okalipuram,3419,144.34,96_okalipuram
+2025-10-01,97,Dayanandanagar,3500,85.4,97_dayanandanagar
+2025-10-01,98,Prakashnagar,3075,79.81,98_prakashnagar
+2025-10-01,99,Rajajinagar,3938,115.02,99_rajajinagar
+2025-10-01,100,Basaveshwaranagar,5772,169.71,100_basaveshwaranagar
+2025-10-01,101,Kamakshipalya,3685,92.55,101_kamakshipalya
+2025-10-01,102,Vrushabhavathi Nagar,4175,96.29,102_vrushabhavathi_nagar
+2025-10-01,103,Kaveripura,5038,106.78,103_kaveripura
+2025-10-01,104,Govindrajnagara,2906,68.36,104_govindrajnagara
+2025-10-01,105,Agrahara Dasarahalli,3213,93.22,105_agrahara_dasarahalli
+2025-10-01,106,Dr. Rajkumar Ward,2472,80.42,106_dr._rajkumar_ward
+2025-10-01,107,Shivanagar,2454,86.86,107_shivanagar
+2025-10-01,108,Srirammandira Ward,4679,117.28,108_srirammandira_ward
+2025-10-01,109,Chikpet,5613,112.21,109_chikpet
+2025-10-01,110,Sampangiramnagar,3015,128.58,110_sampangiramnagar
+2025-10-01,111,Shanthala Nagar,3777,228.57,111_shanthala_nagar
+2025-10-01,112,Dommalur,4776,198.01,112_dommalur
+2025-10-01,113,Konena Agrahara,3940,120.95,113_konena_agrahara
+2025-10-01,114,Agaram,2927,147.79,114_agaram
+2025-10-01,115,Vannarpet,5171,108.4,115_vannarpet
+2025-10-01,116,Neelasandra,2648,62.94,116_neelasandra
+2025-10-01,117,Shanthinagar,6215,247.87,117_shanthinagar
+2025-10-01,118,Sudamnagar,5143,99.45,118_sudamnagar
+2025-10-01,119,Dharmarayaswamy Temple Ward,4983,99.9,119_dharmarayaswamy_temple_ward
+2025-10-01,120,Cottonpet,3075,63.41,120_cottonpet
+2025-10-01,121,Binnypet,4574,97.31,121_binnypet
+2025-10-01,122,Kempapura Agrahara,3927,84.03,122_kempapura_agrahara
+2025-10-01,123,Vijaynagar,3629,87.94,123_vijaynagar
+2025-10-01,124,Hosahalli,4511,109.22,124_hosahalli
+2025-10-01,125,Marenahalli,3421,91.17,125_marenahalli
+2025-10-01,126,Maruthi Mandira Ward,4024,101.59,126_maruthi_mandira_ward
+2025-10-01,127,Moodalapalya,5873,132.96,127_moodalapalya
+2025-10-01,128,Nagarabhavi,10885,263.7,128_nagarabhavi
+2025-10-01,129,Jnanabharathi Ward,13893,347.06,129_jnanabharathi_ward
+2025-10-01,130,Ullalu,9249,195.79,130_ullalu
+2025-10-01,131,Nayandanahalli,4381,118.56,131_nayandanahalli
+2025-10-01,132,Attiguppe,5489,164.24,132_attiguppe
+2025-10-01,133,Hampinagar,3033,79.24,133_hampinagar
+2025-10-01,134,Bapujinagar,4476,122.03,134_bapujinagar
+2025-10-01,135,Padarayanapura,2031,70.16,135_padarayanapura
+2025-10-01,136,Jagareevanram Nagar,4825,128.92,136_jagareevanram_nagar
+2025-10-01,137,Rayapuram,3456,78.6,137_rayapuram
+2025-10-01,138,Chalavadipalya,2391,54.69,138_chalavadipalya
+2025-10-01,139,K.R. Market,2928,53.91,139_k.r._market
+2025-10-01,140,Chamrajpet,4775,168.55,140_chamrajpet
+2025-10-01,141,Azadnagar,4026,107.11,141_azadnagar
+2025-10-01,142,Sunkenahalli,2895,67.79,142_sunkenahalli
+2025-10-01,143,Vishweshrapuram,4740,116.29,143_vishweshrapuram
+2025-10-01,144,Siddapura,4486,123.38,144_siddapura
+2025-10-01,145,Hombegowdanagar,6551,200.9,145_hombegowdanagar
+2025-10-01,146,Lakkasandra,2835,98.01,146_lakkasandra
+2025-10-01,147,Adugodi,3423,106.07,147_adugodi
+2025-10-01,148,Ejipura,4793,138.93,148_ejipura
+2025-10-01,149,Varthur,3304,149.21,149_varthur
+2025-10-01,150,Bellandur,5549,383.56,150_bellandur
+2025-10-01,151,Koramangala,7169,296.7,151_koramangala
+2025-10-01,152,Sudduguntepalya,4081,146.26,152_sudduguntepalya
+2025-10-01,153,Jayanagar,342,8.61,153_jayanagar
+2025-10-01,153,Jayangar,3651,155.41,153_jayangar
+2025-10-01,154,Basavanagudi,5804,137.39,154_basavanagudi
+2025-10-01,155,Hanumanthanagar,4143,88.69,155_hanumanthanagar
+2025-10-01,156,Srinagar,5683,142.21,156_srinagar
+2025-10-01,157,Gali Anjaneya Swamy Temple Ward,5397,134.76,157_gali_anjaneya_swamy_temple_ward
+2025-10-01,158,Deepanjali Nagar,2940,75.04,158_deepanjali_nagar
+2025-10-01,159,Kengeri,14566,291.13,159_kengeri
+2025-10-01,160,Rajarajeshwarinagar,16667,454.7,160_rajarajeshwarinagar
+2025-10-01,161,Hosakerehalli,7376,173.33,161_hosakerehalli
+2025-10-01,162,Girinagar,7746,180.96,162_girinagar
+2025-10-01,163,Katriguppe,6535,136.25,163_katriguppe
+2025-10-01,164,Vidyapeetha Ward,4758,103.42,164_vidyapeetha_ward
+2025-10-01,165,Ganeshmandira Ward,4518,114.3,165_ganeshmandira_ward
+2025-10-01,166,Karisandra,4643,114.71,166_karisandra
+2025-10-01,167,Yadiyuru,4412,104.9,167_yadiyuru
+2025-10-01,168,Pattabhiramnagar,4306,143.73,168_pattabhiramnagar
+2025-10-01,169,Byrasandra,3843,117.72,169_byrasandra
+2025-10-01,170,Jayanagar East,3889,104.36,170_jayanagar_east
+2025-10-01,171,Gurappanapalya,4065,174.98,171_gurappanapalya
+2025-10-01,172,Madiwala,5594,167.38,172_madiwala
+2025-10-01,173,Jakkasandra,2857,123.25,173_jakkasandra
+2025-10-01,174,Hsr Layout,14178,575.28,174_hsr_layout
+2025-10-01,175,Bommanahalli,6591,278.25,175_bommanahalli
+2025-10-01,176,Btm Layout,7566,250.84,176_btm_layout
+2025-10-01,177,J.P.Nagar,5628,172.99,177_j.p.nagar
+2025-10-01,178,Sarakki,5622,170.79,178_sarakki
+2025-10-01,179,Shakambarinagar,3777,110.32,179_shakambarinagar
+2025-10-01,180,Banashankari Temple Ward,5187,117.42,180_banashankari_temple_ward
+2025-10-01,181,Kumaraswamy Layout,8408,252.4,181_kumaraswamy_layout
+2025-10-01,182,Padmanabhanagar,6043,172.77,182_padmanabhanagar
+2025-10-01,183,Chikkallasandra,5186,133.09,183_chikkallasandra
+2025-10-01,184,Uttarahalli,9429,301.99,184_uttarahalli
+2025-10-01,185,Yelachenahalli,6922,180.12,185_yelachenahalli
+2025-10-01,186,Jaraganahalli,3057,79.6,186_jaraganahalli
+2025-10-01,187,Puttenahalli,4661,148.62,187_puttenahalli
+2025-10-01,188,Bilekahalli,4406,243.67,188_bilekahalli
+2025-10-01,189,Hongasandra,8396,338.09,189_hongasandra
+2025-10-01,190,Mangammanapalya,3300,94.13,190_mangammanapalya
+2025-10-01,191,Singasandra,4255,153.21,191_singasandra
+2025-10-01,191,Singsandra,1089,42.01,191_singsandra
+2025-10-01,192,Begur,7130,323.23,192_begur
+2025-10-01,193,Arakere,10056,354.34,193_arakere
+2025-10-01,194,Gottigere,4251,99.45,194_gottigere
+2025-10-01,195,Konanakunte,10229,283.17,195_konanakunte
+2025-10-01,196,Anjanapura,9296,319.58,196_anjanapura
+2025-10-01,197,Vasanthapura,4268,137.59,197_vasanthapura
+2025-10-01,198,Hemmigepura,5213,116.26,198_hemmigepura
+2025-11-01,1,Kempegowda Ward,4343,109.83,1_kempegowda_ward
+2025-11-01,2,Chowdeshwari Ward,466,62.34,2_chowdeshwari_ward
+2025-11-01,3,Attur,6510,175.54,3_attur
+2025-11-01,4,Yelahanka Satellite Town,7786,390.07,4_yelahanka_satellite_town
+2025-11-01,5,Jakkur,3952,103.18,5_jakkur
+2025-11-01,6,Thanisandra,4276,73.42,6_thanisandra
+2025-11-01,7,Byatarayanapura,9734,288.39,7_byatarayanapura
+2025-11-01,8,Kodigehalli,5425,128.74,8_kodigehalli
+2025-11-01,9,Vidyaranyapura,12945,367.94,9_vidyaranyapura
+2025-11-01,10,Doddabommasandra,1908,29.16,10_doddabommasandra
+2025-11-01,11,Kuvempunagar,4578,64.38,11_kuvempunagar
+2025-11-01,12,Shettyhalli,9476,141.98,12_shettyhalli
+2025-11-01,13,Mallasandra,4538,64.13,13_mallasandra
+2025-11-01,14,Bagalagunte,8808,214.97,14_bagalagunte
+2025-11-01,14,Sidedahalli,1611,47.53,14_sidedahalli
+2025-11-01,15,T. Dasarahalli,4591,137.09,15_t._dasarahalli
+2025-11-01,16,Jalahalli,3112,87.82,16_jalahalli
+2025-11-01,17,J.P.Park,5743,127.76,17_j.p.park
+2025-11-01,18,Radhakrishna Temple Ward,5517,94.2,18_radhakrishna_temple_ward
+2025-11-01,19,Sanjaynagar,5830,86.5,19_sanjaynagar
+2025-11-01,20,Ganganagar,3342,68.48,20_ganganagar
+2025-11-01,21,Hebbal,7487,159.35,21_hebbal
+2025-11-01,22,Vishwanathnagenahalli,3288,77.11,22_vishwanathnagenahalli
+2025-11-01,23,Nagavara,9160,186.34,23_nagavara
+2025-11-01,24,Hbr Layout,8194,244.34,24_hbr_layout
+2025-11-01,25,Horamavu,12820,97.26,25_horamavu
+2025-11-01,26,Ramamurthynagar,9536,248.54,26_ramamurthynagar
+2025-11-01,27,Banasawadi,9676,276.53,27_banasawadi
+2025-11-01,28,Kammanahalli,6636,177.04,28_kammanahalli
+2025-11-01,29,Kacharakanahalli,4888,128.1,29_kacharakanahalli
+2025-11-01,30,Kadugondanahalli,5150,130.99,30_kadugondanahalli
+2025-11-01,31,Kushalnagar,3145,55.09,31_kushalnagar
+2025-11-01,32,Kavalbyrasandra,5586,104.36,32_kavalbyrasandra
+2025-11-01,33,Manorayanapalya,2705,61.39,33_manorayanapalya
+2025-11-01,34,Gangenahalli,2324,48.9,34_gangenahalli
+2025-11-01,35,Aramane Nagar,2971,77.79,35_aramane_nagar
+2025-11-01,36,Mathikere,4150,88.77,36_mathikere
+2025-11-01,37,Yeshwanthpur,3219,58.84,37_yeshwanthpur
+2025-11-01,38,H.M.T,3677,130.96,38_h.m.t
+2025-11-01,39,Chokkasandra,5823,129.67,39_chokkasandra
+2025-11-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-11-01,41,Peenya Industrial Area,9261,215.29,41_peenya_industrial_area
+2025-11-01,42,Lakshmidevinagar,5148,101.78,42_lakshmidevinagar
+2025-11-01,43,Nandini Layout,6462,137.02,43_nandini_layout
+2025-11-01,44,Marappanahalli,4444,115.24,44_marappanahalli
+2025-11-01,45,Malleshwaram,3656,107.7,45_malleshwaram
+2025-11-01,46,Jayachamarajendra Nagar,5332,178.46,46_jayachamarajendra_nagar
+2025-11-01,47,Devarajeevanahalli,3763,79.58,47_devarajeevanahalli
+2025-11-01,48,Muneshwaranagar,2196,36.22,48_muneshwaranagar
+2025-11-01,49,Lingarajapura,5749,97.35,49_lingarajapura
+2025-11-01,50,Benniganahalli,5860,388.55,50_benniganahalli
+2025-11-01,51,Vijinapura,6311,120.74,51_vijinapura
+2025-11-01,52,K.R.Puram,8903,170.18,52_k.r.puram
+2025-11-01,53,Basavanapura,8474,209.18,53_basavanapura
+2025-11-01,54,Hoodi,5274,335.12,54_hoodi
+2025-11-01,55,Devasandra,3313,84.34,55_devasandra
+2025-11-01,56,A. Narayanapura,8429,225.08,56_a._narayanapura
+2025-11-01,57,C.V. Ramannagar,3283,83.83,57_c.v._ramannagar
+2025-11-01,58,Hosathippasandra,6023,150.16,58_hosathippasandra
+2025-11-01,59,Maruthiseva Nagar,5585,157.83,59_maruthiseva_nagar
+2025-11-01,60,Sagayapuram,4269,94.35,60_sagayapuram
+2025-11-01,61,S.K. Garden,2882,79.3,61_s.k._garden
+2025-11-01,62,Ramaswamy Palya,3128,74.85,62_ramaswamy_palya
+2025-11-01,63,Jayamahal,3080,119.99,63_jayamahal
+2025-11-01,64,Rajamahal,3698,89.71,64_rajamahal
+2025-11-01,65,Kadumalleshwara,5613,157.98,65_kadumalleshwara
+2025-11-01,66,Subramanyanagar,4287,112.37,66_subramanyanagar
+2025-11-01,67,Nagapura,5804,173.28,67_nagapura
+2025-11-01,68,Mahalakshmipuram,5105,115.73,68_mahalakshmipuram
+2025-11-01,69,Laggere,10202,236.24,69_laggere
+2025-11-01,70,Rajagopalanagar,8339,198.3,70_rajagopalanagar
+2025-11-01,71,Hegganahalli,8658,236.29,71_hegganahalli
+2025-11-01,72,Herohalli,11257,225.26,72_herohalli
+2025-11-01,73,Kottigepalya,8499,197.78,73_kottigepalya
+2025-11-01,74,Shakthiganapathi Nagar,6108,149.28,74_shakthiganapathi_nagar
+2025-11-01,75,Shankaramata,5215,142.96,75_shankaramata
+2025-11-01,76,Gayathrinagar,4379,108.83,76_gayathrinagar
+2025-11-01,77,Dattathreya Temple,4480,113.62,77_dattathreya_temple
+2025-11-01,78,Pulikeshinagar,3597,120.07,78_pulikeshinagar
+2025-11-01,79,Sarvagnanagar,3435,76.67,79_sarvagnanagar
+2025-11-01,80,Hoysalanagar,5457,156.02,80_hoysalanagar
+2025-11-01,81,Vignananagar,7125,197.34,81_vignananagar
+2025-11-01,82,Garudacharpalya,4375,192.64,82_garudacharpalya
+2025-11-01,83,Kadugodi,1059,50.9,83_kadugodi
+2025-11-01,84,Hagadooru,2021,107.04,84_hagadooru
+2025-11-01,85,Doddanekkundi,5721,322.1,85_doddanekkundi
+2025-11-01,85,Varthur,1998,71.1,85_varthur
+2025-11-01,86,Marathalli,4726,177.27,86_marathalli
+2025-11-01,87,Hal Airport,4373,92.57,87_hal_airport
+2025-11-01,88,Jeevanbhimanagar,5997,142.96,88_jeevanbhimanagar
+2025-11-01,89,Jogupalya,4068,126.72,89_jogupalya
+2025-11-01,90,Ulsoor,5615,312.77,90_ulsoor
+2025-11-01,91,Bharathinagar,2247,107.74,91_bharathinagar
+2025-11-01,92,Shivajinagar,5159,207.9,92_shivajinagar
+2025-11-01,93,Vasanthnagar,3738,263.32,93_vasanthnagar
+2025-11-01,94,Gandhinagar,4783,361.16,94_gandhinagar
+2025-11-01,95,Subhashnagar,3090,60.72,95_subhashnagar
+2025-11-01,96,Okalipuram,3420,143.91,96_okalipuram
+2025-11-01,97,Dayanandanagar,3500,82.75,97_dayanandanagar
+2025-11-01,98,Prakashnagar,3076,77.04,98_prakashnagar
+2025-11-01,99,Rajajinagar,3945,113.88,99_rajajinagar
+2025-11-01,100,Basaveshwaranagar,5771,168.34,100_basaveshwaranagar
+2025-11-01,101,Kamakshipalya,3685,91.91,101_kamakshipalya
+2025-11-01,102,Vrushabhavathi Nagar,4175,92.53,102_vrushabhavathi_nagar
+2025-11-01,103,Kaveripura,5039,98.89,103_kaveripura
+2025-11-01,104,Govindrajnagara,2913,66.2,104_govindrajnagara
+2025-11-01,105,Agrahara Dasarahalli,3214,95.53,105_agrahara_dasarahalli
+2025-11-01,106,Dr. Rajkumar Ward,2471,81.91,106_dr._rajkumar_ward
+2025-11-01,107,Shivanagar,2454,90.7,107_shivanagar
+2025-11-01,108,Srirammandira Ward,4679,119.32,108_srirammandira_ward
+2025-11-01,109,Chikpet,5616,110.41,109_chikpet
+2025-11-01,110,Sampangiramnagar,3019,129.74,110_sampangiramnagar
+2025-11-01,111,Shanthala Nagar,3776,217.22,111_shanthala_nagar
+2025-11-01,112,Dommalur,4786,197.16,112_dommalur
+2025-11-01,113,Konena Agrahara,3942,122.7,113_konena_agrahara
+2025-11-01,114,Agaram,2926,142.84,114_agaram
+2025-11-01,115,Vannarpet,5167,102.3,115_vannarpet
+2025-11-01,116,Neelasandra,2650,61.08,116_neelasandra
+2025-11-01,117,Shanthinagar,6212,241.49,117_shanthinagar
+2025-11-01,118,Sudamnagar,5145,96.38,118_sudamnagar
+2025-11-01,119,Dharmarayaswamy Temple Ward,4988,97.89,119_dharmarayaswamy_temple_ward
+2025-11-01,120,Cottonpet,3077,62.52,120_cottonpet
+2025-11-01,121,Binnypet,4577,102.56,121_binnypet
+2025-11-01,122,Kempapura Agrahara,3933,86.78,122_kempapura_agrahara
+2025-11-01,123,Vijaynagar,3635,83.83,123_vijaynagar
+2025-11-01,124,Hosahalli,4516,108.08,124_hosahalli
+2025-11-01,125,Marenahalli,3420,87.89,125_marenahalli
+2025-11-01,126,Maruthi Mandira Ward,4023,93.95,126_maruthi_mandira_ward
+2025-11-01,127,Moodalapalya,5877,122.21,127_moodalapalya
+2025-11-01,128,Nagarabhavi,10907,252.34,128_nagarabhavi
+2025-11-01,129,Jnanabharathi Ward,13911,332.21,129_jnanabharathi_ward
+2025-11-01,130,Ullalu,9262,195.59,130_ullalu
+2025-11-01,131,Nayandanahalli,4382,115.32,131_nayandanahalli
+2025-11-01,132,Attiguppe,5489,156.6,132_attiguppe
+2025-11-01,133,Hampinagar,3033,75.92,133_hampinagar
+2025-11-01,134,Bapujinagar,4482,117.87,134_bapujinagar
+2025-11-01,135,Padarayanapura,2031,69.79,135_padarayanapura
+2025-11-01,136,Jagareevanram Nagar,4825,125.34,136_jagareevanram_nagar
+2025-11-01,137,Rayapuram,3456,77.16,137_rayapuram
+2025-11-01,138,Chalavadipalya,2389,50.5,138_chalavadipalya
+2025-11-01,139,K.R. Market,2928,53.02,139_k.r._market
+2025-11-01,140,Chamrajpet,4780,162.88,140_chamrajpet
+2025-11-01,141,Azadnagar,4030,105.31,141_azadnagar
+2025-11-01,142,Sunkenahalli,2898,64.34,142_sunkenahalli
+2025-11-01,143,Vishweshrapuram,4742,112.34,143_vishweshrapuram
+2025-11-01,144,Siddapura,4487,115.84,144_siddapura
+2025-11-01,145,Hombegowdanagar,6552,200.61,145_hombegowdanagar
+2025-11-01,146,Lakkasandra,2835,93.78,146_lakkasandra
+2025-11-01,147,Adugodi,3425,109.23,147_adugodi
+2025-11-01,148,Ejipura,4796,132.09,148_ejipura
+2025-11-01,149,Varthur,3327,147.6,149_varthur
+2025-11-01,150,Bellandur,5554,364.12,150_bellandur
+2025-11-01,151,Koramangala,7172,303.21,151_koramangala
+2025-11-01,152,Sudduguntepalya,4078,152.69,152_sudduguntepalya
+2025-11-01,153,Jayanagar,342,7.95,153_jayanagar
+2025-11-01,153,Jayangar,3655,153.22,153_jayangar
+2025-11-01,154,Basavanagudi,5806,135.71,154_basavanagudi
+2025-11-01,155,Hanumanthanagar,4145,86.77,155_hanumanthanagar
+2025-11-01,156,Srinagar,5687,137.87,156_srinagar
+2025-11-01,157,Gali Anjaneya Swamy Temple Ward,5401,123.8,157_gali_anjaneya_swamy_temple_ward
+2025-11-01,158,Deepanjali Nagar,2939,75.17,158_deepanjali_nagar
+2025-11-01,159,Kengeri,14607,289.01,159_kengeri
+2025-11-01,160,Rajarajeshwarinagar,16692,440.4,160_rajarajeshwarinagar
+2025-11-01,161,Hosakerehalli,7379,165.86,161_hosakerehalli
+2025-11-01,162,Girinagar,7747,176.57,162_girinagar
+2025-11-01,163,Katriguppe,6541,142.62,163_katriguppe
+2025-11-01,164,Vidyapeetha Ward,4761,101.79,164_vidyapeetha_ward
+2025-11-01,165,Ganeshmandira Ward,4530,112.74,165_ganeshmandira_ward
+2025-11-01,166,Karisandra,4659,122.42,166_karisandra
+2025-11-01,167,Yadiyuru,4415,104.71,167_yadiyuru
+2025-11-01,168,Pattabhiramnagar,4312,139.63,168_pattabhiramnagar
+2025-11-01,169,Byrasandra,3851,112.62,169_byrasandra
+2025-11-01,170,Jayanagar East,3889,99.4,170_jayanagar_east
+2025-11-01,171,Gurappanapalya,4064,178.53,171_gurappanapalya
+2025-11-01,172,Madiwala,5600,167.63,172_madiwala
+2025-11-01,173,Jakkasandra,2857,123.23,173_jakkasandra
+2025-11-01,174,Hsr Layout,14180,549.58,174_hsr_layout
+2025-11-01,175,Bommanahalli,6599,274.75,175_bommanahalli
+2025-11-01,176,Btm Layout,7571,265.46,176_btm_layout
+2025-11-01,177,J.P.Nagar,5637,166.17,177_j.p.nagar
+2025-11-01,178,Sarakki,5626,170.3,178_sarakki
+2025-11-01,179,Shakambarinagar,3778,108.77,179_shakambarinagar
+2025-11-01,180,Banashankari Temple Ward,5193,112.85,180_banashankari_temple_ward
+2025-11-01,181,Kumaraswamy Layout,8418,248.83,181_kumaraswamy_layout
+2025-11-01,182,Padmanabhanagar,6045,168.61,182_padmanabhanagar
+2025-11-01,183,Chikkallasandra,5191,132.59,183_chikkallasandra
+2025-11-01,184,Uttarahalli,9449,307.05,184_uttarahalli
+2025-11-01,185,Yelachenahalli,6928,178.4,185_yelachenahalli
+2025-11-01,186,Jaraganahalli,3058,80.39,186_jaraganahalli
+2025-11-01,187,Puttenahalli,4672,147.36,187_puttenahalli
+2025-11-01,188,Bilekahalli,4407,242.97,188_bilekahalli
+2025-11-01,189,Hongasandra,8405,351.94,189_hongasandra
+2025-11-01,190,Mangammanapalya,3323,91.68,190_mangammanapalya
+2025-11-01,191,Singasandra,4302,157.84,191_singasandra
+2025-11-01,191,Singsandra,1103,43.13,191_singsandra
+2025-11-01,192,Begur,7187,338.61,192_begur
+2025-11-01,193,Arakere,10080,345.07,193_arakere
+2025-11-01,194,Gottigere,4294,97.19,194_gottigere
+2025-11-01,195,Konanakunte,10255,285.43,195_konanakunte
+2025-11-01,196,Anjanapura,9395,314.53,196_anjanapura
+2025-11-01,197,Vasanthapura,4266,133.8,197_vasanthapura
+2025-11-01,198,Hemmigepura,5444,118.42,198_hemmigepura
+2025-12-01,1,Kempegowda Ward,4363,108.77,1_kempegowda_ward
+2025-12-01,2,Chowdeshwari Ward,466,56.86,2_chowdeshwari_ward
+2025-12-01,3,Attur,6610,170.05,3_attur
+2025-12-01,4,Yelahanka Satellite Town,7790,368.82,4_yelahanka_satellite_town
+2025-12-01,5,Jakkur,4000,104.34,5_jakkur
+2025-12-01,6,Thanisandra,4468,71.77,6_thanisandra
+2025-12-01,7,Byatarayanapura,9739,278.9,7_byatarayanapura
+2025-12-01,8,Kodigehalli,5441,161.8,8_kodigehalli
+2025-12-01,9,Vidyaranyapura,12952,279.54,9_vidyaranyapura
+2025-12-01,10,Doddabommasandra,1909,29.32,10_doddabommasandra
+2025-12-01,11,Kuvempunagar,4595,62.83,11_kuvempunagar
+2025-12-01,12,Shettyhalli,10004,149.56,12_shettyhalli
+2025-12-01,13,Mallasandra,4541,60.65,13_mallasandra
+2025-12-01,14,Bagalagunte,8814,208.79,14_bagalagunte
+2025-12-01,14,Sidedahalli,1623,37.82,14_sidedahalli
+2025-12-01,15,T. Dasarahalli,4591,139.27,15_t._dasarahalli
+2025-12-01,16,Jalahalli,3113,94.69,16_jalahalli
+2025-12-01,17,J.P.Park,5743,124.84,17_j.p.park
+2025-12-01,18,Radhakrishna Temple Ward,5517,95.24,18_radhakrishna_temple_ward
+2025-12-01,19,Sanjaynagar,5830,88.93,19_sanjaynagar
+2025-12-01,20,Ganganagar,3343,68.41,20_ganganagar
+2025-12-01,21,Hebbal,7489,157.48,21_hebbal
+2025-12-01,22,Vishwanathnagenahalli,3289,74.27,22_vishwanathnagenahalli
+2025-12-01,23,Nagavara,9181,182.66,23_nagavara
+2025-12-01,24,Hbr Layout,8202,232.08,24_hbr_layout
+2025-12-01,25,Horamavu,14384,119.4,25_horamavu
+2025-12-01,26,Ramamurthynagar,9555,252.86,26_ramamurthynagar
+2025-12-01,27,Banasawadi,9681,278.4,27_banasawadi
+2025-12-01,28,Kammanahalli,6637,172.53,28_kammanahalli
+2025-12-01,29,Kacharakanahalli,4890,127.87,29_kacharakanahalli
+2025-12-01,30,Kadugondanahalli,5165,130.74,30_kadugondanahalli
+2025-12-01,31,Kushalnagar,3143,55.67,31_kushalnagar
+2025-12-01,32,Kavalbyrasandra,5587,102.56,32_kavalbyrasandra
+2025-12-01,33,Manorayanapalya,2706,59.9,33_manorayanapalya
+2025-12-01,34,Gangenahalli,2324,48.46,34_gangenahalli
+2025-12-01,35,Aramane Nagar,2971,76.83,35_aramane_nagar
+2025-12-01,36,Mathikere,4153,86.95,36_mathikere
+2025-12-01,37,Yeshwanthpur,3220,59.42,37_yeshwanthpur
+2025-12-01,38,H.M.T,3679,136.89,38_h.m.t
+2025-12-01,39,Chokkasandra,5827,126.47,39_chokkasandra
+2025-12-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2025-12-01,41,Peenya Industrial Area,9457,223.06,41_peenya_industrial_area
+2025-12-01,42,Lakshmidevinagar,5151,106.71,42_lakshmidevinagar
+2025-12-01,43,Nandini Layout,6462,140.07,43_nandini_layout
+2025-12-01,44,Marappanahalli,4444,114.06,44_marappanahalli
+2025-12-01,45,Malleshwaram,3656,106.15,45_malleshwaram
+2025-12-01,46,Jayachamarajendra Nagar,5333,186.94,46_jayachamarajendra_nagar
+2025-12-01,47,Devarajeevanahalli,3764,79.26,47_devarajeevanahalli
+2025-12-01,48,Muneshwaranagar,2193,35.97,48_muneshwaranagar
+2025-12-01,49,Lingarajapura,5749,94.67,49_lingarajapura
+2025-12-01,50,Benniganahalli,5861,378.15,50_benniganahalli
+2025-12-01,51,Vijinapura,6321,125.4,51_vijinapura
+2025-12-01,52,K.R.Puram,8923,177.06,52_k.r.puram
+2025-12-01,53,Basavanapura,8570,206.72,53_basavanapura
+2025-12-01,54,Hoodi,5288,333.7,54_hoodi
+2025-12-01,55,Devasandra,3322,81.56,55_devasandra
+2025-12-01,56,A. Narayanapura,8431,222.25,56_a._narayanapura
+2025-12-01,57,C.V. Ramannagar,3289,82.23,57_c.v._ramannagar
+2025-12-01,58,Hosathippasandra,6024,148.97,58_hosathippasandra
+2025-12-01,59,Maruthiseva Nagar,5586,152.75,59_maruthiseva_nagar
+2025-12-01,60,Sagayapuram,4272,93.08,60_sagayapuram
+2025-12-01,61,S.K. Garden,2882,77.51,61_s.k._garden
+2025-12-01,62,Ramaswamy Palya,3128,75.08,62_ramaswamy_palya
+2025-12-01,63,Jayamahal,3081,121.62,63_jayamahal
+2025-12-01,64,Rajamahal,3698,88.25,64_rajamahal
+2025-12-01,65,Kadumalleshwara,5613,153.67,65_kadumalleshwara
+2025-12-01,66,Subramanyanagar,4288,117.45,66_subramanyanagar
+2025-12-01,67,Nagapura,5804,170.04,67_nagapura
+2025-12-01,68,Mahalakshmipuram,5105,118.75,68_mahalakshmipuram
+2025-12-01,69,Laggere,10206,231.43,69_laggere
+2025-12-01,70,Rajagopalanagar,8344,186.01,70_rajagopalanagar
+2025-12-01,71,Hegganahalli,8665,225.37,71_hegganahalli
+2025-12-01,72,Herohalli,11425,219.5,72_herohalli
+2025-12-01,73,Kottigepalya,8503,191.19,73_kottigepalya
+2025-12-01,74,Shakthiganapathi Nagar,6108,150.51,74_shakthiganapathi_nagar
+2025-12-01,75,Shankaramata,5215,140.99,75_shankaramata
+2025-12-01,76,Gayathrinagar,4379,109.88,76_gayathrinagar
+2025-12-01,77,Dattathreya Temple,4480,113.2,77_dattathreya_temple
+2025-12-01,78,Pulikeshinagar,3612,117.74,78_pulikeshinagar
+2025-12-01,79,Sarvagnanagar,3431,76.81,79_sarvagnanagar
+2025-12-01,80,Hoysalanagar,5457,148.48,80_hoysalanagar
+2025-12-01,81,Vignananagar,7152,200.97,81_vignananagar
+2025-12-01,82,Garudacharpalya,4375,186.5,82_garudacharpalya
+2025-12-01,83,Kadugodi,1060,51.9,83_kadugodi
+2025-12-01,84,Hagadooru,2021,102.71,84_hagadooru
+2025-12-01,85,Doddanekkundi,5729,323.85,85_doddanekkundi
+2025-12-01,85,Varthur,2151,92.63,85_varthur
+2025-12-01,86,Marathalli,4734,176.98,86_marathalli
+2025-12-01,87,Hal Airport,4380,92.19,87_hal_airport
+2025-12-01,88,Jeevanbhimanagar,5997,147.8,88_jeevanbhimanagar
+2025-12-01,89,Jogupalya,4068,126.35,89_jogupalya
+2025-12-01,90,Ulsoor,5615,306.77,90_ulsoor
+2025-12-01,91,Bharathinagar,2246,102.5,91_bharathinagar
+2025-12-01,92,Shivajinagar,5159,210.98,92_shivajinagar
+2025-12-01,93,Vasanthnagar,3738,266.29,93_vasanthnagar
+2025-12-01,94,Gandhinagar,4783,373.86,94_gandhinagar
+2025-12-01,95,Subhashnagar,3090,64.61,95_subhashnagar
+2025-12-01,96,Okalipuram,3420,148.4,96_okalipuram
+2025-12-01,97,Dayanandanagar,3501,81.88,97_dayanandanagar
+2025-12-01,98,Prakashnagar,3076,79.8,98_prakashnagar
+2025-12-01,99,Rajajinagar,3945,109.53,99_rajajinagar
+2025-12-01,100,Basaveshwaranagar,5771,157.76,100_basaveshwaranagar
+2025-12-01,101,Kamakshipalya,3685,88.59,101_kamakshipalya
+2025-12-01,102,Vrushabhavathi Nagar,4175,92.75,102_vrushabhavathi_nagar
+2025-12-01,103,Kaveripura,5039,91.5,103_kaveripura
+2025-12-01,104,Govindrajnagara,2914,64.82,104_govindrajnagara
+2025-12-01,105,Agrahara Dasarahalli,3214,89.66,105_agrahara_dasarahalli
+2025-12-01,106,Dr. Rajkumar Ward,2471,78.15,106_dr._rajkumar_ward
+2025-12-01,107,Shivanagar,2455,84.9,107_shivanagar
+2025-12-01,108,Srirammandira Ward,4679,116.45,108_srirammandira_ward
+2025-12-01,109,Chikpet,5617,111.46,109_chikpet
+2025-12-01,110,Sampangiramnagar,3020,130.7,110_sampangiramnagar
+2025-12-01,111,Shanthala Nagar,3776,224.88,111_shanthala_nagar
+2025-12-01,112,Dommalur,4788,201.7,112_dommalur
+2025-12-01,113,Konena Agrahara,3943,128.91,113_konena_agrahara
+2025-12-01,114,Agaram,2928,154.66,114_agaram
+2025-12-01,115,Vannarpet,5167,105.54,115_vannarpet
+2025-12-01,116,Neelasandra,2650,61.44,116_neelasandra
+2025-12-01,117,Shanthinagar,6213,246.62,117_shanthinagar
+2025-12-01,118,Sudamnagar,5146,101.25,118_sudamnagar
+2025-12-01,119,Dharmarayaswamy Temple Ward,4988,95.02,119_dharmarayaswamy_temple_ward
+2025-12-01,120,Cottonpet,3078,64.81,120_cottonpet
+2025-12-01,121,Binnypet,4577,98.56,121_binnypet
+2025-12-01,122,Kempapura Agrahara,3939,85.78,122_kempapura_agrahara
+2025-12-01,123,Vijaynagar,3635,84.97,123_vijaynagar
+2025-12-01,124,Hosahalli,4517,108.25,124_hosahalli
+2025-12-01,125,Marenahalli,3424,83.52,125_marenahalli
+2025-12-01,126,Maruthi Mandira Ward,4024,88.05,126_maruthi_mandira_ward
+2025-12-01,127,Moodalapalya,5878,118.08,127_moodalapalya
+2025-12-01,128,Nagarabhavi,10914,252.54,128_nagarabhavi
+2025-12-01,129,Jnanabharathi Ward,13945,327.01,129_jnanabharathi_ward
+2025-12-01,130,Ullalu,9347,188.31,130_ullalu
+2025-12-01,131,Nayandanahalli,4391,115.58,131_nayandanahalli
+2025-12-01,132,Attiguppe,5491,154.86,132_attiguppe
+2025-12-01,133,Hampinagar,3034,75.19,133_hampinagar
+2025-12-01,134,Bapujinagar,4483,129.91,134_bapujinagar
+2025-12-01,135,Padarayanapura,2031,69.19,135_padarayanapura
+2025-12-01,136,Jagareevanram Nagar,4825,126.42,136_jagareevanram_nagar
+2025-12-01,137,Rayapuram,3456,76.35,137_rayapuram
+2025-12-01,138,Chalavadipalya,2389,52.25,138_chalavadipalya
+2025-12-01,139,K.R. Market,2929,53.29,139_k.r._market
+2025-12-01,140,Chamrajpet,4780,167.55,140_chamrajpet
+2025-12-01,141,Azadnagar,4032,105.12,141_azadnagar
+2025-12-01,142,Sunkenahalli,2898,63.59,142_sunkenahalli
+2025-12-01,143,Vishweshrapuram,4745,112.91,143_vishweshrapuram
+2025-12-01,144,Siddapura,4488,117.06,144_siddapura
+2025-12-01,145,Hombegowdanagar,6552,199.61,145_hombegowdanagar
+2025-12-01,146,Lakkasandra,2836,91.94,146_lakkasandra
+2025-12-01,147,Adugodi,3426,113.67,147_adugodi
+2025-12-01,148,Ejipura,4798,134.71,148_ejipura
+2025-12-01,149,Varthur,3327,148.03,149_varthur
+2025-12-01,150,Bellandur,5702,395.01,150_bellandur
+2025-12-01,151,Koramangala,7175,309.15,151_koramangala
+2025-12-01,152,Sudduguntepalya,4083,151.24,152_sudduguntepalya
+2025-12-01,153,Jayanagar,343,8.09,153_jayanagar
+2025-12-01,153,Jayangar,3655,147.52,153_jayangar
+2025-12-01,154,Basavanagudi,5810,132.12,154_basavanagudi
+2025-12-01,155,Hanumanthanagar,4146,84.42,155_hanumanthanagar
+2025-12-01,156,Srinagar,5688,133.58,156_srinagar
+2025-12-01,157,Gali Anjaneya Swamy Temple Ward,5402,125.22,157_gali_anjaneya_swamy_temple_ward
+2025-12-01,158,Deepanjali Nagar,2939,71.74,158_deepanjali_nagar
+2025-12-01,159,Kengeri,14627,281.41,159_kengeri
+2025-12-01,160,Rajarajeshwarinagar,16762,425.91,160_rajarajeshwarinagar
+2025-12-01,161,Hosakerehalli,7379,160.74,161_hosakerehalli
+2025-12-01,162,Girinagar,7747,172.82,162_girinagar
+2025-12-01,163,Katriguppe,6542,136.38,163_katriguppe
+2025-12-01,164,Vidyapeetha Ward,4763,99.32,164_vidyapeetha_ward
+2025-12-01,165,Ganeshmandira Ward,4534,111.56,165_ganeshmandira_ward
+2025-12-01,166,Karisandra,4662,116.18,166_karisandra
+2025-12-01,167,Yadiyuru,4415,101.02,167_yadiyuru
+2025-12-01,168,Pattabhiramnagar,4312,140.81,168_pattabhiramnagar
+2025-12-01,169,Byrasandra,3851,114.19,169_byrasandra
+2025-12-01,170,Jayanagar East,3890,101.01,170_jayanagar_east
+2025-12-01,171,Gurappanapalya,4064,180.16,171_gurappanapalya
+2025-12-01,172,Madiwala,5605,171.04,172_madiwala
+2025-12-01,173,Jakkasandra,2857,119.82,173_jakkasandra
+2025-12-01,174,Hsr Layout,14187,546.3,174_hsr_layout
+2025-12-01,175,Bommanahalli,6605,276.82,175_bommanahalli
+2025-12-01,176,Btm Layout,7578,257.9,176_btm_layout
+2025-12-01,177,J.P.Nagar,5638,171.22,177_j.p.nagar
+2025-12-01,178,Sarakki,5626,175.18,178_sarakki
+2025-12-01,179,Shakambarinagar,3779,107.5,179_shakambarinagar
+2025-12-01,180,Banashankari Temple Ward,5194,115.85,180_banashankari_temple_ward
+2025-12-01,181,Kumaraswamy Layout,8422,243.37,181_kumaraswamy_layout
+2025-12-01,182,Padmanabhanagar,6046,164.1,182_padmanabhanagar
+2025-12-01,183,Chikkallasandra,5191,130.46,183_chikkallasandra
+2025-12-01,184,Uttarahalli,9541,299.06,184_uttarahalli
+2025-12-01,185,Yelachenahalli,7004,180.24,185_yelachenahalli
+2025-12-01,186,Jaraganahalli,3062,77.16,186_jaraganahalli
+2025-12-01,187,Puttenahalli,4682,151.27,187_puttenahalli
+2025-12-01,188,Bilekahalli,4407,231.42,188_bilekahalli
+2025-12-01,189,Hongasandra,8435,336.52,189_hongasandra
+2025-12-01,190,Mangammanapalya,3334,88.72,190_mangammanapalya
+2025-12-01,191,Singasandra,4380,163.16,191_singasandra
+2025-12-01,191,Singsandra,1114,41.95,191_singsandra
+2025-12-01,192,Begur,7235,325.49,192_begur
+2025-12-01,193,Arakere,10083,339.73,193_arakere
+2025-12-01,194,Gottigere,4395,96.02,194_gottigere
+2025-12-01,195,Konanakunte,10265,273.6,195_konanakunte
+2025-12-01,196,Anjanapura,9623,329.99,196_anjanapura
+2025-12-01,197,Vasanthapura,4299,134.37,197_vasanthapura
+2025-12-01,198,Hemmigepura,5511,116.59,198_hemmigepura
+2026-01-01,1,Kempegowda Ward,4387,117.69,1_kempegowda_ward
+2026-01-01,2,Chowdeshwari Ward,467,73.73,2_chowdeshwari_ward
+2026-01-01,3,Attur,6710,180.15,3_attur
+2026-01-01,4,Yelahanka Satellite Town,7806,388.42,4_yelahanka_satellite_town
+2026-01-01,5,Jakkur,4041,110.53,5_jakkur
+2026-01-01,6,Thanisandra,4587,83.25,6_thanisandra
+2026-01-01,7,Byatarayanapura,9764,291.03,7_byatarayanapura
+2026-01-01,8,Kodigehalli,5461,133.56,8_kodigehalli
+2026-01-01,9,Vidyaranyapura,12955,283.48,9_vidyaranyapura
+2026-01-01,10,Doddabommasandra,1921,30.96,10_doddabommasandra
+2026-01-01,11,Kuvempunagar,4618,68.64,11_kuvempunagar
+2026-01-01,12,Shettyhalli,10606,161.36,12_shettyhalli
+2026-01-01,13,Mallasandra,4552,67.69,13_mallasandra
+2026-01-01,14,Bagalagunte,8819,230.14,14_bagalagunte
+2026-01-01,14,Sidedahalli,1628,44.26,14_sidedahalli
+2026-01-01,15,T. Dasarahalli,4596,141.74,15_t._dasarahalli
+2026-01-01,16,Jalahalli,3114,101.26,16_jalahalli
+2026-01-01,17,J.P.Park,5749,132.82,17_j.p.park
+2026-01-01,18,Radhakrishna Temple Ward,5512,95.14,18_radhakrishna_temple_ward
+2026-01-01,19,Sanjaynagar,5839,86.31,19_sanjaynagar
+2026-01-01,20,Ganganagar,3346,69.16,20_ganganagar
+2026-01-01,21,Hebbal,7503,162.97,21_hebbal
+2026-01-01,22,Vishwanathnagenahalli,3290,77.1,22_vishwanathnagenahalli
+2026-01-01,23,Nagavara,9187,188.69,23_nagavara
+2026-01-01,24,Hbr Layout,8228,250.88,24_hbr_layout
+2026-01-01,25,Horamavu,8867,131.31,25_horamavu
+2026-01-01,26,Ramamurthynagar,9501,263.41,26_ramamurthynagar
+2026-01-01,27,Banasawadi,9698,282.69,27_banasawadi
+2026-01-01,28,Kammanahalli,6635,181.25,28_kammanahalli
+2026-01-01,29,Kacharakanahalli,4898,129.97,29_kacharakanahalli
+2026-01-01,30,Kadugondanahalli,5170,131.42,30_kadugondanahalli
+2026-01-01,31,Kushalnagar,3153,54.41,31_kushalnagar
+2026-01-01,32,Kavalbyrasandra,5588,106.88,32_kavalbyrasandra
+2026-01-01,33,Manorayanapalya,2723,62.57,33_manorayanapalya
+2026-01-01,34,Gangenahalli,2324,48.76,34_gangenahalli
+2026-01-01,35,Aramane Nagar,2973,79.7,35_aramane_nagar
+2026-01-01,36,Mathikere,4154,88.1,36_mathikere
+2026-01-01,37,Yeshwanthpur,3225,64.12,37_yeshwanthpur
+2026-01-01,38,H.M.T,3683,145.14,38_h.m.t
+2026-01-01,39,Chokkasandra,5821,140.31,39_chokkasandra
+2026-01-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2026-01-01,41,Peenya Industrial Area,9839,235.95,41_peenya_industrial_area
+2026-01-01,42,Lakshmidevinagar,5155,109.43,42_lakshmidevinagar
+2026-01-01,43,Nandini Layout,6473,160.67,43_nandini_layout
+2026-01-01,44,Marappanahalli,4446,124.79,44_marappanahalli
+2026-01-01,45,Malleshwaram,3660,100.18,45_malleshwaram
+2026-01-01,46,Jayachamarajendra Nagar,5333,181.82,46_jayachamarajendra_nagar
+2026-01-01,47,Devarajeevanahalli,3779,80.36,47_devarajeevanahalli
+2026-01-01,48,Muneshwaranagar,2193,35.46,48_muneshwaranagar
+2026-01-01,49,Lingarajapura,5761,96.81,49_lingarajapura
+2026-01-01,50,Benniganahalli,5867,382.49,50_benniganahalli
+2026-01-01,51,Vijinapura,6332,129.19,51_vijinapura
+2026-01-01,52,K.R.Puram,8919,181.68,52_k.r.puram
+2026-01-01,53,Basavanapura,8585,209.68,53_basavanapura
+2026-01-01,54,Hoodi,5341,343.17,54_hoodi
+2026-01-01,55,Devasandra,3343,87.26,55_devasandra
+2026-01-01,56,A. Narayanapura,8443,232.28,56_a._narayanapura
+2026-01-01,57,C.V. Ramannagar,3299,84.02,57_c.v._ramannagar
+2026-01-01,58,Hosathippasandra,6023,153.73,58_hosathippasandra
+2026-01-01,59,Maruthiseva Nagar,5598,165.88,59_maruthiseva_nagar
+2026-01-01,60,Sagayapuram,4276,94.15,60_sagayapuram
+2026-01-01,61,S.K. Garden,2881,78.06,61_s.k._garden
+2026-01-01,62,Ramaswamy Palya,3131,77.48,62_ramaswamy_palya
+2026-01-01,63,Jayamahal,3084,124.28,63_jayamahal
+2026-01-01,64,Rajamahal,3701,90.75,64_rajamahal
+2026-01-01,65,Kadumalleshwara,5615,153.16,65_kadumalleshwara
+2026-01-01,66,Subramanyanagar,4290,124.53,66_subramanyanagar
+2026-01-01,67,Nagapura,5811,177.85,67_nagapura
+2026-01-01,68,Mahalakshmipuram,5111,126.27,68_mahalakshmipuram
+2026-01-01,69,Laggere,10202,245.21,69_laggere
+2026-01-01,70,Rajagopalanagar,8376,196.05,70_rajagopalanagar
+2026-01-01,71,Hegganahalli,8670,235.85,71_hegganahalli
+2026-01-01,72,Herohalli,11502,240.11,72_herohalli
+2026-01-01,73,Kottigepalya,8519,207.74,73_kottigepalya
+2026-01-01,74,Shakthiganapathi Nagar,6109,160.04,74_shakthiganapathi_nagar
+2026-01-01,75,Shankaramata,5216,150.58,75_shankaramata
+2026-01-01,76,Gayathrinagar,4381,112.89,76_gayathrinagar
+2026-01-01,77,Dattathreya Temple,4485,115.72,77_dattathreya_temple
+2026-01-01,78,Pulikeshinagar,3629,116.21,78_pulikeshinagar
+2026-01-01,79,Sarvagnanagar,3425,78.6,79_sarvagnanagar
+2026-01-01,80,Hoysalanagar,5458,158.68,80_hoysalanagar
+2026-01-01,81,Vignananagar,7166,210.25,81_vignananagar
+2026-01-01,82,Garudacharpalya,4379,182.54,82_garudacharpalya
+2026-01-01,83,Kadugodi,1101,52.08,83_kadugodi
+2026-01-01,84,Hagadooru,2020,105.51,84_hagadooru
+2026-01-01,85,Doddanekkundi,5762,322.57,85_doddanekkundi
+2026-01-01,85,Varthur,2181,74.84,85_varthur
+2026-01-01,86,Marathalli,4747,176.7,86_marathalli
+2026-01-01,87,Hal Airport,4377,95.12,87_hal_airport
+2026-01-01,88,Jeevanbhimanagar,5993,151.37,88_jeevanbhimanagar
+2026-01-01,89,Jogupalya,4062,129.09,89_jogupalya
+2026-01-01,90,Ulsoor,5626,323.7,90_ulsoor
+2026-01-01,91,Bharathinagar,2250,95.19,91_bharathinagar
+2026-01-01,92,Shivajinagar,5168,208.01,92_shivajinagar
+2026-01-01,93,Vasanthnagar,3747,277.57,93_vasanthnagar
+2026-01-01,94,Gandhinagar,4789,360.6,94_gandhinagar
+2026-01-01,95,Subhashnagar,3090,63.3,95_subhashnagar
+2026-01-01,96,Okalipuram,3420,122.3,96_okalipuram
+2026-01-01,97,Dayanandanagar,3501,85.37,97_dayanandanagar
+2026-01-01,98,Prakashnagar,3077,80.57,98_prakashnagar
+2026-01-01,99,Rajajinagar,3952,117.26,99_rajajinagar
+2026-01-01,100,Basaveshwaranagar,5774,170.22,100_basaveshwaranagar
+2026-01-01,101,Kamakshipalya,3686,96.59,101_kamakshipalya
+2026-01-01,102,Vrushabhavathi Nagar,4182,99.92,102_vrushabhavathi_nagar
+2026-01-01,103,Kaveripura,5040,105.76,103_kaveripura
+2026-01-01,104,Govindrajnagara,2917,74.71,104_govindrajnagara
+2026-01-01,105,Agrahara Dasarahalli,3216,95.94,105_agrahara_dasarahalli
+2026-01-01,106,Dr. Rajkumar Ward,2471,80.42,106_dr._rajkumar_ward
+2026-01-01,107,Shivanagar,2457,85.8,107_shivanagar
+2026-01-01,108,Srirammandira Ward,4679,120.08,108_srirammandira_ward
+2026-01-01,109,Chikpet,5621,114.19,109_chikpet
+2026-01-01,110,Sampangiramnagar,3022,133.74,110_sampangiramnagar
+2026-01-01,111,Shanthala Nagar,3779,226.62,111_shanthala_nagar
+2026-01-01,112,Dommalur,4798,207.72,112_dommalur
+2026-01-01,113,Konena Agrahara,3942,131.94,113_konena_agrahara
+2026-01-01,114,Agaram,2926,153.52,114_agaram
+2026-01-01,115,Vannarpet,5167,107.23,115_vannarpet
+2026-01-01,116,Neelasandra,2652,60.85,116_neelasandra
+2026-01-01,117,Shanthinagar,6219,245.07,117_shanthinagar
+2026-01-01,118,Sudamnagar,5149,100.08,118_sudamnagar
+2026-01-01,119,Dharmarayaswamy Temple Ward,4996,99.9,119_dharmarayaswamy_temple_ward
+2026-01-01,120,Cottonpet,3086,64.71,120_cottonpet
+2026-01-01,121,Binnypet,4581,98.66,121_binnypet
+2026-01-01,122,Kempapura Agrahara,3954,86.15,122_kempapura_agrahara
+2026-01-01,123,Vijaynagar,3639,89.2,123_vijaynagar
+2026-01-01,124,Hosahalli,4520,111.8,124_hosahalli
+2026-01-01,125,Marenahalli,3427,92.13,125_marenahalli
+2026-01-01,126,Maruthi Mandira Ward,4025,98.37,126_maruthi_mandira_ward
+2026-01-01,127,Moodalapalya,5881,127.39,127_moodalapalya
+2026-01-01,128,Nagarabhavi,10945,264.21,128_nagarabhavi
+2026-01-01,129,Jnanabharathi Ward,13977,344.51,129_jnanabharathi_ward
+2026-01-01,130,Ullalu,9406,201.94,130_ullalu
+2026-01-01,131,Nayandanahalli,4397,116.07,131_nayandanahalli
+2026-01-01,132,Attiguppe,5495,159.63,132_attiguppe
+2026-01-01,133,Hampinagar,3035,80.59,133_hampinagar
+2026-01-01,134,Bapujinagar,4489,131.23,134_bapujinagar
+2026-01-01,135,Padarayanapura,2032,70.94,135_padarayanapura
+2026-01-01,136,Jagareevanram Nagar,4827,126.27,136_jagareevanram_nagar
+2026-01-01,137,Rayapuram,3456,77.67,137_rayapuram
+2026-01-01,138,Chalavadipalya,2389,51.11,138_chalavadipalya
+2026-01-01,139,K.R. Market,2931,55.6,139_k.r._market
+2026-01-01,140,Chamrajpet,4780,171.52,140_chamrajpet
+2026-01-01,141,Azadnagar,4033,111.27,141_azadnagar
+2026-01-01,142,Sunkenahalli,2900,66.85,142_sunkenahalli
+2026-01-01,143,Vishweshrapuram,4749,116.83,143_vishweshrapuram
+2026-01-01,144,Siddapura,4484,115.55,144_siddapura
+2026-01-01,145,Hombegowdanagar,6557,202.17,145_hombegowdanagar
+2026-01-01,146,Lakkasandra,2836,94.21,146_lakkasandra
+2026-01-01,147,Adugodi,3426,107.62,147_adugodi
+2026-01-01,148,Ejipura,4799,139.84,148_ejipura
+2026-01-01,149,Varthur,3327,159.59,149_varthur
+2026-01-01,150,Bellandur,5923,406.06,150_bellandur
+2026-01-01,151,Koramangala,7184,312.87,151_koramangala
+2026-01-01,152,Sudduguntepalya,4081,148.49,152_sudduguntepalya
+2026-01-01,153,Jayanagar,344,8.54,153_jayanagar
+2026-01-01,153,Jayangar,3657,156.52,153_jayangar
+2026-01-01,154,Basavanagudi,5814,139.28,154_basavanagudi
+2026-01-01,155,Hanumanthanagar,4146,90.32,155_hanumanthanagar
+2026-01-01,156,Srinagar,5692,144.54,156_srinagar
+2026-01-01,157,Gali Anjaneya Swamy Temple Ward,5408,131.88,157_gali_anjaneya_swamy_temple_ward
+2026-01-01,158,Deepanjali Nagar,2940,79.25,158_deepanjali_nagar
+2026-01-01,159,Kengeri,14713,313.41,159_kengeri
+2026-01-01,160,Rajarajeshwarinagar,16871,455.74,160_rajarajeshwarinagar
+2026-01-01,161,Hosakerehalli,7386,169.75,161_hosakerehalli
+2026-01-01,162,Girinagar,7752,185.78,162_girinagar
+2026-01-01,163,Katriguppe,6543,140.17,163_katriguppe
+2026-01-01,164,Vidyapeetha Ward,4766,108.6,164_vidyapeetha_ward
+2026-01-01,165,Ganeshmandira Ward,4562,114.68,165_ganeshmandira_ward
+2026-01-01,166,Karisandra,4668,121.32,166_karisandra
+2026-01-01,167,Yadiyuru,4417,109.13,167_yadiyuru
+2026-01-01,168,Pattabhiramnagar,4317,139.9,168_pattabhiramnagar
+2026-01-01,169,Byrasandra,3852,118.44,169_byrasandra
+2026-01-01,170,Jayanagar East,3890,101.58,170_jayanagar_east
+2026-01-01,171,Gurappanapalya,4065,180.04,171_gurappanapalya
+2026-01-01,172,Madiwala,5606,173.73,172_madiwala
+2026-01-01,173,Jakkasandra,2858,128.9,173_jakkasandra
+2026-01-01,174,Hsr Layout,14194,558.09,174_hsr_layout
+2026-01-01,175,Bommanahalli,6615,291.78,175_bommanahalli
+2026-01-01,176,Btm Layout,7581,272.68,176_btm_layout
+2026-01-01,177,J.P.Nagar,5646,172.48,177_j.p.nagar
+2026-01-01,178,Sarakki,5627,171.08,178_sarakki
+2026-01-01,179,Shakambarinagar,3786,109.53,179_shakambarinagar
+2026-01-01,180,Banashankari Temple Ward,5196,116.02,180_banashankari_temple_ward
+2026-01-01,181,Kumaraswamy Layout,8441,249.17,181_kumaraswamy_layout
+2026-01-01,182,Padmanabhanagar,6048,172.02,182_padmanabhanagar
+2026-01-01,183,Chikkallasandra,5195,132.7,183_chikkallasandra
+2026-01-01,184,Uttarahalli,9612,308.56,184_uttarahalli
+2026-01-01,185,Yelachenahalli,7046,189.74,185_yelachenahalli
+2026-01-01,186,Jaraganahalli,3065,81.25,186_jaraganahalli
+2026-01-01,187,Puttenahalli,4699,149.01,187_puttenahalli
+2026-01-01,188,Bilekahalli,4409,232.17,188_bilekahalli
+2026-01-01,189,Hongasandra,8455,348.85,189_hongasandra
+2026-01-01,190,Mangammanapalya,3353,97.11,190_mangammanapalya
+2026-01-01,191,Singasandra,4498,172.63,191_singasandra
+2026-01-01,191,Singsandra,1134,45.02,191_singsandra
+2026-01-01,192,Begur,7315,344.58,192_begur
+2026-01-01,193,Arakere,10104,343.38,193_arakere
+2026-01-01,194,Gottigere,4453,102.51,194_gottigere
+2026-01-01,195,Konanakunte,10296,278.2,195_konanakunte
+2026-01-01,196,Anjanapura,9774,384.25,196_anjanapura
+2026-01-01,197,Vasanthapura,4295,140.16,197_vasanthapura
+2026-01-01,198,Hemmigepura,5619,132.14,198_hemmigepura
+2026-02-01,1,Kempegowda Ward,4402,117.13,1_kempegowda_ward
+2026-02-01,2,Chowdeshwari Ward,467,74.08,2_chowdeshwari_ward
+2026-02-01,3,Attur,6752,175.66,3_attur
+2026-02-01,4,Yelahanka Satellite Town,7812,375.98,4_yelahanka_satellite_town
+2026-02-01,5,Jakkur,4121,113.5,5_jakkur
+2026-02-01,6,Thanisandra,4744,87.81,6_thanisandra
+2026-02-01,7,Byatarayanapura,9775,283.75,7_byatarayanapura
+2026-02-01,8,Kodigehalli,5475,138.01,8_kodigehalli
+2026-02-01,9,Vidyaranyapura,12959,290.57,9_vidyaranyapura
+2026-02-01,10,Doddabommasandra,1921,30.79,10_doddabommasandra
+2026-02-01,11,Kuvempunagar,4627,67.21,11_kuvempunagar
+2026-02-01,12,Shettyhalli,11223,164.51,12_shettyhalli
+2026-02-01,13,Mallasandra,4561,70.47,13_mallasandra
+2026-02-01,14,Bagalagunte,8833,227.13,14_bagalagunte
+2026-02-01,14,Sidedahalli,1629,40.3,14_sidedahalli
+2026-02-01,15,T. Dasarahalli,4600,144.18,15_t._dasarahalli
+2026-02-01,16,Jalahalli,3115,99.08,16_jalahalli
+2026-02-01,17,J.P.Park,5749,126.2,17_j.p.park
+2026-02-01,18,Radhakrishna Temple Ward,5513,95.5,18_radhakrishna_temple_ward
+2026-02-01,19,Sanjaynagar,5839,89.56,19_sanjaynagar
+2026-02-01,20,Ganganagar,3348,70.99,20_ganganagar
+2026-02-01,21,Hebbal,7510,168.9,21_hebbal
+2026-02-01,22,Vishwanathnagenahalli,3290,79.89,22_vishwanathnagenahalli
+2026-02-01,23,Nagavara,9242,190.44,23_nagavara
+2026-02-01,24,Hbr Layout,8240,248.58,24_hbr_layout
+2026-02-01,25,Horamavu,15565,140.77,25_horamavu
+2026-02-01,26,Ramamurthynagar,9565,263.18,26_ramamurthynagar
+2026-02-01,27,Banasawadi,9709,281.62,27_banasawadi
+2026-02-01,28,Kammanahalli,6636,180.3,28_kammanahalli
+2026-02-01,29,Kacharakanahalli,4901,127.88,29_kacharakanahalli
+2026-02-01,30,Kadugondanahalli,5173,130.57,30_kadugondanahalli
+2026-02-01,31,Kushalnagar,3147,55.17,31_kushalnagar
+2026-02-01,32,Kavalbyrasandra,5589,117.6,32_kavalbyrasandra
+2026-02-01,33,Manorayanapalya,2727,64.11,33_manorayanapalya
+2026-02-01,34,Gangenahalli,2324,50.41,34_gangenahalli
+2026-02-01,35,Aramane Nagar,2974,81.17,35_aramane_nagar
+2026-02-01,36,Mathikere,4155,87.56,36_mathikere
+2026-02-01,37,Yeshwanthpur,3234,60.68,37_yeshwanthpur
+2026-02-01,38,H.M.T,3689,140.26,38_h.m.t
+2026-02-01,39,Chokkasandra,5831,134.79,39_chokkasandra
+2026-02-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2026-02-01,41,Peenya Industrial Area,10317,245.51,41_peenya_industrial_area
+2026-02-01,42,Lakshmidevinagar,5159,109.4,42_lakshmidevinagar
+2026-02-01,43,Nandini Layout,6475,161.69,43_nandini_layout
+2026-02-01,44,Marappanahalli,4447,119.62,44_marappanahalli
+2026-02-01,45,Malleshwaram,3662,99.96,45_malleshwaram
+2026-02-01,46,Jayachamarajendra Nagar,5333,184.56,46_jayachamarajendra_nagar
+2026-02-01,47,Devarajeevanahalli,3783,79.63,47_devarajeevanahalli
+2026-02-01,48,Muneshwaranagar,2190,35.16,48_muneshwaranagar
+2026-02-01,49,Lingarajapura,5765,96.48,49_lingarajapura
+2026-02-01,50,Benniganahalli,5871,370.95,50_benniganahalli
+2026-02-01,51,Vijinapura,6335,126.18,51_vijinapura
+2026-02-01,52,K.R.Puram,8926,179.82,52_k.r.puram
+2026-02-01,53,Basavanapura,8645,206.04,53_basavanapura
+2026-02-01,54,Hoodi,5411,356.83,54_hoodi
+2026-02-01,55,Devasandra,3345,88.46,55_devasandra
+2026-02-01,56,A. Narayanapura,8448,230.81,56_a._narayanapura
+2026-02-01,57,C.V. Ramannagar,3308,80.67,57_c.v._ramannagar
+2026-02-01,58,Hosathippasandra,6025,148.47,58_hosathippasandra
+2026-02-01,59,Maruthiseva Nagar,5595,158.41,59_maruthiseva_nagar
+2026-02-01,60,Sagayapuram,4269,93.65,60_sagayapuram
+2026-02-01,61,S.K. Garden,2879,76.72,61_s.k._garden
+2026-02-01,62,Ramaswamy Palya,3131,77.65,62_ramaswamy_palya
+2026-02-01,63,Jayamahal,3085,124.95,63_jayamahal
+2026-02-01,64,Rajamahal,3702,91.6,64_rajamahal
+2026-02-01,65,Kadumalleshwara,5615,155.63,65_kadumalleshwara
+2026-02-01,66,Subramanyanagar,4290,120.56,66_subramanyanagar
+2026-02-01,67,Nagapura,5811,177.04,67_nagapura
+2026-02-01,68,Mahalakshmipuram,5111,127.37,68_mahalakshmipuram
+2026-02-01,69,Laggere,10206,246.3,69_laggere
+2026-02-01,70,Rajagopalanagar,8387,192.77,70_rajagopalanagar
+2026-02-01,71,Hegganahalli,8674,235.82,71_hegganahalli
+2026-02-01,72,Herohalli,11655,241.72,72_herohalli
+2026-02-01,73,Kottigepalya,8519,205.14,73_kottigepalya
+2026-02-01,74,Shakthiganapathi Nagar,6111,155.33,74_shakthiganapathi_nagar
+2026-02-01,75,Shankaramata,5219,151.65,75_shankaramata
+2026-02-01,76,Gayathrinagar,4384,116.63,76_gayathrinagar
+2026-02-01,77,Dattathreya Temple,4485,115.7,77_dattathreya_temple
+2026-02-01,78,Pulikeshinagar,3636,119.07,78_pulikeshinagar
+2026-02-01,79,Sarvagnanagar,3425,75.06,79_sarvagnanagar
+2026-02-01,80,Hoysalanagar,5458,156.28,80_hoysalanagar
+2026-02-01,81,Vignananagar,7183,202.46,81_vignananagar
+2026-02-01,82,Garudacharpalya,4386,197.56,82_garudacharpalya
+2026-02-01,83,Kadugodi,1125,55.16,83_kadugodi
+2026-02-01,84,Hagadooru,2019,113.95,84_hagadooru
+2026-02-01,85,Doddanekkundi,5774,348.64,85_doddanekkundi
+2026-02-01,85,Varthur,2339,102.93,85_varthur
+2026-02-01,86,Marathalli,4768,180.83,86_marathalli
+2026-02-01,87,Hal Airport,4377,93.94,87_hal_airport
+2026-02-01,88,Jeevanbhimanagar,5993,147.33,88_jeevanbhimanagar
+2026-02-01,89,Jogupalya,4062,128.72,89_jogupalya
+2026-02-01,90,Ulsoor,5626,319.3,90_ulsoor
+2026-02-01,91,Bharathinagar,2250,97.45,91_bharathinagar
+2026-02-01,92,Shivajinagar,5168,208.52,92_shivajinagar
+2026-02-01,93,Vasanthnagar,3748,275.6,93_vasanthnagar
+2026-02-01,94,Gandhinagar,4789,365.36,94_gandhinagar
+2026-02-01,95,Subhashnagar,3090,61.73,95_subhashnagar
+2026-02-01,96,Okalipuram,3420,121.67,96_okalipuram
+2026-02-01,97,Dayanandanagar,3504,82.92,97_dayanandanagar
+2026-02-01,98,Prakashnagar,3077,78.85,98_prakashnagar
+2026-02-01,99,Rajajinagar,3953,116.73,99_rajajinagar
+2026-02-01,100,Basaveshwaranagar,5775,166.0,100_basaveshwaranagar
+2026-02-01,101,Kamakshipalya,3686,96.41,101_kamakshipalya
+2026-02-01,102,Vrushabhavathi Nagar,4185,100.81,102_vrushabhavathi_nagar
+2026-02-01,103,Kaveripura,5040,106.56,103_kaveripura
+2026-02-01,104,Govindrajnagara,2920,75.76,104_govindrajnagara
+2026-02-01,105,Agrahara Dasarahalli,3218,97.63,105_agrahara_dasarahalli
+2026-02-01,106,Dr. Rajkumar Ward,2471,79.95,106_dr._rajkumar_ward
+2026-02-01,107,Shivanagar,2457,91.56,107_shivanagar
+2026-02-01,108,Srirammandira Ward,4679,119.38,108_srirammandira_ward
+2026-02-01,109,Chikpet,5623,110.84,109_chikpet
+2026-02-01,110,Sampangiramnagar,3024,132.68,110_sampangiramnagar
+2026-02-01,111,Shanthala Nagar,3780,222.35,111_shanthala_nagar
+2026-02-01,112,Dommalur,4800,197.08,112_dommalur
+2026-02-01,113,Konena Agrahara,3944,127.2,113_konena_agrahara
+2026-02-01,114,Agaram,2927,161.24,114_agaram
+2026-02-01,115,Vannarpet,5168,105.36,115_vannarpet
+2026-02-01,116,Neelasandra,2654,60.8,116_neelasandra
+2026-02-01,117,Shanthinagar,6222,244.22,117_shanthinagar
+2026-02-01,118,Sudamnagar,5149,94.67,118_sudamnagar
+2026-02-01,119,Dharmarayaswamy Temple Ward,4997,96.06,119_dharmarayaswamy_temple_ward
+2026-02-01,120,Cottonpet,3089,62.25,120_cottonpet
+2026-02-01,121,Binnypet,4581,99.27,121_binnypet
+2026-02-01,122,Kempapura Agrahara,3958,88.34,122_kempapura_agrahara
+2026-02-01,123,Vijaynagar,3637,87.94,123_vijaynagar
+2026-02-01,124,Hosahalli,4521,112.1,124_hosahalli
+2026-02-01,125,Marenahalli,3432,89.33,125_marenahalli
+2026-02-01,126,Maruthi Mandira Ward,4025,101.74,126_maruthi_mandira_ward
+2026-02-01,127,Moodalapalya,5882,131.47,127_moodalapalya
+2026-02-01,128,Nagarabhavi,10961,265.6,128_nagarabhavi
+2026-02-01,129,Jnanabharathi Ward,13995,338.97,129_jnanabharathi_ward
+2026-02-01,130,Ullalu,9505,196.5,130_ullalu
+2026-02-01,131,Nayandanahalli,4404,121.22,131_nayandanahalli
+2026-02-01,132,Attiguppe,5497,164.69,132_attiguppe
+2026-02-01,133,Hampinagar,3037,78.65,133_hampinagar
+2026-02-01,134,Bapujinagar,4501,128.09,134_bapujinagar
+2026-02-01,135,Padarayanapura,2034,68.81,135_padarayanapura
+2026-02-01,136,Jagareevanram Nagar,4827,124.6,136_jagareevanram_nagar
+2026-02-01,137,Rayapuram,3456,76.04,137_rayapuram
+2026-02-01,138,Chalavadipalya,2389,51.03,138_chalavadipalya
+2026-02-01,139,K.R. Market,2931,49.64,139_k.r._market
+2026-02-01,140,Chamrajpet,4779,163.34,140_chamrajpet
+2026-02-01,141,Azadnagar,4034,101.95,141_azadnagar
+2026-02-01,142,Sunkenahalli,2902,65.71,142_sunkenahalli
+2026-02-01,143,Vishweshrapuram,4750,115.2,143_vishweshrapuram
+2026-02-01,144,Siddapura,4485,113.47,144_siddapura
+2026-02-01,145,Hombegowdanagar,6557,198.09,145_hombegowdanagar
+2026-02-01,146,Lakkasandra,2838,95.18,146_lakkasandra
+2026-02-01,147,Adugodi,3426,109.7,147_adugodi
+2026-02-01,148,Ejipura,4800,138.08,148_ejipura
+2026-02-01,149,Varthur,3327,159.44,149_varthur
+2026-02-01,150,Bellandur,6136,414.09,150_bellandur
+2026-02-01,151,Koramangala,7192,309.21,151_koramangala
+2026-02-01,152,Sudduguntepalya,4087,151.46,152_sudduguntepalya
+2026-02-01,153,Jayanagar,344,7.98,153_jayanagar
+2026-02-01,153,Jayangar,3658,154.52,153_jayangar
+2026-02-01,154,Basavanagudi,5815,136.3,154_basavanagudi
+2026-02-01,155,Hanumanthanagar,4147,87.44,155_hanumanthanagar
+2026-02-01,156,Srinagar,5692,144.61,156_srinagar
+2026-02-01,157,Gali Anjaneya Swamy Temple Ward,5408,134.29,157_gali_anjaneya_swamy_temple_ward
+2026-02-01,158,Deepanjali Nagar,2942,77.03,158_deepanjali_nagar
+2026-02-01,159,Kengeri,14749,309.2,159_kengeri
+2026-02-01,160,Rajarajeshwarinagar,16921,446.58,160_rajarajeshwarinagar
+2026-02-01,161,Hosakerehalli,7392,161.24,161_hosakerehalli
+2026-02-01,162,Girinagar,7754,181.75,162_girinagar
+2026-02-01,163,Katriguppe,6549,142.35,163_katriguppe
+2026-02-01,164,Vidyapeetha Ward,4766,104.96,164_vidyapeetha_ward
+2026-02-01,165,Ganeshmandira Ward,4567,116.66,165_ganeshmandira_ward
+2026-02-01,166,Karisandra,4671,120.01,166_karisandra
+2026-02-01,167,Yadiyuru,4417,106.36,167_yadiyuru
+2026-02-01,168,Pattabhiramnagar,4318,140.87,168_pattabhiramnagar
+2026-02-01,169,Byrasandra,3852,114.06,169_byrasandra
+2026-02-01,170,Jayanagar East,3890,101.64,170_jayanagar_east
+2026-02-01,171,Gurappanapalya,4072,184.2,171_gurappanapalya
+2026-02-01,172,Madiwala,5611,173.36,172_madiwala
+2026-02-01,173,Jakkasandra,2858,123.05,173_jakkasandra
+2026-02-01,174,Hsr Layout,14240,566.32,174_hsr_layout
+2026-02-01,175,Bommanahalli,6625,278.38,175_bommanahalli
+2026-02-01,176,Btm Layout,7586,263.36,176_btm_layout
+2026-02-01,177,J.P.Nagar,5646,172.24,177_j.p.nagar
+2026-02-01,178,Sarakki,5629,173.26,178_sarakki
+2026-02-01,179,Shakambarinagar,3786,112.68,179_shakambarinagar
+2026-02-01,180,Banashankari Temple Ward,5200,118.23,180_banashankari_temple_ward
+2026-02-01,181,Kumaraswamy Layout,8443,248.01,181_kumaraswamy_layout
+2026-02-01,182,Padmanabhanagar,6048,172.37,182_padmanabhanagar
+2026-02-01,183,Chikkallasandra,5195,130.9,183_chikkallasandra
+2026-02-01,184,Uttarahalli,9692,313.36,184_uttarahalli
+2026-02-01,185,Yelachenahalli,7077,201.7,185_yelachenahalli
+2026-02-01,186,Jaraganahalli,3069,80.99,186_jaraganahalli
+2026-02-01,187,Puttenahalli,4710,152.92,187_puttenahalli
+2026-02-01,188,Bilekahalli,4411,249.17,188_bilekahalli
+2026-02-01,189,Hongasandra,8474,352.09,189_hongasandra
+2026-02-01,190,Mangammanapalya,3378,91.11,190_mangammanapalya
+2026-02-01,191,Singasandra,4623,179.84,191_singasandra
+2026-02-01,191,Singsandra,1153,46.67,191_singsandra
+2026-02-01,192,Begur,7495,348.15,192_begur
+2026-02-01,193,Arakere,10118,357.16,193_arakere
+2026-02-01,194,Gottigere,4539,102.26,194_gottigere
+2026-02-01,195,Konanakunte,10323,295.05,195_konanakunte
+2026-02-01,196,Anjanapura,10012,398.23,196_anjanapura
+2026-02-01,197,Vasanthapura,4295,137.11,197_vasanthapura
+2026-02-01,198,Hemmigepura,5860,139.21,198_hemmigepura
+2026-03-01,1,Kempegowda Ward,4418,109.74,1_kempegowda_ward
+2026-03-01,2,Chowdeshwari Ward,467,56.01,2_chowdeshwari_ward
+2026-03-01,3,Attur,6800,171.05,3_attur
+2026-03-01,4,Yelahanka Satellite Town,7814,368.22,4_yelahanka_satellite_town
+2026-03-01,5,Jakkur,4165,110.83,5_jakkur
+2026-03-01,6,Thanisandra,4794,88.4,6_thanisandra
+2026-03-01,7,Byatarayanapura,9781,285.57,7_byatarayanapura
+2026-03-01,8,Kodigehalli,5529,130.32,8_kodigehalli
+2026-03-01,9,Vidyaranyapura,12972,274.02,9_vidyaranyapura
+2026-03-01,10,Doddabommasandra,1921,30.17,10_doddabommasandra
+2026-03-01,11,Kuvempunagar,4640,64.55,11_kuvempunagar
+2026-03-01,12,Shettyhalli,11814,180.95,12_shettyhalli
+2026-03-01,13,Mallasandra,4565,62.17,13_mallasandra
+2026-03-01,14,Bagalagunte,8844,208.85,14_bagalagunte
+2026-03-01,14,Sidedahalli,1628,40.44,14_sidedahalli
+2026-03-01,15,T. Dasarahalli,4603,133.91,15_t._dasarahalli
+2026-03-01,16,Jalahalli,3117,89.21,16_jalahalli
+2026-03-01,17,J.P.Park,5749,120.05,17_j.p.park
+2026-03-01,18,Radhakrishna Temple Ward,5513,91.1,18_radhakrishna_temple_ward
+2026-03-01,19,Sanjaynagar,5841,82.66,19_sanjaynagar
+2026-03-01,20,Ganganagar,3351,70.47,20_ganganagar
+2026-03-01,21,Hebbal,7512,160.69,21_hebbal
+2026-03-01,22,Vishwanathnagenahalli,3290,73.64,22_vishwanathnagenahalli
+2026-03-01,23,Nagavara,9267,187.37,23_nagavara
+2026-03-01,24,Hbr Layout,8252,236.07,24_hbr_layout
+2026-03-01,25,Horamavu,16181,165.27,25_horamavu
+2026-03-01,26,Ramamurthynagar,9578,245.88,26_ramamurthynagar
+2026-03-01,27,Banasawadi,9718,260.34,27_banasawadi
+2026-03-01,28,Kammanahalli,6641,167.48,28_kammanahalli
+2026-03-01,29,Kacharakanahalli,4902,120.16,29_kacharakanahalli
+2026-03-01,30,Kadugondanahalli,5174,128.6,30_kadugondanahalli
+2026-03-01,31,Kushalnagar,3147,54.1,31_kushalnagar
+2026-03-01,32,Kavalbyrasandra,5595,103.15,32_kavalbyrasandra
+2026-03-01,33,Manorayanapalya,2742,60.88,33_manorayanapalya
+2026-03-01,34,Gangenahalli,2324,47.61,34_gangenahalli
+2026-03-01,35,Aramane Nagar,2976,76.86,35_aramane_nagar
+2026-03-01,36,Mathikere,4158,87.41,36_mathikere
+2026-03-01,37,Yeshwanthpur,3239,59.3,37_yeshwanthpur
+2026-03-01,38,H.M.T,3695,136.51,38_h.m.t
+2026-03-01,39,Chokkasandra,5838,133.8,39_chokkasandra
+2026-03-01,40,Doddabidirakalu,1,0.0,40_doddabidirakalu
+2026-03-01,41,Peenya Industrial Area,10886,236.64,41_peenya_industrial_area
+2026-03-01,42,Lakshmidevinagar,5165,107.14,42_lakshmidevinagar
+2026-03-01,43,Nandini Layout,6476,151.01,43_nandini_layout
+2026-03-01,44,Marappanahalli,4451,110.91,44_marappanahalli
+2026-03-01,45,Malleshwaram,3662,98.22,45_malleshwaram
+2026-03-01,46,Jayachamarajendra Nagar,5336,178.74,46_jayachamarajendra_nagar
+2026-03-01,47,Devarajeevanahalli,3784,79.48,47_devarajeevanahalli
+2026-03-01,48,Muneshwaranagar,2190,34.67,48_muneshwaranagar
+2026-03-01,49,Lingarajapura,5774,91.75,49_lingarajapura
+2026-03-01,50,Benniganahalli,5874,361.26,50_benniganahalli
+2026-03-01,51,Vijinapura,6346,122.86,51_vijinapura
+2026-03-01,52,K.R.Puram,8953,173.05,52_k.r.puram
+2026-03-01,53,Basavanapura,8707,201.81,53_basavanapura
+2026-03-01,54,Hoodi,5427,343.15,54_hoodi
+2026-03-01,55,Devasandra,3364,84.27,55_devasandra
+2026-03-01,56,A. Narayanapura,8456,220.21,56_a._narayanapura
+2026-03-01,57,C.V. Ramannagar,3324,73.92,57_c.v._ramannagar
+2026-03-01,58,Hosathippasandra,6026,144.13,58_hosathippasandra
+2026-03-01,59,Maruthiseva Nagar,5590,158.47,59_maruthiseva_nagar
+2026-03-01,60,Sagayapuram,4268,90.41,60_sagayapuram
+2026-03-01,61,S.K. Garden,2875,74.27,61_s.k._garden
+2026-03-01,62,Ramaswamy Palya,3131,73.42,62_ramaswamy_palya
+2026-03-01,63,Jayamahal,3085,117.16,63_jayamahal
+2026-03-01,64,Rajamahal,3702,84.92,64_rajamahal
+2026-03-01,65,Kadumalleshwara,5615,146.84,65_kadumalleshwara
+2026-03-01,66,Subramanyanagar,4292,113.37,66_subramanyanagar
+2026-03-01,67,Nagapura,5814,168.34,67_nagapura
+2026-03-01,68,Mahalakshmipuram,5114,127.69,68_mahalakshmipuram
+2026-03-01,69,Laggere,10211,230.88,69_laggere
+2026-03-01,70,Rajagopalanagar,8396,181.46,70_rajagopalanagar
+2026-03-01,71,Hegganahalli,8695,219.79,71_hegganahalli
+2026-03-01,72,Herohalli,11904,246.36,72_herohalli
+2026-03-01,73,Kottigepalya,8532,199.53,73_kottigepalya
+2026-03-01,74,Shakthiganapathi Nagar,6112,149.78,74_shakthiganapathi_nagar
+2026-03-01,75,Shankaramata,5220,142.0,75_shankaramata
+2026-03-01,76,Gayathrinagar,4385,111.43,76_gayathrinagar
+2026-03-01,77,Dattathreya Temple,4485,109.83,77_dattathreya_temple
+2026-03-01,78,Pulikeshinagar,3641,119.25,78_pulikeshinagar
+2026-03-01,79,Sarvagnanagar,3370,73.15,79_sarvagnanagar
+2026-03-01,80,Hoysalanagar,5458,150.06,80_hoysalanagar
+2026-03-01,81,Vignananagar,7194,197.57,81_vignananagar
+2026-03-01,82,Garudacharpalya,4388,174.66,82_garudacharpalya
+2026-03-01,83,Kadugodi,1149,57.36,83_kadugodi
+2026-03-01,84,Hagadooru,2020,109.88,84_hagadooru
+2026-03-01,85,Doddanekkundi,5804,313.53,85_doddanekkundi
+2026-03-01,85,Varthur,2403,102.27,85_varthur
+2026-03-01,86,Marathalli,4784,156.37,86_marathalli
+2026-03-01,87,Hal Airport,4379,88.0,87_hal_airport
+2026-03-01,88,Jeevanbhimanagar,5997,140.86,88_jeevanbhimanagar
+2026-03-01,89,Jogupalya,4062,124.2,89_jogupalya
+2026-03-01,90,Ulsoor,5628,305.96,90_ulsoor
+2026-03-01,91,Bharathinagar,2252,112.97,91_bharathinagar
+2026-03-01,92,Shivajinagar,5175,211.81,92_shivajinagar
+2026-03-01,93,Vasanthnagar,3749,259.19,93_vasanthnagar
+2026-03-01,94,Gandhinagar,4789,350.94,94_gandhinagar
+2026-03-01,95,Subhashnagar,3090,61.87,95_subhashnagar
+2026-03-01,96,Okalipuram,3420,122.64,96_okalipuram
+2026-03-01,97,Dayanandanagar,3507,81.66,97_dayanandanagar
+2026-03-01,98,Prakashnagar,3078,78.84,98_prakashnagar
+2026-03-01,99,Rajajinagar,3955,108.69,99_rajajinagar
+2026-03-01,100,Basaveshwaranagar,5779,158.23,100_basaveshwaranagar
+2026-03-01,101,Kamakshipalya,3686,91.11,101_kamakshipalya
+2026-03-01,102,Vrushabhavathi Nagar,4190,96.2,102_vrushabhavathi_nagar
+2026-03-01,103,Kaveripura,5040,101.06,103_kaveripura
+2026-03-01,104,Govindrajnagara,2921,75.32,104_govindrajnagara
+2026-03-01,105,Agrahara Dasarahalli,3220,92.2,105_agrahara_dasarahalli
+2026-03-01,106,Dr. Rajkumar Ward,2471,76.88,106_dr._rajkumar_ward
+2026-03-01,107,Shivanagar,2458,85.37,107_shivanagar
+2026-03-01,108,Srirammandira Ward,4680,112.16,108_srirammandira_ward
+2026-03-01,109,Chikpet,5622,107.59,109_chikpet
+2026-03-01,110,Sampangiramnagar,3024,128.43,110_sampangiramnagar
+2026-03-01,111,Shanthala Nagar,3780,218.11,111_shanthala_nagar
+2026-03-01,112,Dommalur,4801,184.44,112_dommalur
+2026-03-01,113,Konena Agrahara,3947,121.08,113_konena_agrahara
+2026-03-01,114,Agaram,2927,136.18,114_agaram
+2026-03-01,115,Vannarpet,5168,101.91,115_vannarpet
+2026-03-01,116,Neelasandra,2655,60.54,116_neelasandra
+2026-03-01,117,Shanthinagar,6222,227.44,117_shanthinagar
+2026-03-01,118,Sudamnagar,5150,90.65,118_sudamnagar
+2026-03-01,119,Dharmarayaswamy Temple Ward,4999,96.41,119_dharmarayaswamy_temple_ward
+2026-03-01,120,Cottonpet,3090,62.9,120_cottonpet
+2026-03-01,121,Binnypet,4581,94.77,121_binnypet
+2026-03-01,122,Kempapura Agrahara,3965,85.25,122_kempapura_agrahara
+2026-03-01,123,Vijaynagar,3639,82.48,123_vijaynagar
+2026-03-01,124,Hosahalli,4521,104.46,124_hosahalli
+2026-03-01,125,Marenahalli,3433,87.54,125_marenahalli
+2026-03-01,126,Maruthi Mandira Ward,4028,98.37,126_maruthi_mandira_ward
+2026-03-01,127,Moodalapalya,5885,125.57,127_moodalapalya
+2026-03-01,128,Nagarabhavi,10971,254.74,128_nagarabhavi
+2026-03-01,129,Jnanabharathi Ward,14008,324.23,129_jnanabharathi_ward
+2026-03-01,130,Ullalu,9574,191.81,130_ullalu
+2026-03-01,131,Nayandanahalli,4405,126.93,131_nayandanahalli
+2026-03-01,132,Attiguppe,5502,165.17,132_attiguppe
+2026-03-01,133,Hampinagar,3038,77.18,133_hampinagar
+2026-03-01,134,Bapujinagar,4504,130.22,134_bapujinagar
+2026-03-01,135,Padarayanapura,2035,68.73,135_padarayanapura
+2026-03-01,136,Jagareevanram Nagar,4827,122.62,136_jagareevanram_nagar
+2026-03-01,137,Rayapuram,3456,75.61,137_rayapuram
+2026-03-01,138,Chalavadipalya,2389,50.62,138_chalavadipalya
+2026-03-01,139,K.R. Market,2930,52.42,139_k.r._market
+2026-03-01,140,Chamrajpet,4778,164.06,140_chamrajpet
+2026-03-01,141,Azadnagar,4022,108.93,141_azadnagar
+2026-03-01,142,Sunkenahalli,2902,63.4,142_sunkenahalli
+2026-03-01,143,Vishweshrapuram,4750,105.76,143_vishweshrapuram
+2026-03-01,144,Siddapura,4485,108.95,144_siddapura
+2026-03-01,145,Hombegowdanagar,6565,188.67,145_hombegowdanagar
+2026-03-01,146,Lakkasandra,2838,85.67,146_lakkasandra
+2026-03-01,147,Adugodi,3428,112.91,147_adugodi
+2026-03-01,148,Ejipura,4800,140.03,148_ejipura
+2026-03-01,149,Varthur,3327,145.63,149_varthur
+2026-03-01,150,Bellandur,6329,399.28,150_bellandur
+2026-03-01,151,Koramangala,7202,310.26,151_koramangala
+2026-03-01,152,Sudduguntepalya,4089,150.6,152_sudduguntepalya
+2026-03-01,153,Jayanagar,344,7.86,153_jayanagar
+2026-03-01,153,Jayangar,3659,137.48,153_jayangar
+2026-03-01,154,Basavanagudi,5818,132.53,154_basavanagudi
+2026-03-01,155,Hanumanthanagar,4147,87.73,155_hanumanthanagar
+2026-03-01,156,Srinagar,5692,141.35,156_srinagar
+2026-03-01,157,Gali Anjaneya Swamy Temple Ward,5408,133.31,157_gali_anjaneya_swamy_temple_ward
+2026-03-01,158,Deepanjali Nagar,2942,79.75,158_deepanjali_nagar
+2026-03-01,159,Kengeri,14794,289.48,159_kengeri
+2026-03-01,160,Rajarajeshwarinagar,17021,422.05,160_rajarajeshwarinagar
+2026-03-01,161,Hosakerehalli,7397,172.47,161_hosakerehalli
+2026-03-01,162,Girinagar,7756,178.72,162_girinagar
+2026-03-01,163,Katriguppe,6550,131.17,163_katriguppe
+2026-03-01,164,Vidyapeetha Ward,4769,97.38,164_vidyapeetha_ward
+2026-03-01,165,Ganeshmandira Ward,4568,109.01,165_ganeshmandira_ward
+2026-03-01,166,Karisandra,4671,113.42,166_karisandra
+2026-03-01,167,Yadiyuru,4417,99.77,167_yadiyuru
+2026-03-01,168,Pattabhiramnagar,4320,130.88,168_pattabhiramnagar
+2026-03-01,169,Byrasandra,3854,110.75,169_byrasandra
+2026-03-01,170,Jayanagar East,3890,97.28,170_jayanagar_east
+2026-03-01,171,Gurappanapalya,4072,187.08,171_gurappanapalya
+2026-03-01,172,Madiwala,5616,169.93,172_madiwala
+2026-03-01,173,Jakkasandra,2858,117.87,173_jakkasandra
+2026-03-01,174,Hsr Layout,14280,545.35,174_hsr_layout
+2026-03-01,175,Bommanahalli,6674,262.12,175_bommanahalli
+2026-03-01,176,Btm Layout,7593,252.5,176_btm_layout
+2026-03-01,177,J.P.Nagar,5648,162.65,177_j.p.nagar
+2026-03-01,178,Sarakki,5629,165.82,178_sarakki
+2026-03-01,179,Shakambarinagar,3787,104.31,179_shakambarinagar
+2026-03-01,180,Banashankari Temple Ward,5205,112.21,180_banashankari_temple_ward
+2026-03-01,181,Kumaraswamy Layout,8445,242.02,181_kumaraswamy_layout
+2026-03-01,182,Padmanabhanagar,6048,159.96,182_padmanabhanagar
+2026-03-01,183,Chikkallasandra,5195,120.54,183_chikkallasandra
+2026-03-01,184,Uttarahalli,9787,296.9,184_uttarahalli
+2026-03-01,185,Yelachenahalli,7105,180.07,185_yelachenahalli
+2026-03-01,186,Jaraganahalli,3074,77.46,186_jaraganahalli
+2026-03-01,187,Puttenahalli,4713,145.7,187_puttenahalli
+2026-03-01,188,Bilekahalli,4412,232.93,188_bilekahalli
+2026-03-01,189,Hongasandra,8478,328.64,189_hongasandra
+2026-03-01,190,Mangammanapalya,3380,88.99,190_mangammanapalya
+2026-03-01,191,Singasandra,4790,182.52,191_singasandra
+2026-03-01,191,Singsandra,1157,43.86,191_singsandra
+2026-03-01,192,Begur,7589,326.2,192_begur
+2026-03-01,193,Arakere,10130,336.18,193_arakere
+2026-03-01,194,Gottigere,4701,104.39,194_gottigere
+2026-03-01,195,Konanakunte,10337,283.26,195_konanakunte
+2026-03-01,196,Anjanapura,10279,398.77,196_anjanapura
+2026-03-01,197,Vasanthapura,4296,127.33,197_vasanthapura
+2026-03-01,198,Hemmigepura,6056,142.71,198_hemmigepura
